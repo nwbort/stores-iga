@@ -125,7 +125,7 @@ async def main():
         print(f"No sitemap files found matching pattern: {SITEMAP_FILES_PATTERN}")
         return
 
-    print(f"Found sitemap files: {sitemaps_files}")
+    print(f"Found sitemap files: {sitemap_files}")
     store_urls = parse_sitemaps(sitemap_files)
     print(f"Found {len(store_urls)} unique store URLs to scrape.")
     
