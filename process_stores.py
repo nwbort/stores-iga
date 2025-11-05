@@ -27,12 +27,19 @@ def parse_sitemaps(file_paths):
     namespace = {'ns': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
     for file_path in file_paths:
         try:
-            tree = ET.parse(file_path)
-            root = tree.getroot()
+            # Read the file content and strip leading/trailing whitespace to handle parsing errors
+            with open(file_path, 'r', encoding='utf-8') as f:
+                xml_content = f.read().strip()
+            
+            # Parse from the cleaned string content instead of the file directly
+            root = ET.fromstring(xml_content)
+
             for url_element in root.findall('ns:url', namespace):
                 loc_element = url_element.find('ns:loc', namespace)
                 if loc_element is not None and loc_element.text:
-                    urls.add(loc_element.text.strip())
+                    # Ignore the root /stores/ URL as it's not a specific store
+                    if loc_element.text.strip() != 'https://www.iga.com.au/stores/':
+                        urls.add(loc_element.text.strip())
         except ET.ParseError as e:
             print(f"Error parsing XML file {file_path}: {e}")
         except FileNotFoundError:
