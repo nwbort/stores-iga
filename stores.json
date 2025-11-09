@@ -16976,24 +16976,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-reservoir/",
-    "name": "IGA Reservoir",
-    "address_line_1": "66-68 Gertz Avenue",
-    "address_line_2": "Reservoir, 3073, VIC",
-    "phone": "(03) 9460 6428",
-    "directions_url": "https://maps.google.com/maps?cid=6029417740366553844",
-    "hours": {
-      "Sunday": "8:00 am - 3:00 pm",
-      "Monday": "7:30 am - 7:00 pm",
-      "Tuesday": "7:30 am - 7:00 pm",
-      "Wednesday": "7:30 am - 7:00 pm",
-      "Thursday": "7:30 am - 7:00 pm",
-      "Friday": "7:30 am - 7:00 pm",
-      "Saturday": "8:00 am - 5:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-reservoir-2/",
     "name": "IGA Reservoir",
     "address_line_1": "26-30 Edwardes St",
@@ -17015,6 +16997,24 @@
       "Deli Station",
       "Ready Meals"
     ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-reservoir/",
+    "name": "IGA Reservoir",
+    "address_line_1": "66-68 Gertz Avenue",
+    "address_line_2": "Reservoir, 3073, VIC",
+    "phone": "(03) 9460 6428",
+    "directions_url": "https://maps.google.com/maps?cid=6029417740366553844",
+    "hours": {
+      "Sunday": "8:00 am - 3:00 pm",
+      "Monday": "7:30 am - 7:00 pm",
+      "Tuesday": "7:30 am - 7:00 pm",
+      "Wednesday": "7:30 am - 7:00 pm",
+      "Thursday": "7:30 am - 7:00 pm",
+      "Friday": "7:30 am - 7:00 pm",
+      "Saturday": "8:00 am - 5:00 pm"
+    },
+    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/iga-revesby/",
