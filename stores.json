@@ -9261,7 +9261,7 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-birkdale/",
+    "url": "https://www.iga.com.au/stores/iga-birkdale/",
     "name": "IGA Local Grocer Birkdale",
     "address_line_1": "180 Birkdale Rd",
     "address_line_2": "Birkdale",
@@ -9279,7 +9279,7 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-birkdale/",
+    "url": "https://www.iga.com.au/stores/iga-local-grocer-birkdale/",
     "name": "IGA Local Grocer Birkdale",
     "address_line_1": "180 Birkdale Rd",
     "address_line_2": "Birkdale",
@@ -14864,24 +14864,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-maryborough/",
-    "name": "IGA Maryborough",
-    "address_line_1": "63 Nolan Street",
-    "address_line_2": "Maryborough, 3465, VIC",
-    "phone": "(03) 5420 3508",
-    "directions_url": "https://maps.google.com/maps?cid=11587631650732165908",
-    "hours": {
-      "Sunday": "7:00 am - 7:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/peries-iga-maryborough/",
     "name": "IGA Maryborough",
     "address_line_1": "368 Alice Street",
@@ -14903,6 +14885,24 @@
       "Fresh Flowers",
       "Ready Meals"
     ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-maryborough/",
+    "name": "IGA Maryborough",
+    "address_line_1": "63 Nolan Street",
+    "address_line_2": "Maryborough, 3465, VIC",
+    "phone": "(03) 5420 3508",
+    "directions_url": "https://maps.google.com/maps?cid=11587631650732165908",
+    "hours": {
+      "Sunday": "7:00 am - 7:00 pm",
+      "Monday": "7:00 am - 7:00 pm",
+      "Tuesday": "7:00 am - 7:00 pm",
+      "Wednesday": "7:00 am - 7:00 pm",
+      "Thursday": "7:00 am - 7:00 pm",
+      "Friday": "7:00 am - 7:00 pm",
+      "Saturday": "7:00 am - 7:00 pm"
+    },
+    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/iga-mascot/",
