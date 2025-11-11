@@ -166,9 +166,9 @@ async def main():
         print("No store data was scraped. Exiting.")
         return
         
-    # Sort the final list by store name for consistent output
-    all_stores_data.sort(key=lambda x: x.get('name', ''))
-
+    # Sort the final list by URL for consistent output
+    all_stores_data.sort(key=lambda x: x.get('url', ''))
+    
     # Save to JSON file
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(all_stores_data, f, indent=2, ensure_ascii=False)
