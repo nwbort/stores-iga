@@ -11725,28 +11725,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-llandilo/",
-    "name": "IGA Local Grocer Llandilo",
-    "address_line_1": "255 Seventh Avenue",
-    "address_line_2": "Llandilo, 2747, NSW",
-    "phone": "(02) 4777 4885",
-    "directions_url": "https://maps.google.com/maps?cid=14892279490059859226",
-    "hours": {
-      "Sunday": "8:00 am - 5:00 pm",
-      "Monday": "7:30 am - 6:30 pm",
-      "Tuesday": "7:30 am - 6:30 pm",
-      "Wednesday": "7:30 am - 6:30 pm",
-      "Thursday": "7:30 am - 6:30 pm",
-      "Friday": "7:30 am - 6:30 pm",
-      "Saturday": "7:30 am - 6:00 pm"
-    },
-    "services": [
-      "Deli Station",
-      "Fresh Flowers",
-      "Seafood"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-loganlea/",
     "name": "IGA Local Grocer Loganlea",
     "address_line_1": "1/5 Sarah St,",
@@ -14455,24 +14433,6 @@
     "address_line_2": "Maddington WA 6109",
     "phone": null,
     "directions_url": null,
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-maida-vale/",
-    "name": "IGA Maida Vale",
-    "address_line_1": "31 Maida Vale Road",
-    "address_line_2": "Maida Vale, 6057, WA",
-    "phone": "(08) 9454 7790",
-    "directions_url": "https://maps.google.com/maps?cid=13359328175015897042",
     "hours": {
       "Sunday": "7:00 am - 9:00 pm",
       "Monday": "7:00 am - 9:00 pm",
@@ -19628,6 +19588,29 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-wittenoom-road/",
+    "name": "IGA Wittenoom Road",
+    "address_line_1": "120 Wittenoom Street",
+    "address_line_2": "High Wycombe, 6057, WA",
+    "phone": "(08) 9454 2797",
+    "directions_url": "https://maps.google.com/maps?cid=12552646424064767501",
+    "hours": {
+      "Sunday": "7:00 am - 9:00 pm",
+      "Monday": "6:00 am - 9:00 pm",
+      "Tuesday": "6:00 am - 9:00 pm",
+      "Wednesday": "6:00 am - 9:00 pm",
+      "Thursday": "6:00 am - 9:00 pm",
+      "Friday": "6:00 am - 9:00 pm",
+      "Saturday": "7:00 am - 9:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Butcher",
+      "Deli Station",
+      "Ready Meals"
+    ]
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-wondall/",
     "name": "IGA Wondall",
     "address_line_1": "9/190 Radford Rd",
@@ -20639,6 +20622,29 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-xpress-apco-bairnsdale/",
+    "name": "IGA Xpress APCO Bairnsdale",
+    "address_line_1": "458 Main Street",
+    "address_line_2": "Bairnsdale, 3875, VIC",
+    "phone": "(03) 5152 5984",
+    "directions_url": "https://maps.google.com/maps?cid=16023324745918788826",
+    "hours": {
+      "Sunday": "Open 24 hours",
+      "Monday": "Open 24 hours",
+      "Tuesday": "Open 24 hours",
+      "Wednesday": "Open 24 hours",
+      "Thursday": "Open 24 hours",
+      "Friday": "Open 24 hours",
+      "Saturday": "Open 24 hours"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Deli Station",
+      "Ready Meals",
+      "Seafood"
+    ]
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-xpress-apco-newcomb/",
     "name": "IGA Xpress APCO Newcomb",
     "address_line_1": "64 Portarlington Road",
@@ -21521,27 +21527,6 @@
     },
     "services": [
       "Local Produce"
-    ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-xpress-rockingham/",
-    "name": "IGA Xpress Rockingham",
-    "address_line_1": "12 Belgravia Terrace",
-    "address_line_2": "Rockingham, 6168, WA",
-    "phone": "(08) 9529 1445",
-    "directions_url": "https://maps.google.com/maps?cid=11943156317596979849",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": [
-      "Fresh Flowers",
-      "Ready Meals"
     ]
   },
   {
@@ -24350,29 +24335,6 @@
       "Fresh Flowers",
       "Ready Meals",
       "Seafood"
-    ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/peries-iga-bowen/",
-    "name": "Peries IGA Bowen",
-    "address_line_1": "57-59 Williams Street",
-    "address_line_2": "Bowen, 4805, QLD",
-    "phone": "(07) 4786 1844",
-    "directions_url": "https://maps.google.com/maps?cid=10294011701127107866",
-    "hours": {
-      "Sunday": "7:00 am - 6:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 6:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Butcher",
-      "Deli Station",
-      "Ready Meals"
     ]
   },
   {
@@ -28515,6 +28477,29 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/the-boulevard-iga/",
+    "name": "The Boulevard IGA",
+    "address_line_1": "31 Gayton Rd",
+    "address_line_2": "City Beach, 6015, WA",
+    "phone": "(08) 9285 1909",
+    "directions_url": "https://maps.google.com/maps?cid=12633575083932708074",
+    "hours": {
+      "Sunday": "Open 24 hours",
+      "Monday": "Open 24 hours",
+      "Tuesday": "Open 24 hours",
+      "Wednesday": "Open 24 hours",
+      "Thursday": "Open 24 hours",
+      "Friday": "Open 24 hours",
+      "Saturday": "Open 24 hours"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Deli Station",
+      "Ready Meals",
+      "Seafood"
+    ]
+  },
+  {
     "url": "https://www.iga.com.au/stores/the-downs-iga/",
     "name": "The Downs IGA",
     "address_line_1": "The Downs Shopping Centre, 3 Bournemouth Crescent",
@@ -29001,28 +28986,6 @@
     "services": [
       "BBQ Chicken",
       "Fresh Flowers",
-      "Ready Meals",
-      "Seafood"
-    ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/vicsfresh-iga-sutherland/",
-    "name": "VicsFresh IGA Sutherland",
-    "address_line_1": "561 President Avenue",
-    "address_line_2": "Sutherland, 2232, NSW",
-    "phone": "(02) 9542 1724",
-    "directions_url": "https://maps.google.com/maps?cid=11171128341316364798",
-    "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
       "Ready Meals",
       "Seafood"
     ]
