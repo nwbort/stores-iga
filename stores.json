@@ -26973,6 +26973,29 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/sals-iga-belmore/",
+    "name": "Sal's IGA Belmore",
+    "address_line_1": "Cnr Canterbury Rd & Burwood Rd",
+    "address_line_2": "Belmore, 2192, NSW",
+    "phone": "(02) 8705 0880",
+    "directions_url": "https://maps.google.com/maps?cid=3477422219518968985",
+    "hours": {
+      "Sunday": "8:00 am - 8:00 pm",
+      "Monday": "8:00 am - 8:00 pm",
+      "Tuesday": "8:00 am - 8:00 pm",
+      "Wednesday": "8:00 am - 8:00 pm",
+      "Thursday": "8:00 am - 8:00 pm",
+      "Friday": "8:00 am - 8:00 pm",
+      "Saturday": "8:00 am - 8:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Butcher",
+      "Deli Station",
+      "Fresh Flowers"
+    ]
+  },
+  {
     "url": "https://www.iga.com.au/stores/salt-village-minimart/",
     "name": "Salt Village MiniMart",
     "address_line_1": "15 Bells Boulevarde",
