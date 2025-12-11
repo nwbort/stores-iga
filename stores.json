@@ -732,6 +732,29 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/boyup-brook-iga/",
+    "name": "Boyup Brook IGA",
+    "address_line_1": "13 Bridge Street",
+    "address_line_2": "Boyup Brook, 6244, WA",
+    "phone": "(08) 9765 1204",
+    "directions_url": "https://maps.google.com/maps?cid=1630236407695205565",
+    "hours": {
+      "Sunday": "9:00 am - 12:00 pm",
+      "Monday": "8:00 am - 6:00 pm",
+      "Tuesday": "8:00 am - 6:00 pm",
+      "Wednesday": "8:00 am - 6:00 pm",
+      "Thursday": "8:00 am - 6:00 pm",
+      "Friday": "8:00 am - 6:00 pm",
+      "Saturday": "8:00 am - 4:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Butcher",
+      "Ready Meals",
+      "Seafood"
+    ]
+  },
+  {
     "url": "https://www.iga.com.au/stores/branxton-iga-plus-liquor/",
     "name": "Branxton IGA Plus Liquor",
     "address_line_1": "52 Maitland Road",
@@ -852,24 +875,6 @@
       "Thursday": "7:30 am - 5:30 pm",
       "Friday": "7:30 am - 5:30 pm",
       "Saturday": "9:00 am - 12:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/campbell-town-supermarket-news-post/",
-    "name": "Campbell Town Supermarket News & Post",
-    "address_line_1": "113 High St",
-    "address_line_2": "Campbell Town, 7210, TAS",
-    "phone": "(03) 6381 1311",
-    "directions_url": "https://maps.google.com/maps?cid=14204400677166875328",
-    "hours": {
-      "Sunday": "9:00 am - 5:30 pm",
-      "Monday": "8:00 am - 6:00 pm",
-      "Tuesday": "8:00 am - 6:00 pm",
-      "Wednesday": "8:00 am - 6:00 pm",
-      "Thursday": "8:00 am - 6:00 pm",
-      "Friday": "8:00 am - 6:00 pm",
-      "Saturday": "9:00 am - 5:30 pm"
     },
     "services": []
   },
@@ -7224,28 +7229,6 @@
     },
     "services": [
       "Ready Meals"
-    ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-galston/",
-    "name": "IGA Galston",
-    "address_line_1": "Shop 2/350 Galston Road",
-    "address_line_2": "Galston, 2159, NSW",
-    "phone": "(02) 9653 1444",
-    "directions_url": "https://maps.google.com/maps?cid=4427627199102279192",
-    "hours": {
-      "Sunday": "7:00 am - 7:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": [
-      "Fresh Flowers",
-      "Ready Meals",
-      "Seafood"
     ]
   },
   {
@@ -19947,24 +19930,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-x-press-geeveston/",
-    "name": "IGA X-Press Geeveston",
-    "address_line_1": "9 Church Street",
-    "address_line_2": "Geeveston, 7116, TAS",
-    "phone": "(03) 6297 1319",
-    "directions_url": "https://maps.google.com/maps?cid=1878844012029156180",
-    "hours": {
-      "Sunday": "8:00 am - 6:00 pm",
-      "Monday": "7:30 am - 6:30 pm",
-      "Tuesday": "7:30 am - 6:30 pm",
-      "Wednesday": "7:30 am - 6:30 pm",
-      "Thursday": "7:30 am - 6:30 pm",
-      "Friday": "7:30 am - 6:30 pm",
-      "Saturday": "8:00 am - 6:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-x-press-huonville/",
     "name": "IGA X-press Huonville",
     "address_line_1": "19 Main Road",
@@ -20648,24 +20613,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-xpress-bridport/",
-    "name": "IGA Xpress Bridport",
-    "address_line_1": "83 Main St",
-    "address_line_2": "Bridport, 7262, TAS",
-    "phone": "(03) 6356 1282",
-    "directions_url": "https://maps.google.com/maps?cid=4312837965181445968",
-    "hours": {
-      "Sunday": "7:00 am - 7:00 pm",
-      "Monday": "6:00 am - 7:30 pm",
-      "Tuesday": "6:00 am - 7:30 pm",
-      "Wednesday": "6:00 am - 7:30 pm",
-      "Thursday": "6:00 am - 7:30 pm",
-      "Friday": "6:00 am - 7:30 pm",
-      "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-xpress-brunswick/",
     "name": "IGA Xpress Brunswick",
     "address_line_1": "38 Ommaney Rd",
@@ -21038,24 +20985,6 @@
       "Thursday": "7:00 am - 8:00 pm",
       "Friday": "7:00 am - 8:00 pm",
       "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-xpress-lower-plenty/",
-    "name": "IGA Xpress Lower Plenty",
-    "address_line_1": "101-105 Main Road",
-    "address_line_2": "Lower Plenty, 3093, VIC",
-    "phone": "(03) 9435 3287",
-    "directions_url": "https://maps.google.com/maps?cid=2994975085707293325",
-    "hours": {
-      "Sunday": "8:00 am - 7:00 pm",
-      "Monday": "8:00 am - 7:00 pm",
-      "Tuesday": "8:00 am - 7:00 pm",
-      "Wednesday": "8:00 am - 7:00 pm",
-      "Thursday": "8:00 am - 7:00 pm",
-      "Friday": "8:30 am - 8:00 pm",
-      "Saturday": "8:30 am - 8:00 pm"
     },
     "services": []
   },
@@ -22307,6 +22236,24 @@
       "Ready Meals",
       "Seafood"
     ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/khans-supa-iga-plus-liquor/",
+    "name": "Khan's SUPA IGA Plus Liquor",
+    "address_line_1": "104 Worrigee St",
+    "address_line_2": "Nowra, 2540, NSW",
+    "phone": "(02) 4421 5896",
+    "directions_url": "https://maps.google.com/maps?cid=9318255494995908620",
+    "hours": {
+      "Sunday": "-",
+      "Monday": "-",
+      "Tuesday": "-",
+      "Wednesday": "-",
+      "Thursday": "-",
+      "Friday": "-",
+      "Saturday": "-"
+    },
+    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/kirks-iga-guyra-plus-liquor/",
@@ -24817,6 +24764,24 @@
     "services": []
   },
   {
+    "url": "https://www.iga.com.au/stores/ravensthorpe-iga/",
+    "name": "Ravensthorpe IGA",
+    "address_line_1": "77-80 Morgan Street",
+    "address_line_2": "Ravensthorpe, 6346, WA",
+    "phone": "(08) 9838 1008",
+    "directions_url": "https://maps.google.com/maps?cid=8193037168792875256",
+    "hours": {
+      "Sunday": "8:00 am - 12:00 pm",
+      "Monday": "7:00 am - 6:00 pm",
+      "Tuesday": "7:00 am - 7:00 pm",
+      "Wednesday": "7:00 am - 6:00 pm",
+      "Thursday": "7:00 am - 7:00 pm",
+      "Friday": "7:00 am - 6:00 pm",
+      "Saturday": "7:00 am - 6:00 pm"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/redwood-park-iga/",
     "name": "Redwood Park IGA",
     "address_line_1": "414 Milne Road",
@@ -26802,29 +26767,6 @@
       "Saturday": "6:00 am - 10:00 pm"
     },
     "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/roses-iga-plus-liquor-hillston/",
-    "name": "Rose's IGA Plus Liquor Hillston",
-    "address_line_1": "152 High Street",
-    "address_line_2": "Hillston, 2675, NSW",
-    "phone": "(02) 6967 2164",
-    "directions_url": "https://maps.google.com/maps?cid=13642955162073227182",
-    "hours": {
-      "Sunday": "9:00 am - 12:00 pm",
-      "Monday": "9:00 am - 5:30 pm",
-      "Tuesday": "9:00 am - 5:30 pm",
-      "Wednesday": "9:00 am - 5:30 pm",
-      "Thursday": "9:00 am - 5:30 pm",
-      "Friday": "9:00 am - 5:30 pm",
-      "Saturday": "9:00 am - 12:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station",
-      "Ready Meals",
-      "Seafood"
-    ]
   },
   {
     "url": "https://www.iga.com.au/stores/rupanyup-iga/",

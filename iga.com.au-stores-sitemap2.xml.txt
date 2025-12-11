@@ -86,10 +86,6 @@
 		<lastmod>2024-05-06T16:04:03+10:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-bridport/</loc>
-		<lastmod>2024-05-13T10:34:10+10:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-local-grocer-thai-kee/</loc>
 		<lastmod>2024-05-13T10:43:57+10:00</lastmod>
 	</url>
