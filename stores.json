@@ -24723,29 +24723,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/queens-iga/",
-    "name": "Queens IGA",
-    "address_line_1": "79 Durlacher Street",
-    "address_line_2": "Geraldton, 6530, WA",
-    "phone": "08  9964 7044",
-    "directions_url": "https://maps.google.com/maps?cid=5829250333850476651",
-    "hours": {
-      "Sunday": "11:00 am - 5:00 pm",
-      "Monday": "8:00 am - 9:00 pm",
-      "Tuesday": "8:00 am - 9:00 pm",
-      "Wednesday": "8:00 am - 9:00 pm",
-      "Thursday": "8:00 am - 9:00 pm",
-      "Friday": "8:00 am - 9:00 pm",
-      "Saturday": "8:00 am - 5:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Barista",
-      "Butcher",
-      "Deli Station"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/quintons-iga-warrandyte/",
     "name": "Quinton's IGA Warrandyte",
     "address_line_1": "402 Warrandyte Rd",
