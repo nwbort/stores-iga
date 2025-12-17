@@ -20435,28 +20435,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-xpress-airport-west/",
-    "name": "IGA Xpress Airport West",
-    "address_line_1": "55-57 McNamara Ave",
-    "address_line_2": "Airport West, 3042, VIC",
-    "phone": "(03) 9338 3844",
-    "directions_url": "https://maps.google.com/maps?cid=6267300916885320516",
-    "hours": {
-      "Sunday": "9:00 am - 6:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": [
-      "Fresh Flowers",
-      "Ready Meals",
-      "Seafood"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-xpress-apco-bairnsdale/",
     "name": "IGA Xpress APCO Bairnsdale",
     "address_line_1": "458 Main Street",
