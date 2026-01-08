@@ -1968,29 +1968,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/donnybrook-fresh-iga/",
-    "name": "Donnybrook Fresh IGA",
-    "address_line_1": "38 South West Highway",
-    "address_line_2": "Donnybrook, 6239, WA",
-    "phone": "(08) 9731 1001",
-    "directions_url": "https://maps.google.com/maps?cid=9336068262253811595",
-    "hours": {
-      "Sunday": "7:00 am - 7:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Butcher",
-      "Deli Station",
-      "Ready Meals"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/doubleview-fresh-iga/",
     "name": "Doubleview Fresh IGA",
     "address_line_1": "187 Scarborough Beach Road",
@@ -3532,6 +3509,29 @@
       "Deli Station",
       "Fresh Flowers",
       "Ready Meals"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-batehaven/",
+    "name": "IGA Batehaven",
+    "address_line_1": "1 Corrigan Crescent",
+    "address_line_2": "Batehaven, 2536, NSW",
+    "phone": "(02) 4472 5093",
+    "directions_url": "https://maps.google.com/maps?cid=12121356590197536802",
+    "hours": {
+      "Sunday": "8:00 am - 7:00 pm",
+      "Monday": "7:00 am - 7:00 pm",
+      "Tuesday": "7:00 am - 7:00 pm",
+      "Wednesday": "7:00 am - 7:00 pm",
+      "Thursday": "7:00 am - 7:00 pm",
+      "Friday": "7:00 am - 7:00 pm",
+      "Saturday": "8:00 am - 7:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Deli Station",
+      "Ready Meals",
+      "Seafood"
     ]
   },
   {
@@ -14319,27 +14319,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-lugarno/",
-    "name": "IGA Lugarno",
-    "address_line_1": "1014A Forest Road",
-    "address_line_2": "Lugarno, 2210, NSW",
-    "phone": "(02) 9533 5133",
-    "directions_url": "https://maps.google.com/maps?cid=59163457390278005",
-    "hours": {
-      "Sunday": "8:00 am - 5:00 pm",
-      "Monday": "8:00 am - 7:00 pm",
-      "Tuesday": "8:00 am - 7:00 pm",
-      "Wednesday": "8:00 am - 7:00 pm",
-      "Thursday": "8:00 am - 7:00 pm",
-      "Friday": "8:00 am - 7:00 pm",
-      "Saturday": "8:00 am - 5:00 pm"
-    },
-    "services": [
-      "Ready Meals",
-      "Seafood"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-lyndhurst-liquor/",
     "name": "IGA Lyndhurst & Liquor",
     "address_line_1": "43 Lyndhurst Drive",
@@ -18141,6 +18120,24 @@
     "services": []
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-supa-nicks-east-mackay/",
+    "name": "IGA SUPA Nicks East Mackay",
+    "address_line_1": "Cnr Moore & Shakespeare Street",
+    "address_line_2": "Mackay, 4740, QLD",
+    "phone": "(07) 4957 3443",
+    "directions_url": "https://maps.google.com/maps?cid=2446974889038168166",
+    "hours": {
+      "Sunday": "6:00 am - 9:00 pm",
+      "Monday": "6:00 am - 9:00 pm",
+      "Tuesday": "6:00 am - 9:00 pm",
+      "Wednesday": "6:00 am - 9:00 pm",
+      "Thursday": "6:00 am - 9:00 pm",
+      "Friday": "6:00 am - 9:00 pm",
+      "Saturday": "6:00 am - 9:00 pm"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-supa-pialba/",
     "name": "IGA SUPA Pialba",
     "address_line_1": "155 Boat Harbour Drive",
@@ -18562,6 +18559,29 @@
     "services": [
       "BBQ Chicken",
       "Deli Station",
+      "Ready Meals",
+      "Seafood"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-tomakin/",
+    "name": "IGA Tomakin",
+    "address_line_1": "2158 George Bass Dr",
+    "address_line_2": "Tomakin, 2537, NSW",
+    "phone": "(02) 4471 5559",
+    "directions_url": "https://maps.google.com/maps?cid=13568533279706951410",
+    "hours": {
+      "Sunday": "7:30 am - 7:30 pm",
+      "Monday": "7:30 am - 7:30 pm",
+      "Tuesday": "7:30 am - 7:30 pm",
+      "Wednesday": "7:30 am - 7:30 pm",
+      "Thursday": "7:30 am - 7:30 pm",
+      "Friday": "7:30 am - 7:30 pm",
+      "Saturday": "7:30 am - 7:30 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Fresh Flowers",
       "Ready Meals",
       "Seafood"
     ]
@@ -19299,8 +19319,8 @@
     "phone": "(02) 9606 0276",
     "directions_url": "https://maps.google.com/maps?cid=13203111860364632365",
     "hours": {
-      "Sunday": "7:30 am - 5:30 pm",
-      "Monday": "7:00 am - 6:30 pm",
+      "Sunday": "8:00 am - 4:00 pm",
+      "Monday": "7:30 am - 6:30 pm",
       "Tuesday": "7:30 am - 6:30 pm",
       "Wednesday": "7:30 am - 6:30 pm",
       "Thursday": "7:30 am - 6:30 pm",
@@ -20393,7 +20413,7 @@
     "name": "IGA X-Press Zeehan (Pringles)",
     "address_line_1": "31 Main St",
     "address_line_2": "Zeehan, 7469, TAS",
-    "phone": "(03) 6471 6302",
+    "phone": "(03) 6471 6263",
     "directions_url": "https://maps.google.com/maps?cid=9451237020401288583",
     "hours": {
       "Sunday": "8:00 am - 6:00 pm",
@@ -24251,29 +24271,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/peries-iga-maryborough/",
-    "name": "IGA Maryborough",
-    "address_line_1": "368 Alice Street",
-    "address_line_2": "Maryborough, 4650, QLD",
-    "phone": "(07) 4121 3748",
-    "directions_url": "https://maps.google.com/maps?cid=4879309844217903007",
-    "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station",
-      "Fresh Flowers",
-      "Ready Meals"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/peries-iga-monto/",
     "name": "Peries IGA Monto",
     "address_line_1": "30 Newton St",
@@ -26490,24 +26487,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/ritchies-supa-iga-cranbourne/",
-    "name": "Ritchies SUPA IGA Cranbourne",
-    "address_line_1": "23 High Street",
-    "address_line_2": "Cranbourne, 3977, VIC",
-    "phone": "(03) 5996 1088",
-    "directions_url": "https://maps.google.com/maps?cid=15877804686028557592",
-    "hours": {
-      "Sunday": "9:00 am - 7:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/ritchies-supa-iga-dandenong/",
     "name": "Ritchies SUPA IGA Dandenong",
     "address_line_1": "141-145 Lonsdale St",
@@ -26732,29 +26711,6 @@
       "Saturday": "6:00 am - 10:00 pm"
     },
     "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/roses-iga-plus-liquor-hillston/",
-    "name": "Rose's IGA Plus Liquor Hillston",
-    "address_line_1": "152 High Street",
-    "address_line_2": "Hillston, 2675, NSW",
-    "phone": "(02) 6967 2164",
-    "directions_url": "https://maps.google.com/maps?cid=13642955162073227182",
-    "hours": {
-      "Sunday": "9:00 am - 12:00 pm",
-      "Monday": "9:00 am - 5:30 pm",
-      "Tuesday": "9:00 am - 5:30 pm",
-      "Wednesday": "9:00 am - 5:30 pm",
-      "Thursday": "9:00 am - 5:30 pm",
-      "Friday": "9:00 am - 5:30 pm",
-      "Saturday": "9:00 am - 12:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station",
-      "Ready Meals",
-      "Seafood"
-    ]
   },
   {
     "url": "https://www.iga.com.au/stores/rupanyup-iga/",
