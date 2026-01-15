@@ -10222,7 +10222,7 @@
       "Wednesday": "6:00 am - 7:00 pm",
       "Thursday": "6:00 am - 8:00 pm",
       "Friday": "6:00 am - 7:00 pm",
-      "Saturday": "8:00 am - 7:00 pm"
+      "Saturday": "7:00 am - 7:00 pm"
     },
     "services": [
       "BBQ Chicken",
@@ -12025,13 +12025,13 @@
     "phone": "(07) 5573 6614",
     "directions_url": "https://maps.google.com/maps?cid=3444239885621767382",
     "hours": {
-      "Sunday": "6:00 am - 7:30 pm",
-      "Monday": "6:00 am - 7:30 pm",
-      "Tuesday": "6:00 am - 7:30 pm",
-      "Wednesday": "6:00 am - 7:30 pm",
-      "Thursday": "6:00 am - 7:30 pm",
-      "Friday": "6:00 am - 7:30 pm",
-      "Saturday": "6:00 am - 7:30 pm"
+      "Sunday": "6:00 am - 9:00 pm",
+      "Monday": "6:00 am - 9:00 pm",
+      "Tuesday": "6:00 am - 9:00 pm",
+      "Wednesday": "6:00 am - 9:00 pm",
+      "Thursday": "6:00 am - 9:00 pm",
+      "Friday": "6:00 am - 9:00 pm",
+      "Saturday": "6:00 am - 9:00 pm"
     },
     "services": [
       "BBQ Chicken",
