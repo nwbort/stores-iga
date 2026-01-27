@@ -3,7 +3,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.iga.com.au/stores/</loc>
-		<lastmod>2026-01-15T11:17:25+11:00</lastmod>
+		<lastmod>2026-01-27T08:04:30+11:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/spanos-iga-nerang/</loc>
@@ -250,11 +250,7 @@
 		<lastmod>2023-03-09T10:54:01+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-mudgeeraba/</loc>
-		<lastmod>2023-03-09T10:54:16+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/ningaloo-harvest-iga/</loc>
+		<loc>https://www.iga.com.au/stores/iga-goodna/</loc>
 		<lastmod>2023-03-09T10:54:16+11:00</lastmod>
 	</url>
 	<url>
@@ -262,7 +258,11 @@
 		<lastmod>2023-03-09T10:54:16+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-kalbarri/</loc>
+		<loc>https://www.iga.com.au/stores/ningaloo-harvest-iga/</loc>
+		<lastmod>2023-03-09T10:54:16+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-mudgeeraba/</loc>
 		<lastmod>2023-03-09T10:54:16+11:00</lastmod>
 	</url>
 	<url>
@@ -270,7 +270,7 @@
 		<lastmod>2023-03-09T10:54:16+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-goodna/</loc>
+		<loc>https://www.iga.com.au/stores/iga-kalbarri/</loc>
 		<lastmod>2023-03-09T10:54:16+11:00</lastmod>
 	</url>
 	<url>
@@ -290,11 +290,7 @@
 		<lastmod>2023-03-09T10:54:16+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-crows-nest/</loc>
-		<lastmod>2023-03-09T10:54:29+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/moana-heights-foodland/</loc>
+		<loc>https://www.iga.com.au/stores/romeos-iga-food-hall-campbelltown/</loc>
 		<lastmod>2023-03-09T10:54:29+11:00</lastmod>
 	</url>
 	<url>
@@ -302,11 +298,7 @@
 		<lastmod>2023-03-09T10:54:29+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/romeos-iga-food-hall-campbelltown/</loc>
-		<lastmod>2023-03-09T10:54:29+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/jims-iga-thevenard/</loc>
+		<loc>https://www.iga.com.au/stores/iga-everyday-farahs-cygnet/</loc>
 		<lastmod>2023-03-09T10:54:29+11:00</lastmod>
 	</url>
 	<url>
@@ -314,11 +306,7 @@
 		<lastmod>2023-03-09T10:54:29+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-yarrabilba/</loc>
-		<lastmod>2023-03-09T10:54:29+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-everyday-farahs-cygnet/</loc>
+		<loc>https://www.iga.com.au/stores/moana-heights-foodland/</loc>
 		<lastmod>2023-03-09T10:54:29+11:00</lastmod>
 	</url>
 	<url>
@@ -330,27 +318,23 @@
 		<lastmod>2023-03-09T10:54:29+11:00</lastmod>
 	</url>
 	<url>
+		<loc>https://www.iga.com.au/stores/jims-iga-thevenard/</loc>
+		<lastmod>2023-03-09T10:54:29+11:00</lastmod>
+	</url>
+	<url>
 		<loc>https://www.iga.com.au/stores/ritchies-iga-wentworth/</loc>
 		<lastmod>2023-03-09T10:54:29+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-berowra/</loc>
-		<lastmod>2023-03-09T10:54:42+11:00</lastmod>
+		<loc>https://www.iga.com.au/stores/iga-crows-nest/</loc>
+		<lastmod>2023-03-09T10:54:29+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-central-kempsey/</loc>
-		<lastmod>2023-03-09T10:54:42+11:00</lastmod>
+		<loc>https://www.iga.com.au/stores/iga-yarrabilba/</loc>
+		<lastmod>2023-03-09T10:54:29+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/loveys-grocers-iga-gillieston-heights/</loc>
-		<lastmod>2023-03-09T10:54:42+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-sefton/</loc>
-		<lastmod>2023-03-09T10:54:42+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/port-broughton-iga/</loc>
+		<loc>https://www.iga.com.au/stores/iga-south-windsor/</loc>
 		<lastmod>2023-03-09T10:54:42+11:00</lastmod>
 	</url>
 	<url>
@@ -358,7 +342,23 @@
 		<lastmod>2023-03-09T10:54:42+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-collaroy-plateau/</loc>
+		<loc>https://www.iga.com.au/stores/loveys-grocers-iga-gillieston-heights/</loc>
+		<lastmod>2023-03-09T10:54:42+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-central-kempsey/</loc>
+		<lastmod>2023-03-09T10:54:42+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/port-broughton-iga/</loc>
+		<lastmod>2023-03-09T10:54:42+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-heathridge/</loc>
+		<lastmod>2023-03-09T10:54:42+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-sefton/</loc>
 		<lastmod>2023-03-09T10:54:42+11:00</lastmod>
 	</url>
 	<url>
@@ -378,11 +378,11 @@
 		<lastmod>2023-03-09T10:54:42+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-heathridge/</loc>
+		<loc>https://www.iga.com.au/stores/iga-berowra/</loc>
 		<lastmod>2023-03-09T10:54:42+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-south-windsor/</loc>
+		<loc>https://www.iga.com.au/stores/iga-collaroy-plateau/</loc>
 		<lastmod>2023-03-09T10:54:42+11:00</lastmod>
 	</url>
 	<url>
@@ -522,35 +522,7 @@
 		<lastmod>2023-03-09T10:55:22+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/romeos-iga-food-hall-paddington/</loc>
-		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/coolah-iga-plus-liquor/</loc>
-		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/st-georges-basin-iga-plus-liquor/</loc>
-		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-everyday-somerset/</loc>
-		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-candlewood/</loc>
-		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-lyndhurst-liquor/</loc>
-		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/spanos-iga-mermaid/</loc>
-		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/ritchies-iga-mildura/</loc>
 		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
 	</url>
 	<url>
@@ -558,7 +530,11 @@
 		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-beckenham/</loc>
+		<loc>https://www.iga.com.au/stores/supa-iga-castle-hill/</loc>
+		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-candlewood/</loc>
 		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
 	</url>
 	<url>
@@ -566,19 +542,43 @@
 		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/supa-iga-castle-hill/</loc>
+		<loc>https://www.iga.com.au/stores/spanos-iga-mermaid/</loc>
 		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
 	</url>
 	<url>
+		<loc>https://www.iga.com.au/stores/romeos-iga-food-hall-paddington/</loc>
+		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-beckenham/</loc>
+		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/ritchies-iga-mildura/</loc>
+		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-lyndhurst-liquor/</loc>
+		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/coolah-iga-plus-liquor/</loc>
+		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-everyday-somerset/</loc>
+		<lastmod>2023-03-09T10:55:36+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-everyday-beaconsfield-wilkes/</loc>
+		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/beckers-iga/</loc>
+		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
+	</url>
+	<url>
 		<loc>https://www.iga.com.au/stores/hopetoun-iga/</loc>
-		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/foodies-market-iga-claremont/</loc>
-		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/alkimos-fresh-iga/</loc>
 		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
 	</url>
 	<url>
@@ -586,11 +586,27 @@
 		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
 	</url>
 	<url>
+		<loc>https://www.iga.com.au/stores/supa-iga-engadine/</loc>
+		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
+	</url>
+	<url>
 		<loc>https://www.iga.com.au/stores/iga-greensborough/</loc>
 		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/supa-iga-engadine/</loc>
+		<loc>https://www.iga.com.au/stores/foodies-market-iga-claremont/</loc>
+		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/duncraig-fresh-iga/</loc>
+		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/alkimos-fresh-iga/</loc>
+		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-plus-liquor-coober-pedy/</loc>
 		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
 	</url>
 	<url>
@@ -602,71 +618,7 @@
 		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-everyday-beaconsfield-wilkes/</loc>
-		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/duncraig-fresh-iga/</loc>
-		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-plus-liquor-coober-pedy/</loc>
-		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/beckers-iga/</loc>
-		<lastmod>2023-03-09T10:55:49+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/supa-iga-guildford/</loc>
-		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-bella-vista/</loc>
-		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/merriwa-iga-plus-liquor/</loc>
-		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-adelaide-north-tce/</loc>
-		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/balgowlah-heights-iga-plus-liquor/</loc>
-		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/supa-iga-discovery-rise/</loc>
-		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/peries-iga-kingaroy/</loc>
-		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/supa-iga-point-cook/</loc>
-		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/pk-fresh-iga-plus-liquor/</loc>
-		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/romeos-iga-food-hall-brooklyn-park/</loc>
-		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/weirs-iga/</loc>
-		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-stratford/</loc>
-		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-hilton/</loc>
 		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
 	</url>
 	<url>
@@ -674,11 +626,59 @@
 		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
 	</url>
 	<url>
+		<loc>https://www.iga.com.au/stores/iga-hilton/</loc>
+		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/supa-iga-guildford/</loc>
+		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-adelaide-north-tce/</loc>
+		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/supa-iga-point-cook/</loc>
+		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/balgowlah-heights-iga-plus-liquor/</loc>
+		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
+	</url>
+	<url>
 		<loc>https://www.iga.com.au/stores/ritchies-supa-iga-churchill/</loc>
 		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/loveys-grocers-iga-gloucester/</loc>
+		<loc>https://www.iga.com.au/stores/peries-iga-kingaroy/</loc>
+		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/weirs-iga/</loc>
+		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-bella-vista/</loc>
+		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/supa-iga-discovery-rise/</loc>
+		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/romeos-iga-food-hall-brooklyn-park/</loc>
+		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/pk-fresh-iga-plus-liquor/</loc>
+		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/merriwa-iga-plus-liquor/</loc>
+		<lastmod>2023-03-09T10:56:03+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/heidelberg-food-store/</loc>
 		<lastmod>2023-03-09T10:56:19+11:00</lastmod>
 	</url>
 	<url>
@@ -686,15 +686,11 @@
 		<lastmod>2023-03-09T10:56:19+11:00</lastmod>
 	</url>
 	<url>
+		<loc>https://www.iga.com.au/stores/loveys-grocers-iga-gloucester/</loc>
+		<lastmod>2023-03-09T10:56:19+11:00</lastmod>
+	</url>
+	<url>
 		<loc>https://www.iga.com.au/stores/foodland-salisbury-east/</loc>
-		<lastmod>2023-03-09T10:56:19+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/heidelberg-food-store/</loc>
-		<lastmod>2023-03-09T10:56:19+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/ritchies-iga-kyabram/</loc>
 		<lastmod>2023-03-09T10:56:19+11:00</lastmod>
 	</url>
 	<url>
@@ -706,11 +702,15 @@
 		<lastmod>2023-03-09T10:56:19+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/becks-iga-streaky-bay/</loc>
+		<loc>https://www.iga.com.au/stores/iga-fraser-shores/</loc>
 		<lastmod>2023-03-09T10:56:19+11:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/ritchies-iga-liquor-taree/</loc>
+		<lastmod>2023-03-09T10:56:19+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/becks-iga-streaky-bay/</loc>
 		<lastmod>2023-03-09T10:56:19+11:00</lastmod>
 	</url>
 	<url>
@@ -722,7 +722,7 @@
 		<lastmod>2023-03-09T10:56:19+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-fraser-shores/</loc>
+		<loc>https://www.iga.com.au/stores/ritchies-iga-kyabram/</loc>
 		<lastmod>2023-03-09T10:56:19+11:00</lastmod>
 	</url>
 	<url>
@@ -730,11 +730,19 @@
 		<lastmod>2023-03-09T10:56:19+11:00</lastmod>
 	</url>
 	<url>
+		<loc>https://www.iga.com.au/stores/iga-wongan-hills-plus-liquor/</loc>
+		<lastmod>2023-03-09T10:56:34+11:00</lastmod>
+	</url>
+	<url>
 		<loc>https://www.iga.com.au/stores/iga-north-buderim/</loc>
 		<lastmod>2023-03-09T10:56:34+11:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-rowville-lakes/</loc>
+		<lastmod>2023-03-09T10:56:34+11:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/newhaven-iga/</loc>
 		<lastmod>2023-03-09T10:56:34+11:00</lastmod>
 	</url>
 	<url>
@@ -750,19 +758,7 @@
 		<lastmod>2023-03-09T10:56:34+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/supamart-tramsheds/</loc>
-		<lastmod>2023-03-09T10:56:34+11:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-seville-plus-liquor/</loc>
-		<lastmod>2023-03-09T10:56:34+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-wongan-hills-plus-liquor/</loc>
-		<lastmod>2023-03-09T10:56:34+11:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/newhaven-iga/</loc>
 		<lastmod>2023-03-09T10:56:34+11:00</lastmod>
 	</url>
 	<url>
@@ -774,15 +770,19 @@
 		<lastmod>2023-03-09T10:56:34+11:00</lastmod>
 	</url>
 	<url>
+		<loc>https://www.iga.com.au/stores/supamart-tramsheds/</loc>
+		<lastmod>2023-03-09T10:56:34+11:00</lastmod>
+	</url>
+	<url>
 		<loc>https://www.iga.com.au/stores/iga-manly-village/</loc>
 		<lastmod>2023-03-09T10:56:48+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-rivervale/</loc>
+		<loc>https://www.iga.com.au/stores/supamart-iga-pennant-hills/</loc>
 		<lastmod>2023-03-09T10:56:48+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/supamart-iga-pennant-hills/</loc>
+		<loc>https://www.iga.com.au/stores/iga-rivervale/</loc>
 		<lastmod>2023-03-09T10:56:48+11:00</lastmod>
 	</url>
 	<url>
