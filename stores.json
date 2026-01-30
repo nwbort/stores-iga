@@ -2988,29 +2988,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-ainslie/",
-    "name": "IGA Ainslie",
-    "address_line_1": "9-11 Edgar Street",
-    "address_line_2": "Ainslie, 2602, ACT",
-    "phone": "(02) 6248 5777",
-    "directions_url": "https://maps.google.com/maps?cid=639771231590380116",
-    "hours": {
-      "Sunday": "7:30 am - 8:00 pm",
-      "Monday": "7:30 am - 8:00 pm",
-      "Tuesday": "7:30 am - 8:00 pm",
-      "Wednesday": "7:30 am - 8:00 pm",
-      "Thursday": "7:30 am - 8:00 pm",
-      "Friday": "7:30 am - 8:00 pm",
-      "Saturday": "7:30 am - 8:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Butcher",
-      "Deli Station",
-      "Fresh Flowers"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-albany/",
     "name": "IGA Albany",
     "address_line_1": "100 York St",
