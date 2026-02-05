@@ -499,19 +499,19 @@
     "phone": "02  6655 9500",
     "directions_url": "https://maps.google.com/maps?cid=12616035971721593008",
     "hours": {
-      "Sunday": "7:00 am - 7:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
+      "Sunday": "7:00 am - 8:00 pm",
+      "Monday": "7:00 am - 8:00 pm",
+      "Tuesday": "7:00 am - 8:00 pm",
+      "Wednesday": "7:00 am - 8:00 pm",
+      "Thursday": "7:00 am - 8:00 pm",
+      "Friday": "7:00 am - 8:00 pm",
+      "Saturday": "7:00 am - 8:00 pm"
     },
     "services": [
       "BBQ Chicken",
       "Deli Station",
-      "Ready Meals",
-      "Seafood"
+      "Fresh Flowers",
+      "Ready Meals"
     ]
   },
   {
@@ -5469,29 +5469,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-colyton/",
-    "name": "IGA Colyton",
-    "address_line_1": "60-62 Hewitt St",
-    "address_line_2": "Colyton, 2760, NSW",
-    "phone": "(02) 9623 8497",
-    "directions_url": "https://maps.google.com/maps?cid=10468782282422727534",
-    "hours": {
-      "Sunday": "8:00 am - 7:30 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station",
-      "Ready Meals",
-      "Seafood"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-condell-park/",
     "name": "IGA Condell Park",
     "address_line_1": "Shop 1, 63-77 Simmat Avenue",
@@ -6715,6 +6692,24 @@
       "Thursday": "7:00 am - 7:00 pm",
       "Friday": "7:00 am - 7:00 pm",
       "Saturday": "7:00 am - 7:00 pm"
+    },
+    "services": []
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-everyday-lilydale/",
+    "name": "IGA Everyday Lilydale",
+    "address_line_1": "1965 Main Road",
+    "address_line_2": "Lilydale, 7268, TAS",
+    "phone": "(03) 6395 1422",
+    "directions_url": "https://maps.google.com/maps?cid=9037111295374647658",
+    "hours": {
+      "Sunday": "8:00 am - 6:00 pm",
+      "Monday": "7:00 am - 7:00 pm",
+      "Tuesday": "7:00 am - 7:00 pm",
+      "Wednesday": "7:00 am - 7:00 pm",
+      "Thursday": "7:00 am - 7:00 pm",
+      "Friday": "7:00 am - 7:00 pm",
+      "Saturday": "7:00 am - 6:00 pm"
     },
     "services": []
   },
@@ -14383,6 +14378,27 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-lugarno/",
+    "name": "IGA Lugarno",
+    "address_line_1": "1014A Forest Road",
+    "address_line_2": "Lugarno, 2210, NSW",
+    "phone": "(02) 9533 5133",
+    "directions_url": "https://maps.google.com/maps?cid=59163457390278005",
+    "hours": {
+      "Sunday": "8:00 am - 5:00 pm",
+      "Monday": "8:00 am - 7:00 pm",
+      "Tuesday": "8:00 am - 7:00 pm",
+      "Wednesday": "8:00 am - 7:00 pm",
+      "Thursday": "8:00 am - 7:00 pm",
+      "Friday": "8:00 am - 7:00 pm",
+      "Saturday": "8:00 am - 5:00 pm"
+    },
+    "services": [
+      "Ready Meals",
+      "Seafood"
+    ]
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-lyndhurst-liquor/",
     "name": "IGA Lyndhurst & Liquor",
     "address_line_1": "43 Lyndhurst Drive",
@@ -16722,6 +16738,28 @@
       "Saturday": "7:30 am - 7:00 pm"
     },
     "services": []
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-rainbow-beach/",
+    "name": "IGA Rainbow Beach",
+    "address_line_1": "Shop 9/48 Rainbow Beach Road",
+    "address_line_2": "Rainbow Beach, 4581, QLD",
+    "phone": "(07) 5486 8700",
+    "directions_url": "https://maps.google.com/maps?cid=15497149511059550889",
+    "hours": {
+      "Sunday": "6:00 am - 8:00 pm",
+      "Monday": "6:00 am - 8:00 pm",
+      "Tuesday": "6:00 am - 8:00 pm",
+      "Wednesday": "6:00 am - 8:00 pm",
+      "Thursday": "6:00 am - 8:00 pm",
+      "Friday": "6:00 am - 8:00 pm",
+      "Saturday": "6:00 am - 8:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Deli Station",
+      "Ready Meals"
+    ]
   },
   {
     "url": "https://www.iga.com.au/stores/iga-rainbow/",
@@ -21119,6 +21157,24 @@
     "services": []
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-xpress-new-norfolk/",
+    "name": "IGA Xpress New Norfolk",
+    "address_line_1": "41-45 Benjamin Terrace",
+    "address_line_2": "New Norfolk, 7140, TAS",
+    "phone": "(03) 6262 0091",
+    "directions_url": null,
+    "hours": {
+      "Sunday": "6:00 am - 8:00 pm",
+      "Monday": "7:00 am - 7:30 pm",
+      "Tuesday": "7:00 am - 7:30 pm",
+      "Wednesday": "7:00 am - 7:30 pm",
+      "Thursday": "7:00 am - 7:30 pm",
+      "Friday": "7:00 am - 7:30 pm",
+      "Saturday": "7:00 am - 7:30 pm"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-xpress-newdegate/",
     "name": "IGA Xpress Newdegate",
     "address_line_1": "5 Maley Street",
@@ -21429,6 +21485,27 @@
       "Saturday": "-"
     },
     "services": []
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-xpress-the-oaks/",
+    "name": "IGA Xpress The Oaks",
+    "address_line_1": "67 John Street",
+    "address_line_2": "The Oaks, 2570, NSW",
+    "phone": "(02) 4504 8990",
+    "directions_url": "https://maps.google.com/maps?cid=4980771677403318895",
+    "hours": {
+      "Sunday": "-",
+      "Monday": "-",
+      "Tuesday": "-",
+      "Wednesday": "-",
+      "Thursday": "-",
+      "Friday": "-",
+      "Saturday": "-"
+    },
+    "services": [
+      "Ready Meals",
+      "Seafood"
+    ]
   },
   {
     "url": "https://www.iga.com.au/stores/iga-xpress-tyabb/",
@@ -24722,24 +24799,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/ravensthorpe-iga/",
-    "name": "Ravensthorpe IGA",
-    "address_line_1": "77-80 Morgan Street",
-    "address_line_2": "Ravensthorpe, 6346, WA",
-    "phone": "(08) 9838 1008",
-    "directions_url": "https://maps.google.com/maps?cid=8193037168792875256",
-    "hours": {
-      "Sunday": "8:00 am - 12:00 pm",
-      "Monday": "7:00 am - 6:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 6:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 6:00 pm",
-      "Saturday": "7:00 am - 6:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/redwood-park-iga/",
     "name": "Redwood Park IGA",
     "address_line_1": "414 Milne Road",
@@ -26268,29 +26327,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/ritchies-iga-timboon/",
-    "name": "Ritchies IGA Timboon",
-    "address_line_1": "27 Main Street",
-    "address_line_2": "Timboon, 3268, VIC",
-    "phone": "(03) 5598 3013",
-    "directions_url": "https://maps.google.com/maps?cid=14213738938169899384",
-    "hours": {
-      "Sunday": "8:00 am - 6:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 6:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station",
-      "Ready Meals",
-      "Seafood"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/ritchies-iga-wantirna/",
     "name": "Ritchies IGA Wantirna",
     "address_line_1": "Wantirna Mall",
@@ -26789,6 +26825,24 @@
       "Fresh Flowers",
       "Ready Meals"
     ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/ryans-iga-mt-clear/",
+    "name": "Ryans IGA Mt Clear",
+    "address_line_1": "1174 Geelong Road",
+    "address_line_2": "Mount Clear, 3350, VIC",
+    "phone": "(03) 5304 5333",
+    "directions_url": "https://maps.google.com/maps?cid=396320851886357916",
+    "hours": {
+      "Sunday": "7:00 am - 10:00 pm",
+      "Monday": "7:00 am - 10:00 pm",
+      "Tuesday": "7:00 am - 10:00 pm",
+      "Wednesday": "7:00 am - 10:00 pm",
+      "Thursday": "7:00 am - 10:00 pm",
+      "Friday": "7:00 am - 10:00 pm",
+      "Saturday": "7:00 am - 10:00 pm"
+    },
+    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/ryans-iga-northway/",
