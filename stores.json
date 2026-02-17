@@ -13549,24 +13549,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-sunshine-north/",
-    "name": "IGA Local Grocer Sunshine North",
-    "address_line_1": "63 Northumberland",
-    "address_line_2": "Sunshine North, 3020, VIC",
-    "phone": "(03) 9310 2905",
-    "directions_url": "https://maps.google.com/maps?cid=12706996157666471925",
-    "hours": {
-      "Sunday": "9:00 am - 8:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-surfside/",
     "name": "IGA Local Grocer Surfside",
     "address_line_1": "9 THE VISTA",
