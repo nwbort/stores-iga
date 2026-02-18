@@ -3186,6 +3186,26 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-apollo-bay-plus-liquor/",
+    "name": "IGA Apollo Bay Plus Liquor",
+    "address_line_1": "103-109 Great Ocean Road",
+    "address_line_2": "Apollo Bay, 3233, VIC",
+    "phone": "(03) 5237 6251",
+    "directions_url": "https://maps.google.com/maps?cid=434391339164465951",
+    "hours": {
+      "Sunday": "8:00 am - 7:30 pm",
+      "Monday": "8:00 am - 7:30 pm",
+      "Tuesday": "8:00 am - 7:30 pm",
+      "Wednesday": "8:00 am - 7:30 pm",
+      "Thursday": "8:00 am - 7:30 pm",
+      "Friday": "8:00 am - 8:00 pm",
+      "Saturday": "8:00 am - 8:00 pm"
+    },
+    "services": [
+      "Local Produce"
+    ]
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-appin/",
     "name": "IGA Appin",
     "address_line_1": "80-82 Appin Road",
@@ -4169,6 +4189,29 @@
       "Thursday": "7:00 am - 7:00 pm",
       "Friday": "7:00 am - 7:00 pm",
       "Saturday": "8:00 am - 6:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Deli Station",
+      "Ready Meals",
+      "Seafood"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-bomaderry/",
+    "name": "IGA Bomaderry",
+    "address_line_1": "73 Meroo Street",
+    "address_line_2": "Bomaderry, 2541, NSW",
+    "phone": "(02) 4421 6900",
+    "directions_url": "https://maps.google.com/maps?cid=13754740113878504142",
+    "hours": {
+      "Sunday": "6:30 am - 8:00 pm",
+      "Monday": "6:30 am - 8:00 pm",
+      "Tuesday": "6:30 am - 8:00 pm",
+      "Wednesday": "6:30 am - 8:00 pm",
+      "Thursday": "6:30 am - 8:00 pm",
+      "Friday": "6:30 am - 8:00 pm",
+      "Saturday": "6:30 am - 8:00 pm"
     },
     "services": [
       "BBQ Chicken",
@@ -5466,6 +5509,29 @@
       "Deli Station",
       "Fresh Flowers",
       "Ready Meals"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-colyton/",
+    "name": "IGA Colyton",
+    "address_line_1": "60-62 Hewitt St",
+    "address_line_2": "Colyton, 2760, NSW",
+    "phone": "(02) 9623 8497",
+    "directions_url": "https://maps.google.com/maps?cid=10468782282422727534",
+    "hours": {
+      "Sunday": "8:00 am - 7:30 pm",
+      "Monday": "7:00 am - 8:00 pm",
+      "Tuesday": "7:00 am - 8:00 pm",
+      "Wednesday": "7:00 am - 8:00 pm",
+      "Thursday": "7:00 am - 8:00 pm",
+      "Friday": "7:00 am - 8:00 pm",
+      "Saturday": "7:00 am - 8:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Deli Station",
+      "Ready Meals",
+      "Seafood"
     ]
   },
   {
@@ -13549,6 +13615,24 @@
     "services": []
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-local-grocer-sunshine-north/",
+    "name": "IGA Local Grocer Sunshine North",
+    "address_line_1": "63 Northumberland",
+    "address_line_2": "Sunshine North, 3020, VIC",
+    "phone": "(03) 9310 2905",
+    "directions_url": "https://maps.google.com/maps?cid=12706996157666471925",
+    "hours": {
+      "Sunday": "9:00 am - 8:00 pm",
+      "Monday": "8:00 am - 8:00 pm",
+      "Tuesday": "8:00 am - 8:00 pm",
+      "Wednesday": "8:00 am - 8:00 pm",
+      "Thursday": "8:00 am - 8:00 pm",
+      "Friday": "8:00 am - 8:00 pm",
+      "Saturday": "8:00 am - 8:00 pm"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-surfside/",
     "name": "IGA Local Grocer Surfside",
     "address_line_1": "9 THE VISTA",
@@ -15459,6 +15543,29 @@
       "BBQ Chicken",
       "Deli Station",
       "Fresh Flowers",
+      "Ready Meals"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-mt-morgan/",
+    "name": "IGA Mt Morgan",
+    "address_line_1": "Dee Street",
+    "address_line_2": "Mt Morgan, 4714, QLD",
+    "phone": "(07) 4938 1243",
+    "directions_url": "https://maps.google.com/maps?cid=8623477862250006034",
+    "hours": {
+      "Sunday": "8:00 am - 7:00 pm",
+      "Monday": "8:00 am - 7:00 pm",
+      "Tuesday": "8:00 am - 7:00 pm",
+      "Wednesday": "8:00 am - 7:00 pm",
+      "Thursday": "8:00 am - 7:00 pm",
+      "Friday": "8:00 am - 7:00 pm",
+      "Saturday": "8:00 am - 7:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Butcher",
+      "Deli Station",
       "Ready Meals"
     ]
   },
@@ -23808,13 +23915,13 @@
     "phone": "08  9949 1229",
     "directions_url": "https://maps.google.com/maps?cid=5245837881289569170",
     "hours": {
-      "Sunday": "6:30 am - 7:00 pm",
-      "Monday": "6:30 am - 7:00 pm",
-      "Tuesday": "6:30 am - 7:00 pm",
-      "Wednesday": "6:30 am - 7:00 pm",
-      "Thursday": "6:30 am - 7:00 pm",
-      "Friday": "6:30 am - 7:30 pm",
-      "Saturday": "6:30 am - 7:00 pm"
+      "Sunday": "6:30 am - 8:00 pm",
+      "Monday": "6:30 am - 8:00 pm",
+      "Tuesday": "6:30 am - 8:00 pm",
+      "Wednesday": "6:30 am - 8:00 pm",
+      "Thursday": "6:30 am - 8:00 pm",
+      "Friday": "6:30 am - 8:00 pm",
+      "Saturday": "6:30 am - 8:00 pm"
     },
     "services": [
       "BBQ Chicken",
@@ -24781,6 +24888,24 @@
     "services": []
   },
   {
+    "url": "https://www.iga.com.au/stores/ravensthorpe-iga/",
+    "name": "Ravensthorpe IGA",
+    "address_line_1": "77-80 Morgan Street",
+    "address_line_2": "Ravensthorpe, 6346, WA",
+    "phone": "(08) 9838 1008",
+    "directions_url": "https://maps.google.com/maps?cid=8193037168792875256",
+    "hours": {
+      "Sunday": "8:00 am - 12:00 pm",
+      "Monday": "7:00 am - 6:00 pm",
+      "Tuesday": "7:00 am - 7:00 pm",
+      "Wednesday": "7:00 am - 6:00 pm",
+      "Thursday": "7:00 am - 7:00 pm",
+      "Friday": "7:00 am - 6:00 pm",
+      "Saturday": "7:00 am - 6:00 pm"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/redwood-park-iga/",
     "name": "Redwood Park IGA",
     "address_line_1": "414 Milne Road",
@@ -25108,6 +25233,24 @@
       "Deli Station",
       "Ready Meals"
     ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/ritchies-iga-cobden/",
+    "name": "Ritchies IGA Cobden",
+    "address_line_1": "24 Curdie St",
+    "address_line_2": "Cobden, 3266, VIC",
+    "phone": "(03) 5595 1017",
+    "directions_url": "https://maps.google.com/maps?cid=7552370204360775377",
+    "hours": {
+      "Sunday": "8:00 am - 7:00 pm",
+      "Monday": "8:00 am - 8:00 pm",
+      "Tuesday": "8:00 am - 8:00 pm",
+      "Wednesday": "8:00 am - 8:00 pm",
+      "Thursday": "8:00 am - 8:00 pm",
+      "Friday": "8:00 am - 8:00 pm",
+      "Saturday": "8:00 am - 8:00 pm"
+    },
+    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/ritchies-iga-cobram/",
@@ -26307,6 +26450,29 @@
       "Saturday": "7:00 am - 7:00 pm"
     },
     "services": []
+  },
+  {
+    "url": "https://www.iga.com.au/stores/ritchies-iga-timboon/",
+    "name": "Ritchies IGA Timboon",
+    "address_line_1": "27 Main Street",
+    "address_line_2": "Timboon, 3268, VIC",
+    "phone": "(03) 5598 3013",
+    "directions_url": "https://maps.google.com/maps?cid=14213738938169899384",
+    "hours": {
+      "Sunday": "8:00 am - 6:00 pm",
+      "Monday": "8:00 am - 8:00 pm",
+      "Tuesday": "8:00 am - 8:00 pm",
+      "Wednesday": "8:00 am - 8:00 pm",
+      "Thursday": "8:00 am - 8:00 pm",
+      "Friday": "8:00 am - 8:00 pm",
+      "Saturday": "8:00 am - 6:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Deli Station",
+      "Ready Meals",
+      "Seafood"
+    ]
   },
   {
     "url": "https://www.iga.com.au/stores/ritchies-iga-wantirna/",
