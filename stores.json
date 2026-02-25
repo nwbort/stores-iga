@@ -177,29 +177,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/all-foods-market-kingsley-iga/",
-    "name": "All Foods Market Kingsley IGA",
-    "address_line_1": "6/100 Kingsley Drive",
-    "address_line_2": "Kingsley, 6026, WA",
-    "phone": "(08) 9409 7088",
-    "directions_url": "https://maps.google.com/maps?cid=15102487456777066086",
-    "hours": {
-      "Sunday": "6:00 am - 9:00 pm",
-      "Monday": "6:00 am - 9:00 pm",
-      "Tuesday": "6:00 am - 9:00 pm",
-      "Wednesday": "6:00 am - 9:00 pm",
-      "Thursday": "6:00 am - 9:00 pm",
-      "Friday": "6:00 am - 9:00 pm",
-      "Saturday": "6:00 am - 9:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station",
-      "Ready Meals",
-      "Seafood"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/all-foods-market-leeming-iga/",
     "name": "All Foods Market Leeming IGA",
     "address_line_1": "Cnr Farrington and",
