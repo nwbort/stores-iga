@@ -177,6 +177,29 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/all-foods-market-kingsley-iga/",
+    "name": "All Foods Market Kingsley IGA",
+    "address_line_1": "6/100 Kingsley Drive",
+    "address_line_2": "Kingsley, 6026, WA",
+    "phone": "(08) 9409 7088",
+    "directions_url": "https://maps.google.com/maps?cid=15102487456777066086",
+    "hours": {
+      "Sunday": "6:00 am - 9:00 pm",
+      "Monday": "6:00 am - 9:00 pm",
+      "Tuesday": "6:00 am - 9:00 pm",
+      "Wednesday": "6:00 am - 9:00 pm",
+      "Thursday": "6:00 am - 9:00 pm",
+      "Friday": "6:00 am - 9:00 pm",
+      "Saturday": "6:00 am - 9:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Deli Station",
+      "Ready Meals",
+      "Seafood"
+    ]
+  },
+  {
     "url": "https://www.iga.com.au/stores/all-foods-market-leeming-iga/",
     "name": "All Foods Market Leeming IGA",
     "address_line_1": "Cnr Farrington and",
@@ -21101,8 +21124,8 @@
     "url": "https://www.iga.com.au/stores/iga-xpress-melbourne-st-kilda-road/",
     "name": "IGA Xpress Melbourne (St Kilda Road)",
     "address_line_1": "320 St Kilda Road",
-    "address_line_2": "Melbourne, 3000, VIC",
-    "phone": "0404 442 289",
+    "address_line_2": "Southbank, 3006, VIC",
+    "phone": "03 9699 9948",
     "directions_url": "https://maps.google.com/maps?cid=3441784635284293611",
     "hours": {
       "Sunday": "8:00 am - 11:00 pm",
