@@ -2676,13 +2676,13 @@
     "phone": "(07) 4946 8899",
     "directions_url": "https://maps.google.com/maps?cid=672152150838770012",
     "hours": {
-      "Sunday": "9:00 am - 6:00 pm",
-      "Monday": "8:30 am - 7:00 pm",
-      "Tuesday": "8:30 am - 7:00 pm",
-      "Wednesday": "8:30 am - 7:00 pm",
-      "Thursday": "8:30 am - 7:00 pm",
-      "Friday": "8:30 am - 7:00 pm",
-      "Saturday": "8:30 am - 7:00 pm"
+      "Sunday": "8:00 am - 6:00 pm",
+      "Monday": "7:00 am - 9:00 pm",
+      "Tuesday": "7:00 am - 9:00 pm",
+      "Wednesday": "7:00 am - 9:00 pm",
+      "Thursday": "7:00 am - 9:00 pm",
+      "Friday": "7:00 am - 9:00 pm",
+      "Saturday": "7:00 am - 7:00 pm"
     },
     "services": [
       "BBQ Chicken",
@@ -10679,7 +10679,7 @@
     "phone": "(03) 9662 9166",
     "directions_url": "https://maps.google.com/maps?cid=13825757383342970599",
     "hours": {
-      "Sunday": "7:30 am - 10:00 pm",
+      "Sunday": "8:00 am - 10:00 pm",
       "Monday": "7:00 am - 10:00 pm",
       "Tuesday": "7:00 am - 10:00 pm",
       "Wednesday": "7:00 am - 10:00 pm",
@@ -15502,6 +15502,29 @@
       "BBQ Chicken",
       "Deli Station",
       "Fresh Flowers",
+      "Ready Meals"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-mt-morgan/",
+    "name": "IGA Mt Morgan",
+    "address_line_1": "Dee Street",
+    "address_line_2": "Mt Morgan, 4714, QLD",
+    "phone": "(07) 4938 1243",
+    "directions_url": "https://maps.google.com/maps?cid=8623477862250006034",
+    "hours": {
+      "Sunday": "8:00 am - 7:00 pm",
+      "Monday": "8:00 am - 7:00 pm",
+      "Tuesday": "8:00 am - 7:00 pm",
+      "Wednesday": "8:00 am - 7:00 pm",
+      "Thursday": "8:00 am - 7:00 pm",
+      "Friday": "8:00 am - 7:00 pm",
+      "Saturday": "8:00 am - 7:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Butcher",
+      "Deli Station",
       "Ready Meals"
     ]
   },
@@ -25441,7 +25464,7 @@
     "name": "Ritchies IGA Frankston (Towerhill)",
     "address_line_1": "Cnr Golf Links/Hastings Rds",
     "address_line_2": "Frankston, 3199, VIC",
-    "phone": "(03) 9781 2616",
+    "phone": "(03) 9781 0013",
     "directions_url": "https://maps.google.com/maps?cid=15403999094452857789",
     "hours": {
       "Sunday": "7:00 am - 9:00 pm",
