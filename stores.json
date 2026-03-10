@@ -15014,6 +15014,29 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-middle-park/",
+    "name": "IGA Middle Park",
+    "address_line_1": "19-21 Armstrong Street",
+    "address_line_2": "Middle Park, 3206, VIC",
+    "phone": "(03) 9696 2532",
+    "directions_url": "https://maps.google.com/maps?cid=2723422975146660725",
+    "hours": {
+      "Sunday": "8:00 am - 7:00 pm",
+      "Monday": "7:00 am - 9:00 pm",
+      "Tuesday": "7:00 am - 9:00 pm",
+      "Wednesday": "7:00 am - 9:00 pm",
+      "Thursday": "7:00 am - 9:00 pm",
+      "Friday": "7:00 am - 9:00 pm",
+      "Saturday": "7:00 am - 7:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Deli Station",
+      "Fresh Flowers",
+      "Ready Meals"
+    ]
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-middlemount/",
     "name": "IGA Middlemount",
     "address_line_1": "Cnr Carter Place & James Randall Drive",
@@ -20470,6 +20493,24 @@
     "services": []
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-x-press-yorkeys-knob/",
+    "name": "IGA X-press Yorkeys Knob",
+    "address_line_1": "453 Varley Street",
+    "address_line_2": "Yorkeys Knob, 4878, QLD",
+    "phone": "(07) 4055 7232",
+    "directions_url": "https://maps.google.com/maps?cid=1114514453950867926",
+    "hours": {
+      "Sunday": "-",
+      "Monday": "-",
+      "Tuesday": "-",
+      "Wednesday": "-",
+      "Thursday": "-",
+      "Friday": "-",
+      "Saturday": "-"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-x-press-zeehan-pringles/",
     "name": "IGA X-Press Zeehan (Pringles)",
     "address_line_1": "31 Main St",
@@ -21296,6 +21337,24 @@
       "Thursday": "8:00 am - 5:30 pm",
       "Friday": "8:00 am - 5:30 pm",
       "Saturday": "8:00 am - 12:00 pm"
+    },
+    "services": []
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-xpress-port-melbourne/",
+    "name": "IGA Xpress Port Melbourne",
+    "address_line_1": "103 Beach Street",
+    "address_line_2": "Port Melbourne, 3207, VIC",
+    "phone": "(03) 9645 1355",
+    "directions_url": "https://maps.google.com/maps?cid=4502563905593178741",
+    "hours": {
+      "Sunday": "6:30 am - 8:00 pm",
+      "Monday": "6:30 am - 8:00 pm",
+      "Tuesday": "6:30 am - 8:00 pm",
+      "Wednesday": "6:30 am - 8:00 pm",
+      "Thursday": "6:30 am - 8:00 pm",
+      "Friday": "6:30 am - 8:00 pm",
+      "Saturday": "6:30 am - 8:00 pm"
     },
     "services": []
   },
@@ -25589,29 +25648,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/ritchies-iga-liquor-port-macquarie/",
-    "name": "Ritchies IGA + Liquor Port Macquarie",
-    "address_line_1": "Port Central Shopping Centre 2444 M2",
-    "address_line_2": "Port Macquarie, 2444, NSW",
-    "phone": "(02) 6583 7732",
-    "directions_url": "https://maps.google.com/maps?cid=1593546588619754780",
-    "hours": {
-      "Sunday": "8:00 am - 6:00 pm",
-      "Monday": "7:30 am - 8:00 pm",
-      "Tuesday": "7:30 am - 8:00 pm",
-      "Wednesday": "7:30 am - 8:00 pm",
-      "Thursday": "7:30 am - 8:00 pm",
-      "Friday": "7:30 am - 8:00 pm",
-      "Saturday": "7:30 am - 8:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Butcher",
-      "Deli Station",
-      "Ready Meals"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/ritchies-iga-liquor-taree/",
     "name": "Ritchies IGA + Liquor Taree",
     "address_line_1": "32-34 Manning Street",
@@ -27035,7 +27071,7 @@
     "name": "Scarvaci's IGA Hamilton Hill",
     "address_line_1": "5/51-57 Rockingham Road",
     "address_line_2": "Hamilton Hill, 6163, WA",
-    "phone": "(08) 9335 4327",
+    "phone": "(08) 6219 0222",
     "directions_url": "https://maps.google.com/maps?cid=3525701947400546098",
     "hours": {
       "Sunday": "7:30 am - 7:30 pm",
@@ -27049,8 +27085,8 @@
     "services": [
       "BBQ Chicken",
       "Butcher",
-      "Ready Meals",
-      "Seafood"
+      "Fresh Flowers",
+      "Ready Meals"
     ]
   },
   {
