@@ -16953,13 +16953,13 @@
     "phone": null,
     "directions_url": null,
     "hours": {
-      "Sunday": "-",
-      "Monday": "-",
-      "Tuesday": "-",
-      "Wednesday": "-",
-      "Thursday": "-",
-      "Friday": "-",
-      "Saturday": "-"
+      "Sunday": "6:00 am - 9:00 pm",
+      "Monday": "6:00 am - 9:00 pm",
+      "Tuesday": "6:00 am - 9:00 pm",
+      "Wednesday": "6:00 am - 9:00 pm",
+      "Thursday": "6:00 am - 9:00 pm",
+      "Friday": "6:00 am - 9:00 pm",
+      "Saturday": "9:00 am - 9:00 pm"
     },
     "services": []
   },
@@ -28915,13 +28915,13 @@
     "phone": "03  5027 4703",
     "directions_url": "https://maps.google.com/maps?cid=17851308614085683906",
     "hours": {
-      "Sunday": "9:00 am - 5:00 pm",
-      "Monday": "8:00 am - 6:30 pm",
-      "Tuesday": "8:00 am - 6:30 pm",
-      "Wednesday": "8:00 am - 6:30 pm",
-      "Thursday": "8:00 am - 6:30 pm",
-      "Friday": "8:00 am - 6:30 pm",
-      "Saturday": "9:00 am - 5:00 pm"
+      "Sunday": "9:00 am - 6:00 pm",
+      "Monday": "8:00 am - 6:00 pm",
+      "Tuesday": "8:00 am - 6:00 pm",
+      "Wednesday": "8:00 am - 6:00 pm",
+      "Thursday": "8:00 am - 6:00 pm",
+      "Friday": "8:00 am - 6:00 pm",
+      "Saturday": "9:00 am - 6:00 pm"
     },
     "services": [
       "BBQ Chicken",
