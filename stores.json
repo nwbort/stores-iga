@@ -12496,20 +12496,20 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-north-mackay-the-avenue/",
-    "name": "IGA Local Grocer North Mackay the Avenue",
+    "url": "https://www.iga.com.au/stores/iga-local-grocer-north-mackay/",
+    "name": "IGA Local Grocer North Mackay",
     "address_line_1": "25-29 Evans Avenue",
     "address_line_2": "Mackay, 4740, QLD",
     "phone": "(07) 4944 1206",
     "directions_url": "https://maps.google.com/maps?cid=14302287005875876133",
     "hours": {
-      "Sunday": "7:00 am - 8:30 pm",
-      "Monday": "7:00 am - 8:30 pm",
-      "Tuesday": "7:00 am - 8:30 pm",
-      "Wednesday": "7:00 am - 8:30 pm",
-      "Thursday": "7:00 am - 8:30 pm",
-      "Friday": "7:00 am - 8:30 pm",
-      "Saturday": "7:00 am - 8:30 pm"
+      "Sunday": "7:00 am - 8:00 pm",
+      "Monday": "7:00 am - 8:00 pm",
+      "Tuesday": "7:00 am - 8:00 pm",
+      "Wednesday": "7:00 am - 8:00 pm",
+      "Thursday": "7:00 am - 8:00 pm",
+      "Friday": "7:00 am - 8:00 pm",
+      "Saturday": "7:00 am - 8:00 pm"
     },
     "services": [
       "BBQ Chicken",
@@ -14593,13 +14593,13 @@
     "phone": "03 5475 2458",
     "directions_url": null,
     "hours": {
-      "Sunday": "9:00 am - 5:30 pm",
-      "Monday": "7:30 am - 7:00 pm",
-      "Tuesday": "7:30 am - 7:00 pm",
-      "Wednesday": "7:30 am - 7:00 pm",
-      "Thursday": "7:30 am - 7:00 pm",
-      "Friday": "7:30 am - 7:00 pm",
-      "Saturday": "7:30 am - 7:00 pm"
+      "Sunday": "9:00 am - 5:00 pm",
+      "Monday": "8:00 am - 6:30 pm",
+      "Tuesday": "8:00 am - 6:30 pm",
+      "Wednesday": "8:00 am - 6:30 pm",
+      "Thursday": "8:00 am - 6:30 pm",
+      "Friday": "8:00 am - 6:30 pm",
+      "Saturday": "8:00 am - 6:30 pm"
     },
     "services": []
   },
@@ -16339,6 +16339,29 @@
       "Deli Station",
       "Fresh Flowers",
       "Ready Meals"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-pemberton/",
+    "name": "IGA Pemberton",
+    "address_line_1": "Gupp & Dean Sts",
+    "address_line_2": "Pemberton, 6262, WA",
+    "phone": "(08) 9776 1264",
+    "directions_url": "https://maps.google.com/maps?cid=5090345266015823284",
+    "hours": {
+      "Sunday": "9:00 am - 6:00 pm",
+      "Monday": "8:00 am - 6:00 pm",
+      "Tuesday": "8:00 am - 6:00 pm",
+      "Wednesday": "8:00 am - 6:00 pm",
+      "Thursday": "8:00 am - 6:00 pm",
+      "Friday": "8:00 am - 6:00 pm",
+      "Saturday": "8:00 am - 6:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Deli Station",
+      "Ready Meals",
+      "Seafood"
     ]
   },
   {
