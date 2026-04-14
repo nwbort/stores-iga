@@ -19439,24 +19439,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-winchelsea/",
-    "name": "IGA Winchelsea",
-    "address_line_1": "29 Main Street",
-    "address_line_2": "Winchelsea, 3241, VIC",
-    "phone": "(03) 5267 2676",
-    "directions_url": "https://maps.google.com/maps?cid=2780352839358807721",
-    "hours": {
-      "Sunday": "10:00 am - 7:30 pm",
-      "Monday": "8:30 am - 7:30 pm",
-      "Tuesday": "8:30 am - 7:30 pm",
-      "Wednesday": "8:30 am - 7:30 pm",
-      "Thursday": "8:30 am - 7:30 pm",
-      "Friday": "8:30 am - 7:30 pm",
-      "Saturday": "8:30 am - 7:30 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-windaroo/",
     "name": "IGA Windaroo",
     "address_line_1": "Shops 5-8 corner of Carl Heck Boulevard and Beenleigh-Beaudesert road",
