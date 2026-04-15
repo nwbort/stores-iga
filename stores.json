@@ -11604,19 +11604,19 @@
   },
   {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-lesmurdie/",
-    "name": "Lesmurdie IGA",
+    "name": "IGA Local Grocer Lesmurdie",
     "address_line_1": "241 Lesmurdie Road",
     "address_line_2": "Lesmurdie, 6076, WA",
     "phone": "(08) 9291 6685",
     "directions_url": "https://maps.google.com/maps?cid=3422788431103056083",
     "hours": {
-      "Sunday": "7:00 am - 7:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
+      "Sunday": "7:00 am - 8:00 pm",
+      "Monday": "7:00 am - 8:00 pm",
+      "Tuesday": "7:00 am - 8:00 pm",
+      "Wednesday": "7:00 am - 8:00 pm",
+      "Thursday": "7:00 am - 8:00 pm",
+      "Friday": "7:00 am - 8:00 pm",
+      "Saturday": "7:00 am - 8:00 pm"
     },
     "services": [
       "BBQ Chicken",
@@ -19439,6 +19439,24 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-winchelsea/",
+    "name": "IGA Winchelsea",
+    "address_line_1": "29 Main Street",
+    "address_line_2": "Winchelsea, 3241, VIC",
+    "phone": "(03) 5267 2676",
+    "directions_url": "https://maps.google.com/maps?cid=2780352839358807721",
+    "hours": {
+      "Sunday": "10:00 am - 7:30 pm",
+      "Monday": "8:30 am - 7:30 pm",
+      "Tuesday": "8:30 am - 7:30 pm",
+      "Wednesday": "8:30 am - 7:30 pm",
+      "Thursday": "8:30 am - 7:30 pm",
+      "Friday": "8:30 am - 7:30 pm",
+      "Saturday": "8:30 am - 7:30 pm"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-windaroo/",
     "name": "IGA Windaroo",
     "address_line_1": "Shops 5-8 corner of Carl Heck Boulevard and Beenleigh-Beaudesert road",
@@ -21442,6 +21460,26 @@
     "services": [
       "Ready Meals",
       "Seafood"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-xpress-warrnambool/",
+    "name": "IGA Xpress Warrnambool",
+    "address_line_1": "98 Hopkins Highway",
+    "address_line_2": "Warrnambool, 3280, VIC",
+    "phone": "(03) 5561 1353",
+    "directions_url": "https://maps.google.com/maps?cid=2415542989424055162",
+    "hours": {
+      "Sunday": "6:00 am - 10:30 pm",
+      "Monday": "6:00 am - 10:30 pm",
+      "Tuesday": "6:00 am - 10:30 pm",
+      "Wednesday": "6:00 am - 10:30 pm",
+      "Thursday": "6:00 am - 10:30 pm",
+      "Friday": "6:00 am - 10:30 pm",
+      "Saturday": "6:00 am - 10:30 pm"
+    },
+    "services": [
+      "Local Produce"
     ]
   },
   {
@@ -26953,24 +26991,6 @@
       "Fresh Flowers",
       "Ready Meals"
     ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/seaford-iga-x-press/",
-    "name": "Seaford IGA X-press",
-    "address_line_1": "127-129 Nepean Hwy",
-    "address_line_2": "Seaford, 3198, VIC",
-    "phone": "(03) 9786 1155",
-    "directions_url": "https://maps.google.com/maps?cid=3168502745774562774",
-    "hours": {
-      "Sunday": "9:00 am - 8:30 pm",
-      "Monday": "9:00 am - 8:30 pm",
-      "Tuesday": "9:00 am - 8:30 pm",
-      "Wednesday": "9:00 am - 8:30 pm",
-      "Thursday": "9:00 am - 8:30 pm",
-      "Friday": "9:00 am - 8:30 pm",
-      "Saturday": "9:00 am - 8:30 pm"
-    },
-    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/seasons-iga-burpengary/",
