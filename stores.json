@@ -7537,29 +7537,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-gordonvale/",
-    "name": "IGA Gordonvale",
-    "address_line_1": "George Street",
-    "address_line_2": "Gordonvale, 4865, QLD",
-    "phone": "(07) 4056 6077",
-    "directions_url": "https://maps.google.com/maps?cid=3674587648435472357",
-    "hours": {
-      "Sunday": "6:00 am - 9:00 pm",
-      "Monday": "6:00 am - 9:00 pm",
-      "Tuesday": "6:00 am - 9:00 pm",
-      "Wednesday": "6:00 am - 9:00 pm",
-      "Thursday": "6:00 am - 9:00 pm",
-      "Friday": "6:00 am - 9:00 pm",
-      "Saturday": "6:00 am - 9:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Butcher",
-      "Deli Station",
-      "Fresh Flowers"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-green-square-plus-liquor/",
     "name": "IGA Green Square Plus Liquor",
     "address_line_1": "609 Victoria Street",
