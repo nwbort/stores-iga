@@ -9242,8 +9242,8 @@
       "Tuesday": "8:30 am - 6:00 pm",
       "Wednesday": "8:30 am - 6:00 pm",
       "Thursday": "8:30 am - 6:00 pm",
-      "Friday": "8:30 am - 7:00 pm",
-      "Saturday": "8:00 am - 7:00 pm"
+      "Friday": "8:30 am - 6:30 pm",
+      "Saturday": "8:00 am - 6:30 pm"
     },
     "services": [
       "Deli Station",
@@ -12662,13 +12662,13 @@
     "phone": "(03) 5902 5275",
     "directions_url": null,
     "hours": {
-      "Sunday": "7:30 am - 9:00 pm",
-      "Monday": "7:30 am - 9:00 pm",
-      "Tuesday": "7:30 am - 9:00 pm",
-      "Wednesday": "7:30 am - 9:00 pm",
-      "Thursday": "7:30 am - 9:00 pm",
-      "Friday": "7:30 am - 9:00 pm",
-      "Saturday": "7:30 am - 9:00 pm"
+      "Sunday": "8:00 am - 8:00 pm",
+      "Monday": "8:00 am - 8:00 pm",
+      "Tuesday": "8:00 am - 8:00 pm",
+      "Wednesday": "8:00 am - 8:00 pm",
+      "Thursday": "8:00 am - 8:00 pm",
+      "Friday": "8:00 am - 8:00 pm",
+      "Saturday": "8:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -12891,6 +12891,24 @@
     "services": [
       "Ready Meals"
     ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-local-grocer-port-kembla/",
+    "name": "IGA Local Grocer Port Kembla",
+    "address_line_1": "125/127 Wentworth Street,",
+    "address_line_2": "Port Kembla, NSW, 2025",
+    "phone": null,
+    "directions_url": null,
+    "hours": {
+      "Sunday": "7:00 am - 7:30 pm",
+      "Monday": "6:00 am - 7:30 pm",
+      "Tuesday": "6:00 am - 7:30 pm",
+      "Wednesday": "6:00 am - 7:30 pm",
+      "Thursday": "6:00 am - 7:30 pm",
+      "Friday": "6:00 am - 7:30 pm",
+      "Saturday": "7:00 am - 7:30 pm"
+    },
+    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-port-pirie-west/",
@@ -15117,29 +15135,6 @@
       "Thursday": "6:00 am - 7:00 pm",
       "Friday": "6:00 am - 7:00 pm",
       "Saturday": "6:00 am - 7:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Butcher",
-      "Deli Station",
-      "Ready Meals"
-    ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-millicent/",
-    "name": "IGA Millicent",
-    "address_line_1": "79 George Street",
-    "address_line_2": "Millicent, 5280, SA",
-    "phone": "(08) 8733 2411",
-    "directions_url": "https://maps.google.com/maps?cid=4924434181552346715",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
     },
     "services": [
       "BBQ Chicken",
@@ -17571,13 +17566,13 @@
     "phone": "(08) 8341 5230",
     "directions_url": "https://maps.google.com/maps?cid=15671202819950617850",
     "hours": {
-      "Sunday": "7:00 am - 10:00 pm",
-      "Monday": "7:00 am - 10:00 pm",
-      "Tuesday": "7:00 am - 10:00 pm",
-      "Wednesday": "7:00 am - 10:00 pm",
-      "Thursday": "7:00 am - 10:00 pm",
-      "Friday": "7:00 am - 10:00 pm",
-      "Saturday": "7:00 am - 10:00 pm"
+      "Sunday": "7:30 am - 9:00 pm",
+      "Monday": "7:30 am - 9:00 pm",
+      "Tuesday": "7:30 am - 9:00 pm",
+      "Wednesday": "7:30 am - 9:00 pm",
+      "Thursday": "7:30 am - 9:00 pm",
+      "Friday": "7:30 am - 9:00 pm",
+      "Saturday": "7:30 am - 9:00 pm"
     },
     "services": [
       "Fresh Flowers",
@@ -17914,13 +17909,13 @@
     "phone": "(02) 4928 1599",
     "directions_url": "https://maps.google.com/maps?cid=4316994843595899883",
     "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "6:00 am - 8:00 pm"
+      "Sunday": "7:00 am - 7:00 pm",
+      "Monday": "7:00 am - 7:00 pm",
+      "Tuesday": "7:00 am - 7:00 pm",
+      "Wednesday": "7:00 am - 7:00 pm",
+      "Thursday": "7:00 am - 7:00 pm",
+      "Friday": "7:00 am - 7:00 pm",
+      "Saturday": "7:00 am - 7:00 pm"
     },
     "services": [
       "BBQ Chicken",
@@ -20160,6 +20155,24 @@
       "Ready Meals",
       "Seafood"
     ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-x-press-rochedale-south/",
+    "name": "IGA X-press Rochedale South",
+    "address_line_1": "473 Underwood Road",
+    "address_line_2": "Rochedale South, 4123, QLD",
+    "phone": "(07) 3341 4886",
+    "directions_url": "https://maps.google.com/maps?cid=10686639802328496323",
+    "hours": {
+      "Sunday": "6:00 am - 8:00 pm",
+      "Monday": "6:00 am - 8:00 pm",
+      "Tuesday": "6:00 am - 8:00 pm",
+      "Wednesday": "6:00 am - 8:00 pm",
+      "Thursday": "6:00 am - 8:00 pm",
+      "Friday": "6:00 am - 8:00 pm",
+      "Saturday": "6:00 am - 8:00 pm"
+    },
+    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/iga-x-press-rosebery/",
