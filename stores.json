@@ -430,7 +430,7 @@
     "url": "https://www.iga.com.au/stores/barham-iga/",
     "name": "Barham IGA",
     "address_line_1": "33 Murray Street",
-    "address_line_2": "Barham, 2739, NSW",
+    "address_line_2": "Barham, 2732, NSW",
     "phone": "(03) 5453 2400",
     "directions_url": "https://maps.google.com/maps?cid=11216329624502777417",
     "hours": {
@@ -1647,29 +1647,6 @@
     "services": [
       "BBQ Chicken",
       "Deli Station",
-      "Ready Meals",
-      "Seafood"
-    ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/corfield-fresh-iga/",
-    "name": "Corfield Fresh IGA",
-    "address_line_1": "292 Corfield Street",
-    "address_line_2": "Gosnells, 6110, WA",
-    "phone": "(08) 9490 1455",
-    "directions_url": "https://maps.google.com/maps?cid=14989509472540631869",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": [
-      "Butcher",
-      "Fresh Flowers",
       "Ready Meals",
       "Seafood"
     ]
@@ -7429,6 +7406,24 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-glenden/",
+    "name": "IGA Glenden",
+    "address_line_1": "21 Dalton Place",
+    "address_line_2": "Glenden, 4743, QLD",
+    "phone": "(07) 4958 9262",
+    "directions_url": "https://maps.google.com/maps?cid=7279693193615617958",
+    "hours": {
+      "Sunday": "-",
+      "Monday": "8:00 am - 6:00 pm",
+      "Tuesday": "8:00 am - 6:00 pm",
+      "Wednesday": "8:00 am - 6:00 pm",
+      "Thursday": "8:00 am - 6:00 pm",
+      "Friday": "8:00 am - 6:00 pm",
+      "Saturday": "8:00 am - 2:00 pm"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-glenfield/",
     "name": "IGA Glenfield",
     "address_line_1": "582 Chapman Road",
@@ -7459,13 +7454,13 @@
     "phone": "(03) 8390 6988",
     "directions_url": "https://maps.google.com/maps?cid=13023094445012149607",
     "hours": {
-      "Sunday": "9:00 am - 9:00 pm",
-      "Monday": "8:00 am - 9:00 pm",
-      "Tuesday": "8:00 am - 9:00 pm",
-      "Wednesday": "8:00 am - 9:00 pm",
-      "Thursday": "8:00 am - 9:00 pm",
-      "Friday": "8:00 am - 9:00 pm",
-      "Saturday": "8:00 am - 9:00 pm"
+      "Sunday": "7:00 am - 7:00 pm",
+      "Monday": "7:00 am - 7:00 pm",
+      "Tuesday": "7:00 am - 7:00 pm",
+      "Wednesday": "7:00 am - 7:00 pm",
+      "Thursday": "7:00 am - 7:00 pm",
+      "Friday": "7:00 am - 7:00 pm",
+      "Saturday": "7:00 am - 7:00 pm"
     },
     "services": [
       "BBQ Chicken",
@@ -8381,29 +8376,6 @@
       "Butcher",
       "Deli Station",
       "Fresh Flowers"
-    ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-kearns/",
-    "name": "IGA Kearns",
-    "address_line_1": "Kearns Road Shopping Centre Shop 10",
-    "address_line_2": "Kearns, 2558, NSW",
-    "phone": "(02) 9824 8844",
-    "directions_url": "https://maps.google.com/maps?cid=14542581470639148521",
-    "hours": {
-      "Sunday": "7:00 am - 7:00 pm",
-      "Monday": "7:00 am - 7:30 pm",
-      "Tuesday": "7:00 am - 7:30 pm",
-      "Wednesday": "7:00 am - 7:30 pm",
-      "Thursday": "7:00 am - 7:30 pm",
-      "Friday": "7:00 am - 7:30 pm",
-      "Saturday": "7:00 am - 7:30 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station",
-      "Ready Meals",
-      "Seafood"
     ]
   },
   {
@@ -14875,28 +14847,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-medina/",
-    "name": "IGA Medina",
-    "address_line_1": "14-16 Pace Road",
-    "address_line_2": "Medina, 6167, WA",
-    "phone": "(08) 9415 1345",
-    "directions_url": "https://maps.google.com/maps?cid=10616418238213645084",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": [
-      "Fresh Flowers",
-      "Ready Meals",
-      "Seafood"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-melrose/",
     "name": "IGA Melrose",
     "address_line_1": "23 Melrose Street",
@@ -15135,6 +15085,29 @@
       "Thursday": "6:00 am - 7:00 pm",
       "Friday": "6:00 am - 7:00 pm",
       "Saturday": "6:00 am - 7:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Butcher",
+      "Deli Station",
+      "Ready Meals"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-millicent/",
+    "name": "IGA Millicent",
+    "address_line_1": "79 George Street",
+    "address_line_2": "Millicent, 5280, SA",
+    "phone": "(08) 8733 2411",
+    "directions_url": "https://maps.google.com/maps?cid=4924434181552346715",
+    "hours": {
+      "Sunday": "7:00 am - 9:00 pm",
+      "Monday": "7:00 am - 9:00 pm",
+      "Tuesday": "7:00 am - 9:00 pm",
+      "Wednesday": "7:00 am - 9:00 pm",
+      "Thursday": "7:00 am - 9:00 pm",
+      "Friday": "7:00 am - 9:00 pm",
+      "Saturday": "7:00 am - 9:00 pm"
     },
     "services": [
       "BBQ Chicken",
@@ -15704,6 +15677,24 @@
       "Thursday": "6:00 am - 8:00 pm",
       "Friday": "6:00 am - 8:00 pm",
       "Saturday": "6:00 am - 8:00 pm"
+    },
+    "services": []
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-narrabundah/",
+    "name": "IGA Narrabundah",
+    "address_line_1": "6 Iluka Street",
+    "address_line_2": "Narrabundah, 2604, ACT",
+    "phone": "(02) 6295 9872",
+    "directions_url": "https://maps.google.com/maps?cid=12802651054935291746",
+    "hours": {
+      "Sunday": "8:00 am - 8:00 pm",
+      "Monday": "8:00 am - 8:00 pm",
+      "Tuesday": "8:00 am - 8:00 pm",
+      "Wednesday": "8:00 am - 8:00 pm",
+      "Thursday": "8:00 am - 8:00 pm",
+      "Friday": "8:00 am - 8:00 pm",
+      "Saturday": "8:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -16898,24 +16889,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-reservoir/",
-    "name": "IGA Reservoir",
-    "address_line_1": "66-68 Gertz Avenue",
-    "address_line_2": "Reservoir, 3073, VIC",
-    "phone": "(03) 9460 6428",
-    "directions_url": "https://maps.google.com/maps?cid=6029417740366553844",
-    "hours": {
-      "Sunday": "8:00 am - 3:00 pm",
-      "Monday": "7:30 am - 7:00 pm",
-      "Tuesday": "7:30 am - 7:00 pm",
-      "Wednesday": "7:30 am - 7:00 pm",
-      "Thursday": "7:30 am - 7:00 pm",
-      "Friday": "7:30 am - 7:00 pm",
-      "Saturday": "8:00 am - 5:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-revesby/",
     "name": "IGA Revesby",
     "address_line_1": "2 Selems Pde",
@@ -17228,6 +17201,24 @@
       "Deli Station",
       "Seafood"
     ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-rothwell/",
+    "name": "IGA Rothwell",
+    "address_line_1": "Cnr Bremner Road & Anzac Avenue",
+    "address_line_2": "Rothwell, 4022, QLD",
+    "phone": "(07) 3203 2400",
+    "directions_url": "https://maps.google.com/maps?cid=17120855750817078789",
+    "hours": {
+      "Sunday": "6:00 am - 9:00 pm",
+      "Monday": "6:00 am - 9:00 pm",
+      "Tuesday": "6:00 am - 9:00 pm",
+      "Wednesday": "6:00 am - 9:00 pm",
+      "Thursday": "6:00 am - 9:00 pm",
+      "Friday": "6:00 am - 9:00 pm",
+      "Saturday": "6:00 am - 9:00 pm"
+    },
+    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/iga-rouse-hill/",
@@ -18155,24 +18146,6 @@
       "Thursday": "7:00 am - 9:00 pm",
       "Friday": "7:00 am - 9:00 pm",
       "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-supa-lowood/",
-    "name": "IGA SUPA Lowood",
-    "address_line_1": "55-61 Main Street",
-    "address_line_2": "Lowood, 4311, QLD",
-    "phone": "(07) 5426 1384",
-    "directions_url": "https://maps.google.com/maps?cid=11612279608013722812",
-    "hours": {
-      "Sunday": "7:00 am - 7:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -19499,28 +19472,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-willagee/",
-    "name": "IGA Willagee",
-    "address_line_1": "70 Archibald Street",
-    "address_line_2": "Willagee, 6156, WA",
-    "phone": "(08) 9337 1606",
-    "directions_url": "https://maps.google.com/maps?cid=13422062217874804121",
-    "hours": {
-      "Sunday": "7:30 am - 8:00 pm",
-      "Monday": "7:30 am - 8:00 pm",
-      "Tuesday": "7:30 am - 8:00 pm",
-      "Wednesday": "7:30 am - 8:00 pm",
-      "Thursday": "7:30 am - 8:00 pm",
-      "Friday": "7:30 am - 8:00 pm",
-      "Saturday": "7:30 am - 8:00 pm"
-    },
-    "services": [
-      "Fresh Flowers",
-      "Ready Meals",
-      "Seafood"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-winchelsea/",
     "name": "IGA Winchelsea",
     "address_line_1": "29 Main Street",
@@ -20004,6 +19955,24 @@
       "Fresh Flowers",
       "Ready Meals"
     ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-x-press-king-street/",
+    "name": "IGA X-press King Street",
+    "address_line_1": "212 King Street",
+    "address_line_2": "Melbourne, 3000, VIC",
+    "phone": "(03) 9600 2033",
+    "directions_url": "https://maps.google.com/maps?cid=18145789746034233463",
+    "hours": {
+      "Sunday": "6:00 am - 11:00 pm",
+      "Monday": "6:00 am - 11:00 pm",
+      "Tuesday": "6:00 am - 11:00 pm",
+      "Wednesday": "6:00 am - 11:00 pm",
+      "Thursday": "6:00 am - 11:00 pm",
+      "Friday": "6:00 am - 11:59 pm",
+      "Saturday": "6:00 am - 11:59 pm"
+    },
+    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/iga-x-press-kurrajong-heights/",
@@ -20630,24 +20599,6 @@
       "Ready Meals",
       "Seafood"
     ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-xpress-buderim/",
-    "name": "IGA Xpress Buderim",
-    "address_line_1": "Shop 2",
-    "address_line_2": "Buderim, 4556, QLD",
-    "phone": "(07) 5445 5446",
-    "directions_url": "https://maps.google.com/maps?cid=9492285526491140131",
-    "hours": {
-      "Sunday": "6:00 am - 8:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "6:00 am - 8:00 pm"
-    },
-    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/iga-xpress-bundaberg-north/",
@@ -22858,29 +22809,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/marcos-iga-narre-warren-north/",
-    "name": "Marcos IGA Narre Warren North",
-    "address_line_1": "Oakview Blvd",
-    "address_line_2": "Narre Warren, 3804, VIC",
-    "phone": "(03) 9796 8861",
-    "directions_url": "https://maps.google.com/maps?cid=6181655352504973188",
-    "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Butcher",
-      "Deli Station",
-      "Ready Meals"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/marks-iga-mansfield/",
     "name": "Marks IGA Mansfield",
     "address_line_1": "47 High Street",
@@ -23162,6 +23090,24 @@
       "Ready Meals",
       "Seafood"
     ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/michaels-fresh-food-market/",
+    "name": "Michael's Fresh Food Market",
+    "address_line_1": "Corner Springvale & Cheltenham Roads",
+    "address_line_2": "Keysborough, 3173, VIC",
+    "phone": "(03) 9559 9449",
+    "directions_url": null,
+    "hours": {
+      "Sunday": "8:00 am - 8:00 pm",
+      "Monday": "8:00 am - 8:00 pm",
+      "Tuesday": "8:00 am - 8:00 pm",
+      "Wednesday": "8:00 am - 8:00 pm",
+      "Thursday": "8:00 am - 8:00 pm",
+      "Friday": "8:00 am - 8:00 pm",
+      "Saturday": "8:00 am - 8:00 pm"
+    },
+    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/michaels-iga-korumburra/",
@@ -25316,13 +25262,13 @@
     "phone": "(02) 6682 6270",
     "directions_url": "https://maps.google.com/maps?cid=12856290789156427882",
     "hours": {
-      "Sunday": "6:30 am - 8:00 pm",
-      "Monday": "6:30 am - 8:00 pm",
-      "Tuesday": "6:30 am - 8:00 pm",
-      "Wednesday": "6:30 am - 8:00 pm",
-      "Thursday": "6:30 am - 8:00 pm",
-      "Friday": "6:30 am - 8:00 pm",
-      "Saturday": "6:30 am - 8:00 pm"
+      "Sunday": "7:00 am - 8:00 pm",
+      "Monday": "7:00 am - 8:00 pm",
+      "Tuesday": "7:00 am - 8:00 pm",
+      "Wednesday": "7:00 am - 8:00 pm",
+      "Thursday": "7:00 am - 8:00 pm",
+      "Friday": "7:00 am - 8:00 pm",
+      "Saturday": "7:00 am - 8:00 pm"
     },
     "services": [
       "BBQ Chicken",
@@ -26082,6 +26028,28 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/ritchies-iga-singleton/",
+    "name": "Ritchies IGA Singleton",
+    "address_line_1": "11/54-56 John St & Gowrie St",
+    "address_line_2": "Singleton, 2330, NSW",
+    "phone": "(02) 6571 2460",
+    "directions_url": "https://maps.google.com/maps?cid=660539564383199540",
+    "hours": {
+      "Sunday": "8:00 am - 7:00 pm",
+      "Monday": "7:00 am - 8:00 pm",
+      "Tuesday": "7:00 am - 8:00 pm",
+      "Wednesday": "7:00 am - 8:00 pm",
+      "Thursday": "7:00 am - 8:00 pm",
+      "Friday": "7:00 am - 8:00 pm",
+      "Saturday": "7:00 am - 7:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Deli Station",
+      "Ready Meals"
+    ]
+  },
+  {
     "url": "https://www.iga.com.au/stores/ritchies-iga-somerville/",
     "name": "Ritchies IGA Somerville",
     "address_line_1": "2 Eramosa Road West",
@@ -26112,7 +26080,7 @@
     "phone": "(03) 5984 8500",
     "directions_url": "https://maps.google.com/maps?cid=2518937037687616327",
     "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
+      "Sunday": "7:00 am - 7:00 pm",
       "Monday": "7:00 am - 8:00 pm",
       "Tuesday": "7:00 am - 8:00 pm",
       "Wednesday": "7:00 am - 8:00 pm",
@@ -28890,6 +28858,24 @@
       "Thursday": "8:00 am - 9:00 pm",
       "Friday": "8:00 am - 9:00 pm",
       "Saturday": "8:00 am - 9:00 pm"
+    },
+    "services": []
+  },
+  {
+    "url": "https://www.iga.com.au/stores/wanneroo-supa-iga/",
+    "name": "Wanneroo Supa IGA",
+    "address_line_1": "Cnr Conlan Drive & WannerooRd",
+    "address_line_2": "Wanneroo, 6065, WA",
+    "phone": "(08) 9306 2044",
+    "directions_url": "https://maps.google.com/maps?cid=2946359842810151651",
+    "hours": {
+      "Sunday": "8:00 am - 8:00 pm",
+      "Monday": "8:00 am - 9:00 pm",
+      "Tuesday": "8:00 am - 9:00 pm",
+      "Wednesday": "8:00 am - 9:00 pm",
+      "Thursday": "8:00 am - 9:00 pm",
+      "Friday": "8:00 am - 9:00 pm",
+      "Saturday": "8:00 am - 8:00 pm"
     },
     "services": []
   },
