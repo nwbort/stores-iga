@@ -1698,11 +1698,11 @@
 		<lastmod>2023-03-09T11:01:39+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-bertram/</loc>
+		<loc>https://www.iga.com.au/stores/iga-hahndorf/</loc>
 		<lastmod>2023-03-09T11:01:52+11:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-hahndorf/</loc>
+		<loc>https://www.iga.com.au/stores/iga-bertram/</loc>
 		<lastmod>2023-03-09T11:01:52+11:00</lastmod>
 	</url>
 	<url>

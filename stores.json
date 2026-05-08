@@ -13161,24 +13161,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-sandy-hill/",
-    "name": "IGA Local Grocer Sandy Hill",
-    "address_line_1": "222 Bay Rd",
-    "address_line_2": "Sandringham VIC 3191",
-    "phone": "+61390778820",
-    "directions_url": null,
-    "hours": {
-      "Sunday": "9:00 am - 6:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-saratoga/",
     "name": "IGA Local Grocer Saratoga",
     "address_line_1": "Shop/7 Village Rd",
