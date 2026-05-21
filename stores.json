@@ -18331,13 +18331,13 @@
     "phone": "(07) 4627 3322",
     "directions_url": "https://maps.google.com/maps?cid=888059127064510997",
     "hours": {
-      "Sunday": "7:00 am - 6:00 pm",
-      "Monday": "7:00 am - 6:00 pm",
-      "Tuesday": "7:00 am - 6:00 pm",
-      "Wednesday": "7:00 am - 6:00 pm",
-      "Thursday": "7:00 am - 6:00 pm",
-      "Friday": "7:00 am - 6:00 pm",
-      "Saturday": "7:00 am - 6:00 pm"
+      "Sunday": "7:00 am - 7:00 pm",
+      "Monday": "7:00 am - 7:00 pm",
+      "Tuesday": "7:00 am - 7:00 pm",
+      "Wednesday": "7:00 am - 7:00 pm",
+      "Thursday": "7:00 am - 7:00 pm",
+      "Friday": "7:00 am - 7:00 pm",
+      "Saturday": "7:00 am - 7:00 pm"
     },
     "services": [
       "BBQ Chicken",
@@ -20392,24 +20392,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-x-press-wivenhoe/",
-    "name": "IGA X-Press Wivenhoe",
-    "address_line_1": "22 Main Road",
-    "address_line_2": "Wivenhoe, 7320, TAS",
-    "phone": "(03) 6431 3862",
-    "directions_url": "https://maps.google.com/maps?cid=17136183314822712859",
-    "hours": {
-      "Sunday": "9:00 am - 5:00 pm",
-      "Monday": "7:00 am - 6:30 pm",
-      "Tuesday": "7:00 am - 6:30 pm",
-      "Wednesday": "7:00 am - 6:30 pm",
-      "Thursday": "7:00 am - 6:30 pm",
-      "Friday": "7:00 am - 6:30 pm",
-      "Saturday": "7:00 am - 5:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-x-press-yorkeys-knob/",
     "name": "IGA X-press Yorkeys Knob",
     "address_line_1": "453 Varley Street",
@@ -20641,6 +20623,24 @@
       "Ready Meals",
       "Seafood"
     ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-xpress-buderim/",
+    "name": "IGA Xpress Buderim",
+    "address_line_1": "Shop 2",
+    "address_line_2": "Buderim, 4556, QLD",
+    "phone": "(07) 5445 5446",
+    "directions_url": "https://maps.google.com/maps?cid=9492285526491140131",
+    "hours": {
+      "Sunday": "6:00 am - 8:00 pm",
+      "Monday": "6:00 am - 8:00 pm",
+      "Tuesday": "6:00 am - 8:00 pm",
+      "Wednesday": "6:00 am - 8:00 pm",
+      "Thursday": "6:00 am - 8:00 pm",
+      "Friday": "6:00 am - 8:00 pm",
+      "Saturday": "6:00 am - 8:00 pm"
+    },
+    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/iga-xpress-bundaberg-north/",
