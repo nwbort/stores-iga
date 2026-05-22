@@ -10231,7 +10231,7 @@
   },
   {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-domain-central/",
-    "name": "IGA Local Grocer Domain Central",
+    "name": "Fola’s IGA Local Grocer Domain Central",
     "address_line_1": "103 Duckworth Street",
     "address_line_2": "Garbutt, 4814, QLD",
     "phone": "(07) 4413 7821",
@@ -16397,24 +16397,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-plumpton-plus-liquor/",
-    "name": "IGA Plumpton Plus Liquor",
-    "address_line_1": "2 Osprey Drive",
-    "address_line_2": "Plumpton, 3335, VIC",
-    "phone": "(03) 8358 3866",
-    "directions_url": "https://maps.google.com/maps?cid=17964809045441629361",
-    "hours": {
-      "Sunday": "7:00 am - 10:00 pm",
-      "Monday": "7:00 am - 10:00 pm",
-      "Tuesday": "7:00 am - 10:00 pm",
-      "Wednesday": "7:00 am - 10:00 pm",
-      "Thursday": "7:00 am - 10:00 pm",
-      "Friday": "7:00 am - 10:00 pm",
-      "Saturday": "7:00 am - 10:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-plus-liquor-breakfast-point/",
     "name": "IGA Plus Liquor Breakfast Point",
     "address_line_1": "19-21 Tennyson Road",
@@ -20388,6 +20370,24 @@
       "Thursday": "6:00 am - 8:00 pm",
       "Friday": "6:00 am - 9:00 pm",
       "Saturday": "6:00 am - 9:00 pm"
+    },
+    "services": []
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-x-press-wivenhoe/",
+    "name": "IGA X-Press Wivenhoe",
+    "address_line_1": "22 Main Road",
+    "address_line_2": "Wivenhoe, 7320, TAS",
+    "phone": "(03) 6431 3862",
+    "directions_url": "https://maps.google.com/maps?cid=17136183314822712859",
+    "hours": {
+      "Sunday": "9:00 am - 5:00 pm",
+      "Monday": "7:00 am - 6:30 pm",
+      "Tuesday": "7:00 am - 6:30 pm",
+      "Wednesday": "7:00 am - 6:30 pm",
+      "Thursday": "7:00 am - 6:30 pm",
+      "Friday": "7:00 am - 6:30 pm",
+      "Saturday": "7:00 am - 5:00 pm"
     },
     "services": []
   },
@@ -24906,13 +24906,13 @@
     "phone": "(07) 5463 1031",
     "directions_url": "https://maps.google.com/maps?cid=42675316144279809",
     "hours": {
-      "Sunday": "6:30 am - 8:00 pm",
-      "Monday": "6:30 am - 8:00 pm",
-      "Tuesday": "6:30 am - 8:00 pm",
-      "Wednesday": "6:30 am - 8:00 pm",
-      "Thursday": "6:30 am - 8:00 pm",
-      "Friday": "6:30 am - 8:00 pm",
-      "Saturday": "6:30 am - 8:00 pm"
+      "Sunday": "7:00 am - 8:00 pm",
+      "Monday": "7:00 am - 8:00 pm",
+      "Tuesday": "7:00 am - 8:00 pm",
+      "Wednesday": "7:00 am - 8:00 pm",
+      "Thursday": "7:00 am - 8:00 pm",
+      "Friday": "7:00 am - 8:00 pm",
+      "Saturday": "7:00 am - 8:00 pm"
     },
     "services": [
       "BBQ Chicken",
@@ -25059,13 +25059,13 @@
     "phone": "07  3299 4799",
     "directions_url": "https://maps.google.com/maps?cid=14949459065456137628",
     "hours": {
-      "Sunday": "6:00 am - 9:00 pm",
-      "Monday": "6:00 am - 9:00 pm",
-      "Tuesday": "6:00 am - 9:00 pm",
-      "Wednesday": "6:00 am - 9:00 pm",
-      "Thursday": "6:00 am - 9:00 pm",
-      "Friday": "6:00 am - 9:00 pm",
-      "Saturday": "6:00 am - 9:00 pm"
+      "Sunday": "7:00 am - 9:00 pm",
+      "Monday": "7:00 am - 9:00 pm",
+      "Tuesday": "7:00 am - 9:00 pm",
+      "Wednesday": "7:00 am - 9:00 pm",
+      "Thursday": "7:00 am - 9:00 pm",
+      "Friday": "7:00 am - 9:00 pm",
+      "Saturday": "7:00 am - 9:00 pm"
     },
     "services": [
       "BBQ Chicken",
