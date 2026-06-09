@@ -2120,29 +2120,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/elmore-iga-plus-liquor/",
-    "name": "Elmore IGA Plus Liquor",
-    "address_line_1": "72-76 Railway Place",
-    "address_line_2": "Elmore, 3558, VIC",
-    "phone": "(03) 5432 6034",
-    "directions_url": "https://maps.google.com/maps?cid=2592699164083950655",
-    "hours": {
-      "Sunday": "9:00 am - 6:00 pm",
-      "Monday": "8:00 am - 7:00 pm",
-      "Tuesday": "8:00 am - 7:00 pm",
-      "Wednesday": "8:00 am - 7:00 pm",
-      "Thursday": "8:00 am - 7:00 pm",
-      "Friday": "8:00 am - 7:00 pm",
-      "Saturday": "8:00 am - 7:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station",
-      "Ready Meals",
-      "Seafood"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/eve-iga/",
     "name": "Eve IGA",
     "address_line_1": "2-10 William Thwaites Boulevard",
@@ -5525,24 +5502,6 @@
     "services": [
       "Ready Meals"
     ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-connolly/",
-    "name": "IGA Connolly",
-    "address_line_1": "Connolly Shopping Centre",
-    "address_line_2": "Connolly, 6027, WA",
-    "phone": "(08) 9301 0820",
-    "directions_url": "https://maps.google.com/maps?cid=11128229820796512390",
-    "hours": {
-      "Sunday": "7:00 am - 8:30 pm",
-      "Monday": "7:00 am - 8:30 pm",
-      "Tuesday": "7:00 am - 8:30 pm",
-      "Wednesday": "7:00 am - 8:30 pm",
-      "Thursday": "7:00 am - 8:30 pm",
-      "Friday": "7:00 am - 8:30 pm",
-      "Saturday": "7:00 am - 8:30 pm"
-    },
-    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/iga-cooktown/",
@@ -10473,6 +10432,29 @@
       "Saturday": "8:00 am - 7:30 pm"
     },
     "services": [
+      "Fresh Flowers",
+      "Ready Meals"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-local-grocer-elmore-plus-liquor/",
+    "name": "IGA Local Grocer Elmore Plus Liquor",
+    "address_line_1": "72-76 Railway Place",
+    "address_line_2": "Elmore, 3558, VIC",
+    "phone": "(03) 5432 6034",
+    "directions_url": "https://maps.google.com/maps?cid=2592699164083950655",
+    "hours": {
+      "Sunday": "9:00 am - 6:00 pm",
+      "Monday": "8:00 am - 7:00 pm",
+      "Tuesday": "8:00 am - 7:00 pm",
+      "Wednesday": "8:00 am - 7:00 pm",
+      "Thursday": "8:00 am - 7:00 pm",
+      "Friday": "8:00 am - 7:00 pm",
+      "Saturday": "8:00 am - 7:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Deli Station",
       "Fresh Flowers",
       "Ready Meals"
     ]
@@ -17228,6 +17210,29 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-rouse-hill/",
+    "name": "IGA Rouse Hill",
+    "address_line_1": "22 Adelphi St",
+    "address_line_2": "Rouse Hill, 2155, NSW",
+    "phone": "(02) 8824 9311",
+    "directions_url": "https://maps.google.com/maps?cid=8083544115063555832",
+    "hours": {
+      "Sunday": "7:00 am - 8:00 pm",
+      "Monday": "7:00 am - 8:00 pm",
+      "Tuesday": "7:00 am - 8:00 pm",
+      "Wednesday": "7:00 am - 8:00 pm",
+      "Thursday": "7:00 am - 8:00 pm",
+      "Friday": "7:00 am - 8:00 pm",
+      "Saturday": "7:00 am - 8:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Deli Station",
+      "Ready Meals",
+      "Seafood"
+    ]
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-rowville-lakes/",
     "name": "IGA Rowville Lakes",
     "address_line_1": "150 Kellets Road",
@@ -19773,24 +19778,6 @@
       "Thursday": "7:00 am - 5:30 pm",
       "Friday": "7:00 am - 5:30 pm",
       "Saturday": "7:00 am - 3:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-x-press-burleigh-heads/",
-    "name": "IGA X-press Burleigh Heads",
-    "address_line_1": "1712 Gold Coast Highway",
-    "address_line_2": "Burleigh Heads, 4220, QLD",
-    "phone": "(07) 5520 1344",
-    "directions_url": "https://maps.google.com/maps?cid=17902559203801039420",
-    "hours": {
-      "Sunday": "6:00 am - 8:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "6:00 am - 9:00 pm"
     },
     "services": []
   },
@@ -24145,29 +24132,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/peries-iga-kilcoy/",
-    "name": "Peries IGA Kilcoy",
-    "address_line_1": "38 Mary Street",
-    "address_line_2": "Kilcoy, 4515, QLD",
-    "phone": "(07) 5497 1043",
-    "directions_url": "https://maps.google.com/maps?cid=15786041618424451480",
-    "hours": {
-      "Sunday": "7:00 am - 7:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Butcher",
-      "Deli Station",
-      "Ready Meals"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/peries-iga-kingaroy/",
     "name": "Peries IGA Kingaroy",
     "address_line_1": "Cnr Avoca & Pound Street",
@@ -24228,6 +24192,29 @@
       "BBQ Chicken",
       "Deli Station",
       "Fresh Flowers"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/peries-iga-nanango/",
+    "name": "Peries IGA Nanango",
+    "address_line_1": "62 Fitzroy Street",
+    "address_line_2": "Nanango, 4615, QLD",
+    "phone": "(07) 4163 1504",
+    "directions_url": "https://maps.google.com/maps?cid=14665189611755373117",
+    "hours": {
+      "Sunday": "7:00 am - 6:00 pm",
+      "Monday": "7:00 am - 7:00 pm",
+      "Tuesday": "7:00 am - 7:00 pm",
+      "Wednesday": "7:00 am - 7:00 pm",
+      "Thursday": "7:00 am - 8:00 pm",
+      "Friday": "7:00 am - 7:00 pm",
+      "Saturday": "7:00 am - 6:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Butcher",
+      "Deli Station",
+      "Ready Meals"
     ]
   },
   {
@@ -25981,6 +25968,28 @@
     "services": [
       "BBQ Chicken",
       "Butcher",
+      "Deli Station",
+      "Ready Meals"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/ritchies-iga-singleton/",
+    "name": "Ritchies IGA Singleton",
+    "address_line_1": "11/54-56 John St & Gowrie St",
+    "address_line_2": "Singleton, 2330, NSW",
+    "phone": "(02) 6571 2460",
+    "directions_url": "https://maps.google.com/maps?cid=660539564383199540",
+    "hours": {
+      "Sunday": "8:00 am - 7:00 pm",
+      "Monday": "7:00 am - 8:00 pm",
+      "Tuesday": "7:00 am - 8:00 pm",
+      "Wednesday": "7:00 am - 8:00 pm",
+      "Thursday": "7:00 am - 8:00 pm",
+      "Friday": "7:00 am - 8:00 pm",
+      "Saturday": "7:00 am - 7:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
       "Deli Station",
       "Ready Meals"
     ]
