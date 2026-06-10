@@ -5176,29 +5176,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-clearview/",
-    "name": "IGA Clearview",
-    "address_line_1": "248-252 Hampstead Road",
-    "address_line_2": "Clearview, 5085, SA",
-    "phone": "(08) 8359 0880",
-    "directions_url": "https://maps.google.com/maps?cid=15865001549311896836",
-    "hours": {
-      "Sunday": "7:30 am - 9:00 pm",
-      "Monday": "7:30 am - 9:00 pm",
-      "Tuesday": "7:30 am - 9:00 pm",
-      "Wednesday": "7:30 am - 9:00 pm",
-      "Thursday": "7:30 am - 9:00 pm",
-      "Friday": "7:30 am - 9:00 pm",
-      "Saturday": "7:30 am - 9:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Fresh Flowers",
-      "Ready Meals",
-      "Seafood"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-clermont/",
     "name": "IGA Clermont",
     "address_line_1": "48 Capella Street",
@@ -11019,6 +10996,29 @@
     "services": [
       "Deli Station",
       "Ready Meals"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-local-grocer-hampstead-road/",
+    "name": "IGA Clearview",
+    "address_line_1": "248-252 Hampstead Road",
+    "address_line_2": "Clearview, 5085, SA",
+    "phone": "(08) 8359 0880",
+    "directions_url": "https://maps.google.com/maps?cid=15865001549311896836",
+    "hours": {
+      "Sunday": "7:30 am - 9:00 pm",
+      "Monday": "7:30 am - 9:00 pm",
+      "Tuesday": "7:30 am - 9:00 pm",
+      "Wednesday": "7:30 am - 9:00 pm",
+      "Thursday": "7:30 am - 9:00 pm",
+      "Friday": "7:30 am - 9:00 pm",
+      "Saturday": "7:30 am - 9:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Fresh Flowers",
+      "Ready Meals",
+      "Seafood"
     ]
   },
   {
