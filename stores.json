@@ -7346,24 +7346,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-glass-house-mountains/",
-    "name": "IGA Glass House Mountains",
-    "address_line_1": "7 Reed Street Shop 4",
-    "address_line_2": "Glass House Mountains QLD 4518",
-    "phone": null,
-    "directions_url": null,
-    "hours": {
-      "Sunday": "6:00 am - 7:00 pm",
-      "Monday": "6:00 am - 7:00 pm",
-      "Tuesday": "6:00 am - 7:00 pm",
-      "Wednesday": "6:00 am - 7:00 pm",
-      "Thursday": "6:00 am - 7:00 pm",
-      "Friday": "6:00 am - 7:00 pm",
-      "Saturday": "6:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-glebe/",
     "name": "IGA Local Grocer Glebe",
     "address_line_1": "215 Glebe Point Road",
@@ -9251,13 +9233,13 @@
     "phone": "(07) 3809 2551",
     "directions_url": "https://maps.google.com/maps?cid=1766564780095826553",
     "hours": {
-      "Sunday": "6:00 am - 9:00 pm",
-      "Monday": "6:00 am - 9:00 pm",
-      "Tuesday": "6:00 am - 9:00 pm",
-      "Wednesday": "6:00 am - 9:00 pm",
-      "Thursday": "6:00 am - 9:00 pm",
-      "Friday": "6:00 am - 9:00 pm",
-      "Saturday": "6:00 am - 9:00 pm"
+      "Sunday": "6:00 am - 8:30 pm",
+      "Monday": "6:00 am - 8:30 pm",
+      "Tuesday": "6:00 am - 8:30 pm",
+      "Wednesday": "6:00 am - 8:30 pm",
+      "Thursday": "6:00 am - 8:30 pm",
+      "Friday": "6:00 am - 8:30 pm",
+      "Saturday": "6:00 am - 8:30 pm"
     },
     "services": [
       "BBQ Chicken",
@@ -10775,6 +10757,24 @@
       "Thursday": "5:00 am - 7:00 am",
       "Friday": "5:00 am - 7:00 am",
       "Saturday": "7:00 am - 7:00 pm"
+    },
+    "services": []
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-local-grocer-glasshouse-mountains/",
+    "name": "IGA Glass House Mountains",
+    "address_line_1": "7 Reed Street Shop 4",
+    "address_line_2": "Glass House Mountains QLD 4518",
+    "phone": null,
+    "directions_url": null,
+    "hours": {
+      "Sunday": "6:00 am - 7:00 pm",
+      "Monday": "6:00 am - 7:00 pm",
+      "Tuesday": "6:00 am - 7:00 pm",
+      "Wednesday": "6:00 am - 7:00 pm",
+      "Thursday": "6:00 am - 7:00 pm",
+      "Friday": "6:00 am - 7:00 pm",
+      "Saturday": "6:00 am - 7:00 pm"
     },
     "services": []
   },
@@ -17847,24 +17847,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-stirling/",
-    "name": "IGA Stirling",
-    "address_line_1": "Sanderling Street",
-    "address_line_2": "Stirling, 6021, WA",
-    "phone": "(08) 9344 5302",
-    "directions_url": "https://maps.google.com/maps?cid=1428926046407972420",
-    "hours": {
-      "Sunday": "8:00 am - 1:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 6:01 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-stockton-plus-liquor/",
     "name": "IGA Stockton Plus Liquor",
     "address_line_1": "53 Mitchell Street",
@@ -19743,24 +19725,6 @@
       "Thursday": "7:00 am - 5:30 pm",
       "Friday": "7:00 am - 5:30 pm",
       "Saturday": "7:00 am - 3:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-x-press-burleigh-heads/",
-    "name": "IGA X-press Burleigh Heads",
-    "address_line_1": "1712 Gold Coast Highway",
-    "address_line_2": "Burleigh Heads, 4220, QLD",
-    "phone": "(07) 5520 1344",
-    "directions_url": "https://maps.google.com/maps?cid=17902559203801039420",
-    "hours": {
-      "Sunday": "6:00 am - 8:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "6:00 am - 9:00 pm"
     },
     "services": []
   },
@@ -23583,6 +23547,24 @@
       "Fresh Flowers",
       "Ready Meals"
     ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/nelson-bay-iga-plus-liquor/",
+    "name": "Nelson Bay IGA Plus Liquor",
+    "address_line_1": "11/46-50 Austral Street",
+    "address_line_2": "Nelson Bay, 2315, NSW",
+    "phone": "(02) 4981 4092",
+    "directions_url": "https://maps.google.com/maps?cid=13517874656402752750",
+    "hours": {
+      "Sunday": "7:30 am - 6:00 pm",
+      "Monday": "7:30 am - 7:00 pm",
+      "Tuesday": "7:30 am - 7:00 pm",
+      "Wednesday": "7:30 am - 7:00 pm",
+      "Thursday": "7:30 am - 7:00 pm",
+      "Friday": "7:30 am - 7:00 pm",
+      "Saturday": "7:30 am - 7:00 pm"
+    },
+    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/newhaven-iga/",
@@ -27599,12 +27581,12 @@
     "directions_url": "https://maps.google.com/maps?cid=18216669608103685625",
     "hours": {
       "Sunday": "7:00 am - 6:00 pm",
-      "Monday": "6:30 am - 7:30 pm",
-      "Tuesday": "6:30 am - 7:30 pm",
-      "Wednesday": "6:30 am - 7:30 pm",
-      "Thursday": "6:30 am - 7:30 pm",
-      "Friday": "6:30 am - 7:30 pm",
-      "Saturday": "6:30 am - 7:30 pm"
+      "Monday": "6:30 am - 7:00 pm",
+      "Tuesday": "6:30 am - 7:00 pm",
+      "Wednesday": "6:30 am - 7:00 pm",
+      "Thursday": "6:30 am - 7:00 pm",
+      "Friday": "6:30 am - 7:00 pm",
+      "Saturday": "6:30 am - 7:00 pm"
     },
     "services": [
       "BBQ Chicken",
