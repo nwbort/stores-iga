@@ -7109,24 +7109,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-fraser/",
-    "name": "IGA Fraser",
-    "address_line_1": "1/4 Daley Crescent",
-    "address_line_2": "Fraser, 2615, ACT",
-    "phone": "(02) 6258 9429",
-    "directions_url": "https://maps.google.com/maps?cid=9215616070581251968",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-frenchs-forest/",
     "name": "IGA French's Forest",
     "address_line_1": "1/86 Beeville Rd, Petrie QLD 4502",
@@ -8771,6 +8753,28 @@
     "services": [
       "BBQ Chicken",
       "Ready Meals"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-lionel-st/",
+    "name": "IGA Lionel St",
+    "address_line_1": "58 - 60 Lionel Street",
+    "address_line_2": "Kalgoorlie, 6430, WA",
+    "phone": "(08) 9091 3470",
+    "directions_url": "https://maps.google.com/maps?cid=15222084928617957244",
+    "hours": {
+      "Sunday": "4:00 am - 8:30 pm",
+      "Monday": "4:00 am - 8:30 pm",
+      "Tuesday": "4:00 am - 8:30 pm",
+      "Wednesday": "4:00 am - 8:30 pm",
+      "Thursday": "4:00 am - 8:30 pm",
+      "Friday": "4:00 am - 8:30 pm",
+      "Saturday": "4:00 am - 8:30 pm"
+    },
+    "services": [
+      "Deli Station",
+      "Ready Meals",
+      "Seafood"
     ]
   },
   {
@@ -17847,6 +17851,24 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-stirling/",
+    "name": "IGA Stirling",
+    "address_line_1": "Sanderling Street",
+    "address_line_2": "Stirling, 6021, WA",
+    "phone": "(08) 9344 5302",
+    "directions_url": "https://maps.google.com/maps?cid=1428926046407972420",
+    "hours": {
+      "Sunday": "8:00 am - 1:00 pm",
+      "Monday": "7:00 am - 7:00 pm",
+      "Tuesday": "7:00 am - 7:00 pm",
+      "Wednesday": "7:00 am - 7:00 pm",
+      "Thursday": "7:00 am - 7:00 pm",
+      "Friday": "7:00 am - 7:00 pm",
+      "Saturday": "7:00 am - 6:01 pm"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-stockton-plus-liquor/",
     "name": "IGA Stockton Plus Liquor",
     "address_line_1": "53 Mitchell Street",
@@ -20170,6 +20192,24 @@
       "Thursday": "6:30 am - 9:00 pm",
       "Friday": "6:30 am - 9:00 pm",
       "Saturday": "7:30 am - 9:00 pm"
+    },
+    "services": []
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-x-press-shoal-bay/",
+    "name": "IGA X-Press Shoal Bay",
+    "address_line_1": "26-27 Shoal Bay Village",
+    "address_line_2": "Shoal Bay, 2315, NSW",
+    "phone": "(02) 4981 2108",
+    "directions_url": "https://maps.google.com/maps?cid=611451056896777570",
+    "hours": {
+      "Sunday": "8:00 am - 7:00 pm",
+      "Monday": "8:00 am - 7:00 pm",
+      "Tuesday": "8:00 am - 7:00 pm",
+      "Wednesday": "8:00 am - 7:00 pm",
+      "Thursday": "8:00 am - 7:00 pm",
+      "Friday": "8:00 am - 7:00 pm",
+      "Saturday": "8:00 am - 7:00 pm"
     },
     "services": []
   },
