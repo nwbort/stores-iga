@@ -7109,6 +7109,24 @@
     "services": []
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-fraser/",
+    "name": "IGA Fraser",
+    "address_line_1": "1/4 Daley Crescent",
+    "address_line_2": "Fraser, 2615, ACT",
+    "phone": "(02) 6258 9429",
+    "directions_url": "https://maps.google.com/maps?cid=9215616070581251968",
+    "hours": {
+      "Sunday": "7:00 am - 9:00 pm",
+      "Monday": "7:00 am - 9:00 pm",
+      "Tuesday": "7:00 am - 9:00 pm",
+      "Wednesday": "7:00 am - 9:00 pm",
+      "Thursday": "7:00 am - 9:00 pm",
+      "Friday": "7:00 am - 9:00 pm",
+      "Saturday": "7:00 am - 9:00 pm"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-frenchs-forest/",
     "name": "IGA French's Forest",
     "address_line_1": "1/86 Beeville Rd, Petrie QLD 4502",
@@ -19751,6 +19769,24 @@
     "services": []
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-x-press-burleigh-heads/",
+    "name": "IGA X-press Burleigh Heads",
+    "address_line_1": "1712 Gold Coast Highway",
+    "address_line_2": "Burleigh Heads, 4220, QLD",
+    "phone": "(07) 5520 1344",
+    "directions_url": "https://maps.google.com/maps?cid=17902559203801039420",
+    "hours": {
+      "Sunday": "6:00 am - 8:00 pm",
+      "Monday": "6:00 am - 8:00 pm",
+      "Tuesday": "6:00 am - 8:00 pm",
+      "Wednesday": "6:00 am - 8:00 pm",
+      "Thursday": "6:00 am - 8:00 pm",
+      "Friday": "6:00 am - 8:00 pm",
+      "Saturday": "6:00 am - 9:00 pm"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-x-press-burnie-west-park-grove/",
     "name": "IGA X-Press Burnie (West Park Grove)",
     "address_line_1": "56 West Park Grove",
@@ -20836,24 +20872,6 @@
       "Ready Meals",
       "Seafood"
     ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-xpress-goomalling/",
-    "name": "IGA Xpress Goomalling",
-    "address_line_1": "11-13 Railway Terrace",
-    "address_line_2": "Goomalling, 6460, WA",
-    "phone": "(08) 9629 1140",
-    "directions_url": "https://maps.google.com/maps?cid=12381335818423589189",
-    "hours": {
-      "Sunday": "-",
-      "Monday": "8:00 am - 5:30 pm",
-      "Tuesday": "8:00 am - 5:30 pm",
-      "Wednesday": "8:00 am - 5:30 pm",
-      "Thursday": "8:00 am - 5:30 pm",
-      "Friday": "8:00 am - 5:30 pm",
-      "Saturday": "8:00 am - 12:00 pm"
-    },
-    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/iga-xpress-goroke/",
@@ -22200,29 +22218,6 @@
       "Saturday": "7:00 am - 8:00 pm"
     },
     "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/kyneton-iga-plus-liquor/",
-    "name": "Kyneton IGA Plus Liquor",
-    "address_line_1": "62 Mollison Street",
-    "address_line_2": "Kyneton, 3444, VIC",
-    "phone": "(03) 5422 3444",
-    "directions_url": "https://maps.google.com/maps?cid=13941129143999927669",
-    "hours": {
-      "Sunday": "8:00 am - 7:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station",
-      "Ready Meals",
-      "Seafood"
-    ]
   },
   {
     "url": "https://www.iga.com.au/stores/lake-grace-plaza-iga/",
