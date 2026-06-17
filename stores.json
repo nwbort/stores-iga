@@ -21918,6 +21918,24 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/kensington-iga-plus-liquor/",
+    "name": "Kensington IGA Plus Liquor",
+    "address_line_1": "412 Macaulay Road",
+    "address_line_2": "Kensington, 3031, VIC",
+    "phone": "03 912 49872",
+    "directions_url": null,
+    "hours": {
+      "Sunday": "7:00 am - 11:00 pm",
+      "Monday": "7:00 am - 11:00 pm",
+      "Tuesday": "7:00 am - 11:00 pm",
+      "Wednesday": "7:00 am - 11:00 pm",
+      "Thursday": "7:00 am - 11:00 pm",
+      "Friday": "7:00 am - 11:00 pm",
+      "Saturday": "7:00 am - 11:00 pm"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/kensington-park-iga/",
     "name": "Kensington Park IGA",
     "address_line_1": "398 Magill Road",
