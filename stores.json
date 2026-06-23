@@ -246,29 +246,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/andres-iga-watsonia/",
-    "name": "Andres IGA Watsonia",
-    "address_line_1": "97 Watsonia Road",
-    "address_line_2": "Watsonia, 3087, VIC",
-    "phone": "(03) 9435 3661",
-    "directions_url": "https://maps.google.com/maps?cid=1996786676190145855",
-    "hours": {
-      "Sunday": "9:00 am - 7:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station",
-      "Fresh Flowers",
-      "Ready Meals"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/aschs-iga-xpress-collaroy-beach/",
     "name": "Asch's IGA Xpress Collaroy Beach",
     "address_line_1": "1139 Pittwater Road",
@@ -8874,6 +8851,29 @@
       "Barista",
       "Deli Station",
       "Fresh Flowers"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-local-grocer-andres-watsonia/",
+    "name": "Andres IGA Watsonia",
+    "address_line_1": "97 Watsonia Road",
+    "address_line_2": "Watsonia, 3087, VIC",
+    "phone": "(03) 9435 3661",
+    "directions_url": "https://maps.google.com/maps?cid=1996786676190145855",
+    "hours": {
+      "Sunday": "9:00 am - 7:00 pm",
+      "Monday": "8:00 am - 8:00 pm",
+      "Tuesday": "8:00 am - 8:00 pm",
+      "Wednesday": "8:00 am - 8:00 pm",
+      "Thursday": "8:00 am - 8:00 pm",
+      "Friday": "8:00 am - 8:00 pm",
+      "Saturday": "8:00 am - 8:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Deli Station",
+      "Fresh Flowers",
+      "Ready Meals"
     ]
   },
   {
