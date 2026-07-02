@@ -2848,19 +2848,19 @@
     "phone": "(07) 3193 9995",
     "directions_url": "https://maps.google.com/maps?cid=4630549284064825590",
     "hours": {
-      "Sunday": "6:00 am - 8:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "6:00 am - 8:00 pm"
+      "Sunday": "6:00 am - 9:00 pm",
+      "Monday": "6:00 am - 9:00 pm",
+      "Tuesday": "6:00 am - 9:00 pm",
+      "Wednesday": "6:00 am - 9:00 pm",
+      "Thursday": "6:00 am - 9:00 pm",
+      "Friday": "6:00 am - 9:00 pm",
+      "Saturday": "6:00 am - 9:00 pm"
     },
     "services": [
       "BBQ Chicken",
+      "Barista",
       "Butcher",
-      "Deli Station",
-      "Ready Meals"
+      "Deli Station"
     ]
   },
   {
@@ -15639,7 +15639,7 @@
   {
     "url": "https://www.iga.com.au/stores/iga-mundingburra/",
     "name": "IGA Mundingburra",
-    "address_line_1": "74 Ross River Road",
+    "address_line_1": "Shop 1/74-80 Ross River Rd",
     "address_line_2": "Mundingburra, 4812, QLD",
     "phone": "(07) 4453 4770",
     "directions_url": "https://maps.google.com/maps?cid=10416467676704646898",
@@ -19852,6 +19852,24 @@
       "Thursday": "5:00 am - 7:00 pm",
       "Friday": "5:00 am - 7:00 pm",
       "Saturday": "6:00 am - 7:00 pm"
+    },
+    "services": []
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-x-press-devonport-fourways/",
+    "name": "IGA X-Press Devonport (Fourways)",
+    "address_line_1": "99 Oldaker Street",
+    "address_line_2": "Devonport, 7310, TAS",
+    "phone": "(03) 6424 5361",
+    "directions_url": "https://maps.google.com/maps?cid=2930371259651108368",
+    "hours": {
+      "Sunday": "8:00 am - 7:00 pm",
+      "Monday": "7:00 am - 7:00 pm",
+      "Tuesday": "7:00 am - 7:00 pm",
+      "Wednesday": "7:00 am - 7:00 pm",
+      "Thursday": "7:00 am - 7:00 pm",
+      "Friday": "7:00 am - 7:00 pm",
+      "Saturday": "7:30 am - 7:00 pm"
     },
     "services": []
   },
