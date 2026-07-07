@@ -10069,13 +10069,13 @@
     "phone": "(07) 3204 8023",
     "directions_url": "https://maps.google.com/maps?cid=151108476213642641",
     "hours": {
-      "Sunday": "6:00 am - 8:00 pm",
+      "Sunday": "7:00 am - 8:00 pm",
       "Monday": "6:00 am - 8:00 pm",
       "Tuesday": "6:00 am - 8:00 pm",
       "Wednesday": "6:00 am - 8:00 pm",
       "Thursday": "6:00 am - 8:00 pm",
       "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "6:00 am - 8:00 pm"
+      "Saturday": "7:00 am - 8:00 pm"
     },
     "services": [
       "BBQ Chicken",
@@ -14080,28 +14080,6 @@
       "BBQ Chicken",
       "Deli Station",
       "Fresh Flowers"
-    ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-wattle-park/",
-    "name": "IGA Local Grocer Wattle Park",
-    "address_line_1": "470 Kensington Road",
-    "address_line_2": "Wattle Park, 5066, SA",
-    "phone": "(08) 8364 3848",
-    "directions_url": "https://maps.google.com/maps?cid=16122295884279038754",
-    "hours": {
-      "Sunday": "7:30 am - 8:00 pm",
-      "Monday": "7:30 am - 8:00 pm",
-      "Tuesday": "7:30 am - 8:00 pm",
-      "Wednesday": "7:30 am - 8:00 pm",
-      "Thursday": "7:30 am - 8:00 pm",
-      "Friday": "7:30 am - 8:00 pm",
-      "Saturday": "7:30 am - 8:00 pm"
-    },
-    "services": [
-      "Deli Station",
-      "Fresh Flowers",
-      "Ready Meals"
     ]
   },
   {
