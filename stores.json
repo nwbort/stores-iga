@@ -14083,6 +14083,28 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-local-grocer-wattle-park/",
+    "name": "IGA Local Grocer Wattle Park",
+    "address_line_1": "470 Kensington Road",
+    "address_line_2": "Wattle Park, 5066, SA",
+    "phone": "(08) 8364 3848",
+    "directions_url": "https://maps.google.com/maps?cid=16122295884279038754",
+    "hours": {
+      "Sunday": "7:30 am - 8:00 pm",
+      "Monday": "7:30 am - 8:00 pm",
+      "Tuesday": "7:30 am - 8:00 pm",
+      "Wednesday": "7:30 am - 8:00 pm",
+      "Thursday": "7:30 am - 8:00 pm",
+      "Friday": "7:30 am - 8:00 pm",
+      "Saturday": "7:30 am - 8:00 pm"
+    },
+    "services": [
+      "Deli Station",
+      "Fresh Flowers",
+      "Ready Meals"
+    ]
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-west-brunswick/",
     "name": "IGA Local Grocer West Brunswick",
     "address_line_1": "2-6 Olive York Way",
