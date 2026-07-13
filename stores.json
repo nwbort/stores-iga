@@ -1606,6 +1606,29 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/corfield-fresh-iga/",
+    "name": "Corfield Fresh IGA",
+    "address_line_1": "292 Corfield Street",
+    "address_line_2": "Gosnells, 6110, WA",
+    "phone": "(08) 9490 1455",
+    "directions_url": "https://maps.google.com/maps?cid=14989509472540631869",
+    "hours": {
+      "Sunday": "7:00 am - 9:00 pm",
+      "Monday": "7:00 am - 9:00 pm",
+      "Tuesday": "7:00 am - 9:00 pm",
+      "Wednesday": "7:00 am - 9:00 pm",
+      "Thursday": "7:00 am - 9:00 pm",
+      "Friday": "7:00 am - 9:00 pm",
+      "Saturday": "7:00 am - 9:00 pm"
+    },
+    "services": [
+      "Butcher",
+      "Fresh Flowers",
+      "Ready Meals",
+      "Seafood"
+    ]
+  },
+  {
     "url": "https://www.iga.com.au/stores/cornetts-iga-clermont/",
     "name": "Cornetts IGA Clermont",
     "address_line_1": "60 Daintree St,",
@@ -15706,24 +15729,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-nabiac/",
-    "name": "IGA Nabiac",
-    "address_line_1": "3 Clarkson Street",
-    "address_line_2": "Nabiac, 2312, NSW",
-    "phone": "(02) 6554 1270",
-    "directions_url": "https://maps.google.com/maps?cid=8226827953419377950",
-    "hours": {
-      "Sunday": "6:00 am - 8:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "6:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-narrabundah/",
     "name": "IGA Narrabundah",
     "address_line_1": "6 Iluka Street",
@@ -17753,29 +17758,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-springdale-heights/",
-    "name": "IGA Springdale Heights",
-    "address_line_1": "Crn Kaitlers Rd and Cardo Drive",
-    "address_line_2": "Springdale Heights, 2641, NSW",
-    "phone": "(02) 6058 3500",
-    "directions_url": "https://maps.google.com/maps?cid=17294856483714312916",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station",
-      "Ready Meals",
-      "Seafood"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-springfield-lakes/",
     "name": "IGA Springfield Lakes",
     "address_line_1": "31 Springfield Lakes Boulevard",
@@ -18937,6 +18919,24 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-ulladulla/",
+    "name": "IGA Ulladulla",
+    "address_line_1": "116 Princes Highway",
+    "address_line_2": "Ulladulla, 2539, NSW",
+    "phone": "(02) 4455 3033",
+    "directions_url": "https://maps.google.com/maps?cid=4583774265841065995",
+    "hours": {
+      "Sunday": "7:00 am - 9:00 pm",
+      "Monday": "7:00 am - 9:00 pm",
+      "Tuesday": "7:00 am - 9:00 pm",
+      "Wednesday": "7:00 am - 9:00 pm",
+      "Thursday": "7:00 am - 9:00 pm",
+      "Friday": "7:00 am - 9:00 pm",
+      "Saturday": "7:00 am - 9:00 pm"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-umina-beach/",
     "name": "IGA Umina Beach",
     "address_line_1": "357 Ocean Beach Rd",
@@ -19672,24 +19672,6 @@
       "Deli Station",
       "Seafood"
     ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-x-press-alexandra-headlands/",
-    "name": "IGA X-press Alexandra Headlands",
-    "address_line_1": "152 Alexandra Parade",
-    "address_line_2": "Alexandra Headland, 4572, QLD",
-    "phone": "(07) 5451 1499",
-    "directions_url": "https://maps.google.com/maps?cid=7177778328773619757",
-    "hours": {
-      "Sunday": "-",
-      "Monday": "-",
-      "Tuesday": "-",
-      "Wednesday": "-",
-      "Thursday": "-",
-      "Friday": "-",
-      "Saturday": "-"
-    },
-    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/iga-x-press-ashgrove/",
@@ -24019,29 +24001,6 @@
       "Fresh Flowers",
       "Ready Meals",
       "Seafood"
-    ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/parnawarri-iga/",
-    "name": "Parnawarri IGA",
-    "address_line_1": "1 Lee Lane",
-    "address_line_2": "Newman, 6753, WA",
-    "phone": null,
-    "directions_url": "https://maps.google.com/maps?cid=3309356926776302338",
-    "hours": {
-      "Sunday": "8:00 am - 5:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Butcher",
-      "Deli Station",
-      "Ready Meals"
     ]
   },
   {
