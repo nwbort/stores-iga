@@ -7819,13 +7819,13 @@
     "phone": "(08) 9307 7178",
     "directions_url": "https://maps.google.com/maps?cid=516160342511870377",
     "hours": {
-      "Sunday": "7:00 am - 7:30 pm",
-      "Monday": "7:00 am - 7:30 pm",
-      "Tuesday": "7:00 am - 7:30 pm",
-      "Wednesday": "- 7:30 pm",
+      "Sunday": "7:00 am - 8:00 pm",
+      "Monday": "7:00 am - 8:00 pm",
+      "Tuesday": "7:00 am - 8:00 pm",
+      "Wednesday": "7:00 am - 8:00 pm",
       "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 7:30 pm",
-      "Saturday": "7:00 am - 7:30 pm"
+      "Friday": "7:00 am - 8:00 pm",
+      "Saturday": "7:00 am - 8:00 pm"
     },
     "services": [
       "BBQ Chicken",
@@ -18031,24 +18031,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-supa-bargara/",
-    "name": "IGA SUPA Bargara",
-    "address_line_1": "Cnr Davidson & Bauer Road",
-    "address_line_2": "Bargara, 4670, QLD",
-    "phone": "(07) 4154 7077",
-    "directions_url": "https://maps.google.com/maps?cid=5558781650694703040",
-    "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-supa-brassall/",
     "name": "IGA SUPA Brassall",
     "address_line_1": "68 Hunter Street",
@@ -18153,6 +18135,24 @@
       "Thursday": "7:00 am - 9:00 pm",
       "Friday": "7:00 am - 9:00 pm",
       "Saturday": "8:00 am - 8:00 pm"
+    },
+    "services": []
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-supa-lowood/",
+    "name": "IGA SUPA Lowood",
+    "address_line_1": "55-61 Main Street",
+    "address_line_2": "Lowood, 4311, QLD",
+    "phone": "(07) 5426 1384",
+    "directions_url": "https://maps.google.com/maps?cid=11612279608013722812",
+    "hours": {
+      "Sunday": "7:00 am - 7:00 pm",
+      "Monday": "7:00 am - 8:00 pm",
+      "Tuesday": "7:00 am - 8:00 pm",
+      "Wednesday": "7:00 am - 8:00 pm",
+      "Thursday": "7:00 am - 8:00 pm",
+      "Friday": "7:00 am - 8:00 pm",
+      "Saturday": "7:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -19672,6 +19672,24 @@
       "Deli Station",
       "Seafood"
     ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-x-press-alexandra-headlands/",
+    "name": "IGA X-press Alexandra Headlands",
+    "address_line_1": "152 Alexandra Parade",
+    "address_line_2": "Alexandra Headland, 4572, QLD",
+    "phone": "(07) 5451 1499",
+    "directions_url": "https://maps.google.com/maps?cid=7177778328773619757",
+    "hours": {
+      "Sunday": "-",
+      "Monday": "-",
+      "Tuesday": "-",
+      "Wednesday": "-",
+      "Thursday": "-",
+      "Friday": "-",
+      "Saturday": "-"
+    },
+    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/iga-x-press-ashgrove/",
@@ -27250,29 +27268,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/sims-iga-plus-liquor-footscray/",
-    "name": "SIMS IGA Plus Liquor Footscray",
-    "address_line_1": "511 Barkly St",
-    "address_line_2": "West Footscray, 3012, VIC",
-    "phone": "(03) 9687 2117",
-    "directions_url": "https://maps.google.com/maps?cid=18266998062056365666",
-    "hours": {
-      "Sunday": "8:00 am - 10:00 pm",
-      "Monday": "7:00 am - 10:00 pm",
-      "Tuesday": "7:00 am - 10:00 pm",
-      "Wednesday": "7:00 am - 10:00 pm",
-      "Thursday": "7:00 am - 10:00 pm",
-      "Friday": "7:00 am - 10:00 pm",
-      "Saturday": "7:00 am - 10:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Butcher",
-      "Deli Station",
-      "Ready Meals"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/sims-iga-supa-lilydale/",
     "name": "SIMS IGA SUPA Lilydale",
     "address_line_1": "343-347 Main Street",
@@ -28605,29 +28600,6 @@
       "Saturday": "8:00 am - 8:00 pm"
     },
     "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/tregear-iga-plus-liquor/",
-    "name": "Tregear IGA Plus Liquor",
-    "address_line_1": "161 Aurora Drive",
-    "address_line_2": "Tregear, 2770, NSW",
-    "phone": "(02) 9628 0779",
-    "directions_url": "https://maps.google.com/maps?cid=12818249062492636128",
-    "hours": {
-      "Sunday": "9:00 am - 6:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Butcher",
-      "Deli Station",
-      "Ready Meals"
-    ]
   },
   {
     "url": "https://www.iga.com.au/stores/tucker-fresh-iga-dalkeith/",
