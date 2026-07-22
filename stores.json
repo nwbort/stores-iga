@@ -26920,6 +26920,24 @@
     "services": []
   },
   {
+    "url": "https://www.iga.com.au/stores/sams-iga-local-grocer-parkville/",
+    "name": "Sam's IGA Local Grocer Parkville",
+    "address_line_1": "Shop 201B Parkville Station, 255 Grattan Street",
+    "address_line_2": "Parkville, 3052, VIC",
+    "phone": null,
+    "directions_url": null,
+    "hours": {
+      "Sunday": "9:00 am - 11:00 pm",
+      "Monday": "6:00 am - 11:00 pm",
+      "Tuesday": "6:00 am - 11:00 pm",
+      "Wednesday": "6:00 am - 11:00 pm",
+      "Thursday": "6:00 am - 11:00 pm",
+      "Friday": "6:00 am - 11:00 pm",
+      "Saturday": "9:00 am - 11:00 pm"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/sams-iga-local-grocer-william-st/",
     "name": "Sam's IGA Local Grocer William St",
     "address_line_1": "255 William St",
