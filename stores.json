@@ -21748,11 +21748,11 @@
     "directions_url": "https://maps.google.com/maps?cid=10509844666957663552",
     "hours": {
       "Sunday": "8:00 am - 7:00 pm",
-      "Monday": "8:00 am - 7:30 pm",
-      "Tuesday": "8:00 am - 7:30 pm",
-      "Wednesday": "8:00 am - 7:30 pm",
-      "Thursday": "8:00 am - 7:30 pm",
-      "Friday": "8:00 am - 7:30 pm",
+      "Monday": "8:00 am - 7:00 pm",
+      "Tuesday": "8:00 am - 7:00 pm",
+      "Wednesday": "8:00 am - 7:00 pm",
+      "Thursday": "8:00 am - 7:00 pm",
+      "Friday": "8:00 am - 7:00 pm",
       "Saturday": "8:00 am - 7:00 pm"
     },
     "services": [
