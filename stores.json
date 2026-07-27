@@ -4408,29 +4408,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-broadway/",
-    "name": "IGA Broadway",
-    "address_line_1": "43 The Broadway",
-    "address_line_2": "Glenelg South, 5045, SA",
-    "phone": "(08) 8376 4038",
-    "directions_url": "https://maps.google.com/maps?cid=13141232123643298467",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Butcher",
-      "Deli Station",
-      "Ready Meals"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-bronberg/",
     "name": "IGA Bronberg",
     "address_line_1": "5/134 Slayter Avenue",
@@ -13456,7 +13433,7 @@
     "name": "IGA Local Grocer Spotswood plus Liquor",
     "address_line_1": "72 Hudsons Rd",
     "address_line_2": "Spotswood, 3015, VIC",
-    "phone": "(03) 9391 3875",
+    "phone": "0451 156 290",
     "directions_url": "https://maps.google.com/maps?cid=10309457197224271647",
     "hours": {
       "Sunday": "8:00 am - 9:00 pm",
@@ -23329,24 +23306,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/mordialloc-iga-x-press/",
-    "name": "Mordialloc IGA X-press",
-    "address_line_1": "81 Warren Road",
-    "address_line_2": "Mordialloc, 3195, VIC",
-    "phone": "(03) 9580 3962",
-    "directions_url": "https://maps.google.com/maps?cid=8893452405780125506",
-    "hours": {
-      "Sunday": "9:00 am - 6:00 pm",
-      "Monday": "7:30 am - 8:00 pm",
-      "Tuesday": "7:30 am - 8:00 pm",
-      "Wednesday": "7:30 am - 8:00 pm",
-      "Thursday": "7:30 am - 8:00 pm",
-      "Friday": "7:30 am - 8:00 pm",
-      "Saturday": "8:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/morgans-iga-gisborne/",
     "name": "Morgan's IGA Gisborne",
     "address_line_1": "Cnr Robertson & Brantome Street",
@@ -24019,6 +23978,29 @@
       "Fresh Flowers",
       "Ready Meals",
       "Seafood"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/parnawarri-iga/",
+    "name": "Parnawarri IGA",
+    "address_line_1": "1 Lee Lane",
+    "address_line_2": "Newman, 6753, WA",
+    "phone": null,
+    "directions_url": "https://maps.google.com/maps?cid=3309356926776302338",
+    "hours": {
+      "Sunday": "8:00 am - 5:00 pm",
+      "Monday": "8:00 am - 8:00 pm",
+      "Tuesday": "8:00 am - 8:00 pm",
+      "Wednesday": "8:00 am - 8:00 pm",
+      "Thursday": "8:00 am - 8:00 pm",
+      "Friday": "8:00 am - 8:00 pm",
+      "Saturday": "8:00 am - 8:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Butcher",
+      "Deli Station",
+      "Ready Meals"
     ]
   },
   {
@@ -25325,28 +25307,6 @@
       "Butcher",
       "Deli Station",
       "Fresh Flowers"
-    ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/ritchies-iga-griffith/",
-    "name": "Ritchies IGA Griffith",
-    "address_line_1": "10-12 Yambil Street",
-    "address_line_2": "Griffith, 2680, NSW",
-    "phone": "(02) 6964 3844",
-    "directions_url": "https://maps.google.com/maps?cid=8142429995107557231",
-    "hours": {
-      "Sunday": "8:00 am - 6:30 pm",
-      "Monday": "8:00 am - 7:00 pm",
-      "Tuesday": "8:00 am - 7:00 pm",
-      "Wednesday": "8:00 am - 7:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 7:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Fresh Flowers",
-      "Ready Meals"
     ]
   },
   {
@@ -27286,6 +27246,29 @@
     "services": []
   },
   {
+    "url": "https://www.iga.com.au/stores/sims-iga-plus-liquor-footscray/",
+    "name": "SIMS IGA Plus Liquor Footscray",
+    "address_line_1": "511 Barkly St",
+    "address_line_2": "West Footscray, 3012, VIC",
+    "phone": "(03) 9687 2117",
+    "directions_url": "https://maps.google.com/maps?cid=18266998062056365666",
+    "hours": {
+      "Sunday": "8:00 am - 10:00 pm",
+      "Monday": "7:00 am - 10:00 pm",
+      "Tuesday": "7:00 am - 10:00 pm",
+      "Wednesday": "7:00 am - 10:00 pm",
+      "Thursday": "7:00 am - 10:00 pm",
+      "Friday": "7:00 am - 10:00 pm",
+      "Saturday": "7:00 am - 10:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Butcher",
+      "Deli Station",
+      "Ready Meals"
+    ]
+  },
+  {
     "url": "https://www.iga.com.au/stores/sims-iga-supa-lilydale/",
     "name": "SIMS IGA SUPA Lilydale",
     "address_line_1": "343-347 Main Street",
@@ -28618,6 +28601,29 @@
       "Saturday": "8:00 am - 8:00 pm"
     },
     "services": []
+  },
+  {
+    "url": "https://www.iga.com.au/stores/tregear-iga-plus-liquor/",
+    "name": "Tregear IGA Plus Liquor",
+    "address_line_1": "161 Aurora Drive",
+    "address_line_2": "Tregear, 2770, NSW",
+    "phone": "(02) 9628 0779",
+    "directions_url": "https://maps.google.com/maps?cid=12818249062492636128",
+    "hours": {
+      "Sunday": "9:00 am - 6:00 pm",
+      "Monday": "8:00 am - 8:00 pm",
+      "Tuesday": "8:00 am - 8:00 pm",
+      "Wednesday": "8:00 am - 8:00 pm",
+      "Thursday": "8:00 am - 8:00 pm",
+      "Friday": "8:00 am - 8:00 pm",
+      "Saturday": "8:00 am - 8:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Butcher",
+      "Deli Station",
+      "Ready Meals"
+    ]
   },
   {
     "url": "https://www.iga.com.au/stores/tucker-fresh-iga-dalkeith/",
