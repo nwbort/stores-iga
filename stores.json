@@ -4658,24 +4658,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-bushland-beach/",
-    "name": "IGA Bushland Beach",
-    "address_line_1": "Cnr Mt Low Parkway & Lionel Turner Drive",
-    "address_line_2": "Bushland Beach, 4818, QLD",
-    "phone": "(07) 4751 8399",
-    "directions_url": "https://maps.google.com/maps?cid=5669606879032690752",
-    "hours": {
-      "Sunday": "6:00 am - 8:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "6:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-byron-bay/",
     "name": "IGA Byron Bay",
     "address_line_1": "Bayshore Drive",
@@ -6477,27 +6459,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-ettalong-beach/",
-    "name": "IGA Ettalong Beach",
-    "address_line_1": "396 Ocean View Road",
-    "address_line_2": "Ettalong Beach, 2257, NSW",
-    "phone": "(02) 4341 1026",
-    "directions_url": "https://maps.google.com/maps?cid=6355884301352523289",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-evatt/",
     "name": "IGA Evatt",
     "address_line_1": "Heydon Place",
@@ -7942,22 +7903,22 @@
     "name": "IGA Horsley Park",
     "address_line_1": "8-12 Horsley Rd",
     "address_line_2": "Horsley Park, 2175, NSW",
-    "phone": "(02) 9620 2001",
+    "phone": null,
     "directions_url": "https://maps.google.com/maps?cid=1081283275369078512",
     "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
+      "Sunday": "7:30 am - 5:00 pm",
+      "Monday": "7:30 am - 6:30 pm",
+      "Tuesday": "7:30 am - 6:30 pm",
+      "Wednesday": "7:30 am - 6:30 pm",
+      "Thursday": "7:30 am - 6:30 pm",
+      "Friday": "7:30 am - 6:30 pm",
+      "Saturday": "7:30 am - 6:30 pm"
     },
     "services": [
       "BBQ Chicken",
       "Butcher",
       "Deli Station",
-      "Ready Meals"
+      "Fresh Flowers"
     ]
   },
   {
@@ -17637,13 +17598,13 @@
     "phone": "(08) 8341 5230",
     "directions_url": "https://maps.google.com/maps?cid=15671202819950617850",
     "hours": {
-      "Sunday": "7:30 am - 9:00 pm",
-      "Monday": "7:30 am - 9:00 pm",
-      "Tuesday": "7:30 am - 9:00 pm",
-      "Wednesday": "7:30 am - 9:00 pm",
-      "Thursday": "7:30 am - 9:00 pm",
-      "Friday": "7:30 am - 9:00 pm",
-      "Saturday": "7:30 am - 9:00 pm"
+      "Sunday": "-",
+      "Monday": "-",
+      "Tuesday": "-",
+      "Wednesday": "-",
+      "Thursday": "-",
+      "Friday": "-",
+      "Saturday": "-"
     },
     "services": [
       "Fresh Flowers",
@@ -21092,6 +21053,24 @@
     "services": []
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-xpress-newdegate/",
+    "name": "IGA Xpress Newdegate",
+    "address_line_1": "5 Maley Street",
+    "address_line_2": "Newdegate, 6355, WA",
+    "phone": "(08) 9871 1618",
+    "directions_url": "https://maps.google.com/maps?cid=6952191665358234975",
+    "hours": {
+      "Sunday": "-",
+      "Monday": "8:00 am - 5:30 pm",
+      "Tuesday": "8:00 am - 5:30 pm",
+      "Wednesday": "8:00 am - 5:30 pm",
+      "Thursday": "8:00 am - 5:30 pm",
+      "Friday": "8:00 am - 5:30 pm",
+      "Saturday": "8:00 am - 2:00 pm"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-xpress-nyah-west/",
     "name": "IGA Xpress Nyah West",
     "address_line_1": "Monash St",
@@ -24487,29 +24466,6 @@
       "BBQ Chicken",
       "Butcher",
       "Deli Station",
-      "Ready Meals"
-    ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/pomona-iga/",
-    "name": "Pomona IGA",
-    "address_line_1": "3 - 5 Reserve Street",
-    "address_line_2": "Pomona, 4568, QLD",
-    "phone": "(07) 5485 1297",
-    "directions_url": "https://maps.google.com/maps?cid=10959254858850216092",
-    "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station",
-      "Fresh Flowers",
       "Ready Meals"
     ]
   },
@@ -28649,6 +28605,29 @@
       "Saturday": "8:00 am - 8:00 pm"
     },
     "services": []
+  },
+  {
+    "url": "https://www.iga.com.au/stores/tregear-iga-plus-liquor/",
+    "name": "Tregear IGA Plus Liquor",
+    "address_line_1": "161 Aurora Drive",
+    "address_line_2": "Tregear, 2770, NSW",
+    "phone": "(02) 9628 0779",
+    "directions_url": "https://maps.google.com/maps?cid=12818249062492636128",
+    "hours": {
+      "Sunday": "9:00 am - 6:00 pm",
+      "Monday": "8:00 am - 8:00 pm",
+      "Tuesday": "8:00 am - 8:00 pm",
+      "Wednesday": "8:00 am - 8:00 pm",
+      "Thursday": "8:00 am - 8:00 pm",
+      "Friday": "8:00 am - 8:00 pm",
+      "Saturday": "8:00 am - 8:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Butcher",
+      "Deli Station",
+      "Ready Meals"
+    ]
   },
   {
     "url": "https://www.iga.com.au/stores/tucker-fresh-iga-dalkeith/",
