@@ -4080,6 +4080,24 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-boggo-road/",
+    "name": "IGA Boggo Road",
+    "address_line_1": "T1/21 Boggo Road",
+    "address_line_2": "",
+    "phone": "07 3778 4575",
+    "directions_url": null,
+    "hours": {
+      "Sunday": "6:00 am - 9:00 pm",
+      "Monday": "6:00 am - 9:00 pm",
+      "Tuesday": "6:00 am - 9:00 pm",
+      "Wednesday": "6:00 am - 9:00 pm",
+      "Thursday": "6:00 am - 9:00 pm",
+      "Friday": "6:00 am - 9:00 pm",
+      "Saturday": "6:00 am - 9:00 pm"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-bomaderry/",
     "name": "IGA Bomaderry",
     "address_line_1": "73 Meroo Street",
