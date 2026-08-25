@@ -10186,10 +10186,10 @@
   {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-denmark/",
     "name": "IGA Local Grocer Denmark",
-    "address_line_1": "4 Hollings Road",
+    "address_line_1": "59 South Coast Highway",
     "address_line_2": "Denmark, 6333, WA",
     "phone": "(08) 9848 1242",
-    "directions_url": "https://maps.google.com/maps?cid=14334715946796969482",
+    "directions_url": null,
     "hours": {
       "Sunday": "7:00 am - 7:00 pm",
       "Monday": "7:00 am - 7:00 pm",
