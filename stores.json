@@ -3245,29 +3245,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-avoca/",
-    "name": "IGA Avoca",
-    "address_line_1": "302 Branyan Drive",
-    "address_line_2": "Avoca, 4670, QLD",
-    "phone": "(07) 4155 3717",
-    "directions_url": "https://maps.google.com/maps?cid=329384058418198462",
-    "hours": {
-      "Sunday": "6:00 am - 9:00 pm",
-      "Monday": "6:00 am - 9:00 pm",
-      "Tuesday": "6:00 am - 9:00 pm",
-      "Wednesday": "6:00 am - 9:00 pm",
-      "Thursday": "6:00 am - 9:00 pm",
-      "Friday": "6:00 am - 9:00 pm",
-      "Saturday": "6:00 am - 9:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station",
-      "Fresh Flowers",
-      "Ready Meals"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-baldivis/",
     "name": "IGA Baldivis",
     "address_line_1": "Shop 1, 61 Makybe Drive",
@@ -7188,6 +7165,26 @@
     "services": [
       "BBQ Chicken",
       "Deli Station"
+    ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-freshwater/",
+    "name": "IGA Freshwater",
+    "address_line_1": "1/3 Moore Road",
+    "address_line_2": "Freshwater, 2096, NSW",
+    "phone": "(02) 9938 5878",
+    "directions_url": "https://maps.google.com/maps?cid=2434825038836153043",
+    "hours": {
+      "Sunday": "8:00 am - 8:00 pm",
+      "Monday": "8:00 am - 8:00 pm",
+      "Tuesday": "8:00 am - 8:00 pm",
+      "Wednesday": "8:00 am - 8:00 pm",
+      "Thursday": "8:00 am - 8:00 pm",
+      "Friday": "8:00 am - 8:00 pm",
+      "Saturday": "8:00 am - 8:00 pm"
+    },
+    "services": [
+      "Ready Meals"
     ]
   },
   {
@@ -17901,29 +17898,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-springdale-heights/",
-    "name": "IGA Springdale Heights",
-    "address_line_1": "Crn Kaitlers Rd and Cardo Drive",
-    "address_line_2": "Springdale Heights, 2641, NSW",
-    "phone": "(02) 6058 3500",
-    "directions_url": "https://maps.google.com/maps?cid=17294856483714312916",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station",
-      "Ready Meals",
-      "Seafood"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-springfield-lakes/",
     "name": "IGA Springfield Lakes",
     "address_line_1": "31 Springfield Lakes Boulevard",
@@ -18173,24 +18147,6 @@
     "services": [
       "Seafood"
     ]
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-supa-bargara/",
-    "name": "IGA SUPA Bargara",
-    "address_line_1": "Cnr Davidson & Bauer Road",
-    "address_line_2": "Bargara, 4670, QLD",
-    "phone": "(07) 4154 7077",
-    "directions_url": "https://maps.google.com/maps?cid=5558781650694703040",
-    "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/iga-supa-brassall/",
