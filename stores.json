@@ -3962,7 +3962,7 @@
     "url": "https://www.iga.com.au/stores/iga-bicheno/",
     "name": "IGA X-Press Bicheno",
     "address_line_1": "39 Foster Street",
-    "address_line_2": "Bicheno, 7215, TAS",
+    "address_line_2": "Bicheno, TAS",
     "phone": "03 6128 3023",
     "directions_url": "https://maps.google.com/maps?cid=16984785318386470964",
     "hours": {
@@ -6700,7 +6700,7 @@
   {
     "url": "https://www.iga.com.au/stores/iga-everyday-cygnet/",
     "name": "IGA Everyday Cygnet",
-    "address_line_1": "28 Mary St",
+    "address_line_1": "28 Mary Street",
     "address_line_2": "Cygnet, 7112, TAS",
     "phone": "(03) 6295 1530",
     "directions_url": "https://maps.google.com/maps?cid=14226300476178657815",
@@ -6935,7 +6935,7 @@
     "url": "https://www.iga.com.au/stores/iga-everyday-rokeby/",
     "name": "IGA Rokeby",
     "address_line_1": "1 Hart Place",
-    "address_line_2": "Rokeby, 7019, TAS",
+    "address_line_2": "Rokeby, TAS",
     "phone": "(03) 6247 7169",
     "directions_url": "https://maps.google.com/maps?cid=7282792444912817316",
     "hours": {
@@ -6953,7 +6953,7 @@
     "url": "https://www.iga.com.au/stores/iga-everyday-sheffield-don-store/",
     "name": "IGA Everyday Sheffield",
     "address_line_1": "59 Main Street",
-    "address_line_2": "Sheffield, 7306, TAS",
+    "address_line_2": "Sheffield, TAS",
     "phone": "(03) 6491 1140",
     "directions_url": "https://maps.google.com/maps?cid=7151093779213618782",
     "hours": {
@@ -7012,12 +7012,12 @@
     "directions_url": "https://maps.google.com/maps?cid=2216226182605213984",
     "hours": {
       "Sunday": "8:00 am - 6:30 pm",
-      "Monday": "7:00 am - 7:30 pm",
-      "Tuesday": "7:00 am - 7:30 pm",
-      "Wednesday": "7:00 am - 7:30 pm",
-      "Thursday": "7:00 am - 7:30 pm",
-      "Friday": "7:00 am - 7:30 pm",
-      "Saturday": "7:00 am - 7:30 pm"
+      "Monday": "7:00 am - 7:00 pm",
+      "Tuesday": "7:00 am - 7:00 pm",
+      "Wednesday": "7:00 am - 7:00 pm",
+      "Thursday": "7:00 am - 7:00 pm",
+      "Friday": "7:00 am - 7:00 pm",
+      "Saturday": "7:00 am - 7:00 pm"
     },
     "services": []
   },
@@ -7248,7 +7248,7 @@
     "url": "https://www.iga.com.au/stores/iga-fourways-pommy-pauls-supermarkets/",
     "name": "IGA Everyday Fourways Devonport",
     "address_line_1": "99 Oldaker Street",
-    "address_line_2": "Devonport, 7310, TAS",
+    "address_line_2": "Devonport, TAS",
     "phone": "(03) 6424 5361",
     "directions_url": "https://maps.google.com/maps?cid=2930371259651108368",
     "hours": {
@@ -12787,7 +12787,7 @@
     "url": "https://www.iga.com.au/stores/iga-local-grocer-newnham/",
     "name": "IGA X-Press Newnham",
     "address_line_1": "113 George Town Road",
-    "address_line_2": "Newnham, 7248, TAS",
+    "address_line_2": "Newnham, TAS",
     "phone": "(03) 6326 1159",
     "directions_url": "https://maps.google.com/maps?cid=13510691010796043598",
     "hours": {
@@ -13705,7 +13705,7 @@
     "url": "https://www.iga.com.au/stores/iga-local-grocer-south-riana/",
     "name": "IGA X-Press South Riana",
     "address_line_1": "1705 Pine Road",
-    "address_line_2": "South Riana, 7316, TAS",
+    "address_line_2": "South Riana, TAS",
     "phone": "(03) 6437 6219",
     "directions_url": "https://maps.google.com/maps?cid=7986969872093861643",
     "hours": {
@@ -19368,8 +19368,8 @@
   {
     "url": "https://www.iga.com.au/stores/iga-valley-road-pommy-pauls-supermarkets/",
     "name": "IGA X-Press Valley Road",
-    "address_line_1": "33 Valley Rd",
-    "address_line_2": "Devonport, 7310, TAS",
+    "address_line_1": "33 Valley Road, Devonport",
+    "address_line_2": "",
     "phone": "(03) 6424 3724",
     "directions_url": "https://maps.google.com/maps?cid=17072196478322680158",
     "hours": {
@@ -20058,7 +20058,7 @@
     "url": "https://www.iga.com.au/stores/iga-x-press-austins-ferry/",
     "name": "IGA X-press Austins Ferry",
     "address_line_1": "162 Main Street",
-    "address_line_2": "Austins Ferry, 7011, TAS",
+    "address_line_2": "Austins Ferry, TAS",
     "phone": "(03) 6249 2344",
     "directions_url": "https://maps.google.com/maps?cid=2840594444143866448",
     "hours": {
@@ -20130,7 +20130,7 @@
     "url": "https://www.iga.com.au/stores/iga-x-press-burnie-west-park-grove/",
     "name": "IGA X-Press West Park Grove",
     "address_line_1": "56 West Park Grove",
-    "address_line_2": "Burnie, 7320, TAS",
+    "address_line_2": "Burnie, TAS",
     "phone": "(03) 6431 2494",
     "directions_url": "https://maps.google.com/maps?cid=10765712954339689786",
     "hours": {
@@ -20186,7 +20186,7 @@
     "url": "https://www.iga.com.au/stores/iga-x-press-cressy/",
     "name": "IGA X-Press Cressy",
     "address_line_1": "89 Main Street",
-    "address_line_2": "Cressy, 7302, TAS",
+    "address_line_2": "Cressy, TAS",
     "phone": "(03) 6397 6264",
     "directions_url": "https://maps.google.com/maps?cid=17386479620284924198",
     "hours": {
@@ -20203,8 +20203,8 @@
   {
     "url": "https://www.iga.com.au/stores/iga-x-press-east-devonport/",
     "name": "IGA Local Grocer East Devonport",
-    "address_line_1": "59 Wright St",
-    "address_line_2": "East Devonport, 7310, TAS",
+    "address_line_1": "59 Wright Street",
+    "address_line_2": "East Devonport, TAS",
     "phone": "(03) 6427 8242",
     "directions_url": "https://maps.google.com/maps?cid=10385486204011140681",
     "hours": {
@@ -20222,7 +20222,7 @@
     "url": "https://www.iga.com.au/stores/iga-x-press-exeter-freelands/",
     "name": "IGA X-Press Freelands",
     "address_line_1": "112 Main Road",
-    "address_line_2": "Exeter, 7275, TAS",
+    "address_line_2": "Exeter, TAS",
     "phone": "(03) 6394 3066",
     "directions_url": null,
     "hours": {
@@ -20374,7 +20374,7 @@
     "url": "https://www.iga.com.au/stores/iga-x-press-latrobe/",
     "name": "IGA X-Press Latrobe",
     "address_line_1": "79 Gilbert Street",
-    "address_line_2": "Latrobe, 7307, TAS",
+    "address_line_2": "Latrobe, TAS",
     "phone": "(03) 6426 1151",
     "directions_url": "https://maps.google.com/maps?cid=4531263772499758486",
     "hours": {
@@ -20446,7 +20446,7 @@
     "url": "https://www.iga.com.au/stores/iga-x-press-longford-marcus/",
     "name": "IGA Local Grocer Longford (Marcus)",
     "address_line_1": "22 Marlborough Street",
-    "address_line_2": "Longford, 7301, TAS",
+    "address_line_2": "Longford, TAS",
     "phone": "(03) 6391 2629",
     "directions_url": "https://maps.google.com/maps?cid=2309783672249092940",
     "hours": {
@@ -20464,7 +20464,7 @@
     "url": "https://www.iga.com.au/stores/iga-x-press-new-norfolk/",
     "name": "IGA X-Press New Norfolk",
     "address_line_1": "41-45 Benjamin Terrace",
-    "address_line_2": "New Norfolk, 7140, TAS",
+    "address_line_2": "New Norfolk, TAS",
     "phone": "(03) 6262 0091",
     "directions_url": null,
     "hours": {
@@ -20499,8 +20499,8 @@
   {
     "url": "https://www.iga.com.au/stores/iga-x-press-nubeena-seabreeze/",
     "name": "IGA X-Press Nubeena (Seabreeze)",
-    "address_line_1": "1856 Main Road,",
-    "address_line_2": "Nubeena, 7184, TAS",
+    "address_line_1": "1856 Main Road",
+    "address_line_2": "Nubeena, TAS",
     "phone": "(03) 6250 1276",
     "directions_url": "https://maps.google.com/maps?cid=3853667832907386033",
     "hours": {
@@ -20571,8 +20571,8 @@
   {
     "url": "https://www.iga.com.au/stores/iga-x-press-perth/",
     "name": "IGA Local Grocer Perth",
-    "address_line_1": "65 Main Rd",
-    "address_line_2": "Perth, 7300, TAS",
+    "address_line_1": "65 Main Road",
+    "address_line_2": "Perth, TAS",
     "phone": "(03) 6398 2219",
     "directions_url": "https://maps.google.com/maps?cid=5452514805969979284",
     "hours": {
@@ -20772,8 +20772,8 @@
   {
     "url": "https://www.iga.com.au/stores/iga-x-press-st-marys-hillys/",
     "name": "IGA St Marys (formerly Hilly's)",
-    "address_line_1": "56 Main Street,",
-    "address_line_2": "St Marys, 7215, TAS",
+    "address_line_1": "56 Main Street",
+    "address_line_2": "St Marys, TAS",
     "phone": "(03) 6351 1997",
     "directions_url": "https://maps.google.com/maps?cid=16788518464526025767",
     "hours": {
@@ -22192,7 +22192,7 @@
       "Tuesday": "6:30 am - 7:00 pm",
       "Wednesday": "6:30 am - 7:00 pm",
       "Thursday": "6:30 am - 7:00 pm",
-      "Friday": "6:00 am - 7:00 pm",
+      "Friday": "6:30 am - 7:00 pm",
       "Saturday": "7:00 am - 7:00 pm"
     },
     "services": []
@@ -24482,7 +24482,7 @@
   {
     "url": "https://www.iga.com.au/stores/patricks-iga/",
     "name": "IGA Strahan",
-    "address_line_1": "1 Reid St",
+    "address_line_1": "1 Reid Street",
     "address_line_2": "Strahan",
     "phone": "(03) 6471 7738",
     "directions_url": null,
