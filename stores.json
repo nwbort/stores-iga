@@ -44,6 +44,29 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/ahmedis-iga-kandos/",
+    "name": "Ahmedi’s IGA Kandos",
+    "address_line_1": "63-65 Angus Ave",
+    "address_line_2": "Kandos, 2848, NSW",
+    "phone": "(02) 6379 4666",
+    "directions_url": "https://maps.google.com/maps?cid=5205295550276126154",
+    "hours": {
+      "Sunday": "9:00 am - 6:00 pm",
+      "Monday": "8:00 am - 7:00 pm",
+      "Tuesday": "8:00 am - 7:00 pm",
+      "Wednesday": "8:00 am - 7:00 pm",
+      "Thursday": "8:00 am - 7:00 pm",
+      "Friday": "8:00 am - 7:00 pm",
+      "Saturday": "8:00 am - 7:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Deli Station",
+      "Ready Meals",
+      "Seafood"
+    ]
+  },
+  {
     "url": "https://www.iga.com.au/stores/airds-iga-plus-liquor/",
     "name": "Airds IGA Plus Liquor",
     "address_line_1": "1/44 Riverside Drive",
@@ -14079,6 +14102,24 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-local-grocer-sylvania-waters/",
+    "name": "IGA Local Grocer Sylvania Waters",
+    "address_line_1": "Shop 6, 12-14 Murrumbidgee Avenue",
+    "address_line_2": "Sylvania Waters",
+    "phone": null,
+    "directions_url": null,
+    "hours": {
+      "Sunday": "8:00 am - 6:00 pm",
+      "Monday": "7:30 am - 7:00 pm",
+      "Tuesday": "7:30 am - 7:00 pm",
+      "Wednesday": "7:30 am - 7:00 pm",
+      "Thursday": "7:30 am - 7:00 pm",
+      "Friday": "7:30 am - 7:00 pm",
+      "Saturday": "8:00 am - 6:00 pm"
+    },
+    "services": []
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-sylvania/",
     "name": "IGA Local Grocer Sylvania",
     "address_line_1": "264 Box Rd",
@@ -15396,6 +15437,24 @@
     "services": [
       "Ready Meals"
     ]
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-mercato-plus-liquor/",
+    "name": "IGA Mercato Plus Liquor",
+    "address_line_1": "275 High Street",
+    "address_line_2": "Thomastown",
+    "phone": "(03) 9077 2077",
+    "directions_url": null,
+    "hours": {
+      "Sunday": "7:00 am - 7:00 pm",
+      "Monday": "7:00 am - 7:00 pm",
+      "Tuesday": "7:00 am - 7:00 pm",
+      "Wednesday": "7:00 am - 7:00 pm",
+      "Thursday": "7:00 am - 7:00 pm",
+      "Friday": "7:00 am - 7:00 pm",
+      "Saturday": "7:00 am - 7:00 pm"
+    },
+    "services": []
   },
   {
     "url": "https://www.iga.com.au/stores/iga-merriwa/",
@@ -19231,29 +19290,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-two-rocks/",
-    "name": "IGA Two Rocks",
-    "address_line_1": "Shop 1, Two Rocks Shopping Centre",
-    "address_line_2": "Two Rocks, 6037, WA",
-    "phone": "(08) 9561 1064",
-    "directions_url": "https://maps.google.com/maps?cid=17923892224723859499",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station",
-      "Ready Meals",
-      "Seafood"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-ulladulla/",
     "name": "IGA Ulladulla",
     "address_line_1": "116 Princes Highway",
@@ -20105,6 +20141,24 @@
       "Thursday": "6:00 am - 10:00 pm",
       "Friday": "6:00 am - 10:00 pm",
       "Saturday": "6:00 am - 10:00 pm"
+    },
+    "services": []
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-x-press-broadbeach-central/",
+    "name": "IGA X-press Broadbeach Central",
+    "address_line_1": "2719 Gold Coast Highway",
+    "address_line_2": "Broadbeach, 4218, QLD",
+    "phone": "(07) 5539 0767",
+    "directions_url": "https://maps.google.com/maps?cid=15055907837976143358",
+    "hours": {
+      "Sunday": "8:00 am - 3:00 pm",
+      "Monday": "7:00 am - 5:30 pm",
+      "Tuesday": "7:00 am - 5:30 pm",
+      "Wednesday": "7:00 am - 5:30 pm",
+      "Thursday": "7:00 am - 5:30 pm",
+      "Friday": "7:00 am - 5:30 pm",
+      "Saturday": "7:00 am - 3:00 pm"
     },
     "services": []
   },
@@ -22035,26 +22089,6 @@
       "Saturday": "8:30 am - 12:00 pm"
     },
     "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-xpress-yarrawarrah/",
-    "name": "IGA Xpress Yarrawarrah",
-    "address_line_1": "Lot 1, 1-3 Laurina Ave",
-    "address_line_2": "Yarrawarrah, 2233, NSW",
-    "phone": "(02) 8501 2605",
-    "directions_url": "https://maps.google.com/maps?cid=15277417355775258910",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": [
-      "Local Produce"
-    ]
   },
   {
     "url": "https://www.iga.com.au/stores/iga-yagoona/",
