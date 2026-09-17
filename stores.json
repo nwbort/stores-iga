@@ -4103,24 +4103,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-blackburn-north-plus-liquor/",
-    "name": "IGA Blackburn North Plus Liquor",
-    "address_line_1": "66-104 Springfield Road",
-    "address_line_2": "Blackburn North, 3130, VIC",
-    "phone": "(03) 9877 7911",
-    "directions_url": "https://maps.google.com/maps?cid=12996471755923856154",
-    "hours": {
-      "Sunday": "8:00 am - 9:00 pm",
-      "Monday": "7:00 am - 10:00 pm",
-      "Tuesday": "7:00 am - 10:00 pm",
-      "Wednesday": "7:00 am - 10:00 pm",
-      "Thursday": "7:00 am - 10:00 pm",
-      "Friday": "7:00 am - 10:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-blackburn/",
     "name": "IGA Blackburn",
     "address_line_1": "66-104 Springfield Road",
@@ -6340,13 +6322,13 @@
     "phone": "(07) 4958 1136",
     "directions_url": "https://maps.google.com/maps?cid=10226640175661831436",
     "hours": {
-      "Sunday": "8:00 am - 4:00 pm",
+      "Sunday": "8:00 am - 7:00 pm",
       "Monday": "8:00 am - 7:30 pm",
       "Tuesday": "8:00 am - 7:30 pm",
       "Wednesday": "8:00 am - 7:30 pm",
-      "Thursday": "8:00 am - 8:00 pm",
+      "Thursday": "8:00 am - 7:30 pm",
       "Friday": "8:00 am - 7:30 pm",
-      "Saturday": "8:00 am - 4:00 pm"
+      "Saturday": "8:00 am - 7:00 pm"
     },
     "services": []
   },
@@ -7641,28 +7623,6 @@
       "Saturday": "8:00 am - 7:30 pm"
     },
     "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-goodna/",
-    "name": "IGA Goodna",
-    "address_line_1": "Cnr Albert & Queen St",
-    "address_line_2": "Goodna, 4300, QLD",
-    "phone": "07  3288 1509",
-    "directions_url": "https://maps.google.com/maps?cid=4714911733187267136",
-    "hours": {
-      "Sunday": "6:00 am - 10:00 pm",
-      "Monday": "6:00 am - 10:00 pm",
-      "Tuesday": "6:00 am - 10:00 pm",
-      "Wednesday": "6:00 am - 10:00 pm",
-      "Thursday": "6:00 am - 10:00 pm",
-      "Friday": "6:00 am - 10:00 pm",
-      "Saturday": "6:00 am - 10:00 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Deli Station",
-      "Ready Meals"
-    ]
   },
   {
     "url": "https://www.iga.com.au/stores/iga-goomeri/",
@@ -9482,13 +9442,13 @@
     "phone": "(02) 4787 9022",
     "directions_url": "https://maps.google.com/maps?cid=7716498260765044285",
     "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 9:00 pm",
-      "Saturday": "6:00 am - 9:00 pm"
+      "Sunday": "8:00 am - 8:00 pm",
+      "Monday": "7:00 am - 9:00 pm",
+      "Tuesday": "7:00 am - 9:00 pm",
+      "Wednesday": "7:00 am - 9:00 pm",
+      "Thursday": "7:00 am - 9:00 pm",
+      "Friday": "7:00 am - 9:00 pm",
+      "Saturday": "7:00 am - 9:00 pm"
     },
     "services": [
       "Seafood"
@@ -15664,29 +15624,6 @@
     ]
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-mirrabooka/",
-    "name": "IGA Mirrabooka",
-    "address_line_1": "Shop 6/73 Honeywell Boulevard",
-    "address_line_2": "Mirrabooka, 6061, WA",
-    "phone": "(08) 9249 3999",
-    "directions_url": "https://maps.google.com/maps?cid=8263938806652198099",
-    "hours": {
-      "Sunday": "8:00 am - 8:30 pm",
-      "Monday": "8:00 am - 8:30 pm",
-      "Tuesday": "8:00 am - 8:30 pm",
-      "Wednesday": "8:00 am - 8:30 pm",
-      "Thursday": "8:00 am - 8:30 pm",
-      "Friday": "8:00 am - 8:30 pm",
-      "Saturday": "8:00 am - 8:30 pm"
-    },
-    "services": [
-      "BBQ Chicken",
-      "Butcher",
-      "Fresh Flowers",
-      "Ready Meals"
-    ]
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-mistful-park-goulburn/",
     "name": "IGA Mistful Park Goulburn",
     "address_line_1": "5 Franklin St,",
@@ -19047,6 +18984,29 @@
     ]
   },
   {
+    "url": "https://www.iga.com.au/stores/iga-tin-can-bay/",
+    "name": "IGA Tin Can Bay",
+    "address_line_1": "46 Gympie Road",
+    "address_line_2": "Tin Can Bay, 4580, QLD",
+    "phone": "(07) 5488 0084",
+    "directions_url": "https://maps.google.com/maps?cid=14195300652076660709",
+    "hours": {
+      "Sunday": "6:00 am - 7:00 pm",
+      "Monday": "6:00 am - 7:00 pm",
+      "Tuesday": "6:00 am - 7:00 pm",
+      "Wednesday": "6:00 am - 7:00 pm",
+      "Thursday": "6:00 am - 7:00 pm",
+      "Friday": "6:00 am - 7:00 pm",
+      "Saturday": "6:00 am - 7:00 pm"
+    },
+    "services": [
+      "BBQ Chicken",
+      "Deli Station",
+      "Fresh Flowers",
+      "Ready Meals"
+    ]
+  },
+  {
     "url": "https://www.iga.com.au/stores/iga-tocumwal/",
     "name": "IGA Tocumwal",
     "address_line_1": "26 Deniliquin Street",
@@ -22089,6 +22049,26 @@
       "Saturday": "8:30 am - 12:00 pm"
     },
     "services": []
+  },
+  {
+    "url": "https://www.iga.com.au/stores/iga-xpress-yarrawarrah/",
+    "name": "IGA Xpress Yarrawarrah",
+    "address_line_1": "Lot 1, 1-3 Laurina Ave",
+    "address_line_2": "Yarrawarrah, 2233, NSW",
+    "phone": "(02) 8501 2605",
+    "directions_url": "https://maps.google.com/maps?cid=15277417355775258910",
+    "hours": {
+      "Sunday": "8:00 am - 8:00 pm",
+      "Monday": "8:00 am - 8:00 pm",
+      "Tuesday": "8:00 am - 8:00 pm",
+      "Wednesday": "8:00 am - 8:00 pm",
+      "Thursday": "8:00 am - 8:00 pm",
+      "Friday": "8:00 am - 8:00 pm",
+      "Saturday": "8:00 am - 8:00 pm"
+    },
+    "services": [
+      "Local Produce"
+    ]
   },
   {
     "url": "https://www.iga.com.au/stores/iga-yagoona/",
