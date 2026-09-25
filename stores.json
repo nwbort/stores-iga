@@ -2221,24 +2221,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/findlays-fresh-iga-xpress-utakarra/",
-    "name": "Findlay's Fresh IGA Xpress Utakarra",
-    "address_line_1": "112 Eastward Road",
-    "address_line_2": "Utakarra, 6530, WA",
-    "phone": "(08) 9921 2738",
-    "directions_url": "https://maps.google.com/maps?cid=2464177175208539819",
-    "hours": {
-      "Sunday": "7:00 am - 6:30 pm",
-      "Monday": "6:30 am - 7:00 pm",
-      "Tuesday": "6:30 am - 7:00 pm",
-      "Wednesday": "6:30 am - 7:00 pm",
-      "Thursday": "6:30 am - 7:00 pm",
-      "Friday": "6:30 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/finley-iga/",
     "name": "Finley IGA",
     "address_line_1": "189 Murray Street",
@@ -11338,13 +11320,13 @@
     "phone": "(02) 9825 3071",
     "directions_url": "https://maps.google.com/maps?cid=16858897573659044193",
     "hours": {
-      "Sunday": "6:30 am - 7:00 pm",
+      "Sunday": "7:30 am - 7:00 pm",
       "Monday": "6:30 am - 7:30 pm",
       "Tuesday": "6:30 am - 7:30 pm",
       "Wednesday": "6:30 am - 7:30 pm",
       "Thursday": "6:30 am - 7:30 pm",
       "Friday": "6:30 am - 7:30 pm",
-      "Saturday": "6:30 am - 7:00 pm"
+      "Saturday": "7:00 am - 7:00 pm"
     },
     "services": [
       "Deli Station",
