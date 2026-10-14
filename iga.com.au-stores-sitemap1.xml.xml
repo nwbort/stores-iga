@@ -2749,11 +2749,11 @@
 		<lastmod>2026-10-08T08:39:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-maryborough-2/</loc>
+		<loc>https://www.iga.com.au/stores/spanos-iga-robina/</loc>
 		<lastmod>2026-10-08T08:39:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/spanos-iga-robina/</loc>
+		<loc>https://www.iga.com.au/stores/iga-maryborough-2/</loc>
 		<lastmod>2026-10-08T08:39:56+00:00</lastmod>
 	</url>
 	<url>
@@ -2781,10 +2781,6 @@
 		<lastmod>2026-10-08T08:39:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-trinity-heights/</loc>
-		<lastmod>2026-10-08T08:39:56+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-rosebery/</loc>
 		<lastmod>2026-10-08T08:39:56+00:00</lastmod>
 	</url>
@@ -2794,6 +2790,10 @@
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-lameroo/</loc>
+		<lastmod>2026-10-08T08:39:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-trinity-heights/</loc>
 		<lastmod>2026-10-08T08:39:56+00:00</lastmod>
 	</url>
 	<url>
@@ -3382,10 +3382,6 @@
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-dalmeny/</loc>
-		<lastmod>2026-10-08T08:40:14+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-bawley-point/</loc>
 		<lastmod>2026-10-08T08:40:14+00:00</lastmod>
 	</url>
 	<url>
@@ -3998,6 +3994,10 @@
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-xpress-buxton/</loc>
+		<lastmod>2026-10-08T08:40:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-xpress-airport-west/</loc>
 		<lastmod>2026-10-08T08:40:32+00:00</lastmod>
 	</url>
 </urlset>
