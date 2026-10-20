@@ -1,715 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.iga.com.au/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-yarrawarrah/</loc>
-		<lastmod>2026-10-08T08:40:32+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/exhibition-street-iga-x-press/</loc>
-		<lastmod>2026-10-08T08:40:32+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-eight-mile-plains/</loc>
-		<lastmod>2026-10-08T08:40:32+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/cd-iga-x-press-st-marys/</loc>
-		<lastmod>2026-10-08T08:40:32+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-wonga-park/</loc>
-		<lastmod>2026-10-08T08:40:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-flinders-street/</loc>
-		<lastmod>2026-10-08T08:40:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-lonsdale-street/</loc>
-		<lastmod>2026-10-08T08:40:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-brunswick-east/</loc>
-		<lastmod>2026-10-08T08:40:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-woronora-heights/</loc>
-		<lastmod>2026-10-08T08:40:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-and-liquor-collaroy-beach/</loc>
-		<lastmod>2026-10-08T08:40:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-greenwell-point/</loc>
-		<lastmod>2026-10-08T08:40:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-laburnum/</loc>
-		<lastmod>2026-10-08T08:40:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-bowen-hills/</loc>
-		<lastmod>2026-10-08T08:40:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-miami/</loc>
-		<lastmod>2026-10-08T08:40:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-kensington/</loc>
-		<lastmod>2026-10-08T08:40:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-oakleigh-east/</loc>
-		<lastmod>2026-10-08T08:40:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-south-riana/</loc>
-		<lastmod>2026-10-08T08:40:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-newnham/</loc>
-		<lastmod>2026-10-08T08:40:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-eastgate/</loc>
-		<lastmod>2026-10-08T08:40:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-bellambi/</loc>
-		<lastmod>2026-10-08T08:40:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-swansea/</loc>
-		<lastmod>2026-10-08T08:40:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-flinders-island-walkers/</loc>
-		<lastmod>2026-10-08T08:40:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-apco-bairnsdale/</loc>
-		<lastmod>2026-10-08T08:40:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-mid-camberwell/</loc>
-		<lastmod>2026-10-08T08:40:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-nubeena-seabreeze/</loc>
-		<lastmod>2026-10-08T08:40:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-moreland-road/</loc>
-		<lastmod>2026-10-08T08:40:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/macs-iga-xpress-west-wallsend/</loc>
-		<lastmod>2026-10-08T08:40:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-orbost-plus-liquor/</loc>
-		<lastmod>2026-10-08T08:40:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-sylvania/</loc>
-		<lastmod>2026-10-08T08:40:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-east-wahroonga/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-mitcham/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-swifts-creek/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-mint-fresh-local-grocer-arthur-st/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-geeveston/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-strathpine/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-bibra-lake/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/como-iga-xpress/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-rosebery/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-jets-white-rock/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-apco-newcomb/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-bundaberg-north/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-new-norfolk/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-melba/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-the-oaks/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-west-park-grove/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-hadspen/</loc>
-		<lastmod>2026-10-08T08:40:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-castle-mall-tong-li-supermarket/</loc>
-		<lastmod>2026-10-08T08:40:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-lawson/</loc>
-		<lastmod>2026-10-08T08:40:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-graceville/</loc>
-		<lastmod>2026-10-08T08:40:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/st-james-iga-x-press/</loc>
-		<lastmod>2026-10-08T08:40:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-broome/</loc>
-		<lastmod>2026-10-08T08:40:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-south-yarra/</loc>
-		<lastmod>2026-10-08T08:40:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-glenwood/</loc>
-		<lastmod>2026-10-08T08:40:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-austins-ferry/</loc>
-		<lastmod>2026-10-08T08:40:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-kalannie/</loc>
-		<lastmod>2026-10-08T08:40:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-the-village/</loc>
-		<lastmod>2026-10-08T08:40:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-st-marys-formerly-hillys/</loc>
-		<lastmod>2026-10-08T08:40:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-denmark/</loc>
-		<lastmod>2026-10-08T08:40:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-somerset/</loc>
-		<lastmod>2026-10-08T08:40:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-warrnambool/</loc>
-		<lastmod>2026-10-08T08:40:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-scottsdale/</loc>
-		<lastmod>2026-10-08T08:40:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-austins-ferry-2/</loc>
-		<lastmod>2026-10-08T08:40:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-sunshine-north/</loc>
-		<lastmod>2026-10-08T08:40:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-shepparton-liquor/</loc>
-		<lastmod>2026-10-08T08:40:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-thai-kee/</loc>
-		<lastmod>2026-10-08T08:40:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-woorim-beach/</loc>
-		<lastmod>2026-10-08T08:40:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-huntly-plus-liquor/</loc>
-		<lastmod>2026-10-08T08:40:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-north-melbourne/</loc>
-		<lastmod>2026-10-08T08:40:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-spotswood-plus-liquor/</loc>
-		<lastmod>2026-10-08T08:40:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-st-kilda-road/</loc>
-		<lastmod>2026-10-08T08:40:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-maylands/</loc>
-		<lastmod>2026-10-08T08:40:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-wivenhoe/</loc>
-		<lastmod>2026-10-08T08:40:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-north-epping/</loc>
-		<lastmod>2026-10-08T08:40:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-mount-magnet/</loc>
-		<lastmod>2026-10-08T08:40:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-brighton-east/</loc>
-		<lastmod>2026-10-08T08:40:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-lindisfarne/</loc>
-		<lastmod>2026-10-08T08:40:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-lygon-st-plus-liquor/</loc>
-		<lastmod>2026-10-08T08:40:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-latrobe/</loc>
-		<lastmod>2026-10-08T08:40:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-campus/</loc>
-		<lastmod>2026-10-08T08:40:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-shoal-bay/</loc>
-		<lastmod>2026-10-08T08:40:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-warrawong/</loc>
-		<lastmod>2026-10-08T08:40:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-denham/</loc>
-		<lastmod>2026-10-08T08:40:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-south-turramurra/</loc>
-		<lastmod>2026-10-08T08:40:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-montville/</loc>
-		<lastmod>2026-10-08T08:40:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-woodburn/</loc>
-		<lastmod>2026-10-08T08:40:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-wandin-north-plus-liquor/</loc>
-		<lastmod>2026-10-08T08:40:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-halls-creek/</loc>
-		<lastmod>2026-10-08T08:40:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-everyday-fourways-devonport/</loc>
-		<lastmod>2026-10-08T08:40:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-east-row/</loc>
-		<lastmod>2026-10-08T08:40:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/busselton-fresh-local-grocer/</loc>
-		<lastmod>2026-10-08T08:40:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-everyday-dover/</loc>
-		<lastmod>2026-10-08T08:40:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-river-heads/</loc>
-		<lastmod>2026-10-08T08:40:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-kelmscott/</loc>
-		<lastmod>2026-10-08T08:40:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-goroke/</loc>
-		<lastmod>2026-10-08T08:40:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-plus-liquor-moonee-ponds/</loc>
-		<lastmod>2026-10-08T08:40:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-excelsior-park/</loc>
-		<lastmod>2026-10-08T08:40:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-armadale/</loc>
-		<lastmod>2026-10-08T08:40:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-huonville/</loc>
-		<lastmod>2026-10-08T08:40:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-middleton/</loc>
-		<lastmod>2026-10-08T08:40:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-swanbourne-market/</loc>
-		<lastmod>2026-10-08T08:40:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-east-ipswich/</loc>
-		<lastmod>2026-10-08T08:40:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-cressy/</loc>
-		<lastmod>2026-10-08T08:40:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-chipping-norton/</loc>
-		<lastmod>2026-10-08T08:40:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-leitchville/</loc>
-		<lastmod>2026-10-08T08:40:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-east-campbelltown/</loc>
-		<lastmod>2026-10-08T08:40:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-bayswater/</loc>
-		<lastmod>2026-10-08T08:40:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-alexandra-hills/</loc>
-		<lastmod>2026-10-08T08:40:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-pingelly/</loc>
-		<lastmod>2026-10-08T08:40:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-hurtsbridge/</loc>
-		<lastmod>2026-10-08T08:40:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-beaconsfield/</loc>
-		<lastmod>2026-10-08T08:40:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-preston/</loc>
-		<lastmod>2026-10-08T08:40:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-macleod/</loc>
-		<lastmod>2026-10-08T08:40:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-waramanga/</loc>
-		<lastmod>2026-10-08T08:40:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-malvern-east-plus-liquor/</loc>
-		<lastmod>2026-10-08T08:40:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-southbank/</loc>
-		<lastmod>2026-10-08T08:40:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-queen-st/</loc>
-		<lastmod>2026-10-08T08:40:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-lancelin/</loc>
-		<lastmod>2026-10-08T08:40:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-murrumbeena/</loc>
-		<lastmod>2026-10-08T08:40:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-rottnest-island/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-warriewood/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-mulgrave/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-tyabb/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-rozelle/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-pyrmont-liquor/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-blairgowrie/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-gingin/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-healesville/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-hawks-nest/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-invermay/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-lane-cove/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-strathmore/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-the-esplanade/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-seaford-north/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-moulamein/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-pascoe-vale/</loc>
-		<lastmod>2026-10-08T08:40:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-vallis-highton/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-longford-marcus/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-botany/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-mt-waverley/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-malvern-east/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-dicky-beach/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-grand-boulevard-craigieburn/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-wundowie/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-old-bridge/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-huntingdale/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-broadmeadows/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-gagebrook/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-east-devonport/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-cremorne/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-elizabeth-vale/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-newstead/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-runaway-bay/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-hamilton-hill/</loc>
-		<lastmod>2026-10-08T08:40:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-mooroobool/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-terranora/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/folas-iga-local-grocer-domain-central/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-murwillumbah/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-golden-beach/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-springlake/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-gladstone/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-westbrook/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-spring-hill/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-wattle-park/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-brunswick-heads/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-kanwal/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-mitchelton/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-bray-park/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-mooloolaba/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-annandale/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-safety-bay/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-milsons-point/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-st-georges-road/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-plus-liquor-echuca/</loc>
-		<lastmod>2026-10-08T08:40:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-maroochy-waters/</loc>
-		<lastmod>2026-10-08T08:40:55+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-bowen-hills-2/</loc>
-		<lastmod>2026-10-08T08:40:55+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-bilgola-plateau/</loc>
-		<lastmod>2026-10-08T08:40:55+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-local-grocer-cooranbong/</loc>
-		<lastmod>2026-10-08T08:40:55+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-sandstone-lakes/</loc>
 		<lastmod>2026-10-08T08:40:55+00:00</lastmod>
 	</url>
 	<url>
@@ -718,10 +10,6 @@
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-local-grocer-little-mountain/</loc>
-		<lastmod>2026-10-08T08:40:55+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-corrigin/</loc>
 		<lastmod>2026-10-08T08:40:55+00:00</lastmod>
 	</url>
 	<url>
@@ -737,15 +25,7 @@
 		<lastmod>2026-10-08T08:40:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-adelaide-st/</loc>
-		<lastmod>2026-10-08T08:40:55+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-local-grocer-chancellor-park/</loc>
-		<lastmod>2026-10-08T08:40:55+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/supa-valu-doonside/</loc>
 		<lastmod>2026-10-08T08:40:55+00:00</lastmod>
 	</url>
 	<url>
@@ -794,14 +74,6 @@
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/act/</loc>
-		<lastmod>2026-10-08T08:40:57+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-broome/</loc>
-		<lastmod>2026-10-08T08:40:57+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-apco-wodonga/</loc>
 		<lastmod>2026-10-08T08:40:57+00:00</lastmod>
 	</url>
 	<url>
@@ -905,10 +177,6 @@
 		<lastmod>2026-10-08T08:40:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-glass-house-mountains/</loc>
-		<lastmod>2026-10-08T08:40:59+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/the-good-grocer-iga-karratha/</loc>
 		<lastmod>2026-10-08T08:40:59+00:00</lastmod>
 	</url>
@@ -931,10 +199,6 @@
 	<url>
 		<loc>https://www.iga.com.au/stores/the-good-grocer-wembley-iga/</loc>
 		<lastmod>2026-10-08T08:40:59+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-maldon-plus-liquor/</loc>
-		<lastmod>2026-10-08T08:41:01+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/piedimontes-iga-north-fitzroy/</loc>
@@ -965,10 +229,6 @@
 		<lastmod>2026-10-08T08:41:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-sandy-hill/</loc>
-		<lastmod>2026-10-08T08:41:01+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-jabiru/</loc>
 		<lastmod>2026-10-08T08:41:01+00:00</lastmod>
 	</url>
@@ -982,10 +242,6 @@
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/the-good-grocer-shenton-park-iga/</loc>
-		<lastmod>2026-10-08T08:41:01+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-wollert/</loc>
 		<lastmod>2026-10-08T08:41:01+00:00</lastmod>
 	</url>
 	<url>
@@ -1033,10 +289,6 @@
 		<lastmod>2026-10-08T08:41:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-mudgee/</loc>
-		<lastmod>2026-10-08T08:41:03+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/ritchies-iga-port-macquarie-gordon-street/</loc>
 		<lastmod>2026-10-08T08:41:03+00:00</lastmod>
 	</url>
@@ -1046,10 +298,6 @@
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-local-grocer-edithvale/</loc>
-		<lastmod>2026-10-08T08:41:03+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-leumeah/</loc>
 		<lastmod>2026-10-08T08:41:03+00:00</lastmod>
 	</url>
 	<url>
@@ -1101,10 +349,6 @@
 		<lastmod>2026-10-08T08:41:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-north-sydney-2/</loc>
-		<lastmod>2026-10-08T08:41:05+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-local-grocer-point-lonsdale-plus-liquor/</loc>
 		<lastmod>2026-10-08T08:41:05+00:00</lastmod>
 	</url>
@@ -1130,10 +374,6 @@
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-edithburgh/</loc>
-		<lastmod>2026-10-08T08:41:05+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-local-grocer-dickson/</loc>
 		<lastmod>2026-10-08T08:41:05+00:00</lastmod>
 	</url>
 	<url>
@@ -1177,14 +417,6 @@
 		<lastmod>2026-10-08T08:41:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-hannans-fresh/</loc>
-		<lastmod>2026-10-08T08:41:07+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-thornhill-park-plus-liquor/</loc>
-		<lastmod>2026-10-08T08:41:07+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-valley-view/</loc>
 		<lastmod>2026-10-08T08:41:07+00:00</lastmod>
 	</url>
@@ -1198,10 +430,6 @@
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-maddington/</loc>
-		<lastmod>2026-10-08T08:41:07+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/cornetts-iga-ravenshoe-1/</loc>
 		<lastmod>2026-10-08T08:41:07+00:00</lastmod>
 	</url>
 	<url>
@@ -1357,10 +585,6 @@
 		<lastmod>2026-10-08T08:41:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-mistful-park-goulburn-plus-liquor/</loc>
-		<lastmod>2026-10-08T08:41:11+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/kensington-iga-plus-liquor/</loc>
 		<lastmod>2026-10-08T08:41:11+00:00</lastmod>
 	</url>
@@ -1410,10 +634,6 @@
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-local-grocer-middleton-general-store/</loc>
-		<lastmod>2026-10-08T08:41:13+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-everyday-nubeena-2/</loc>
 		<lastmod>2026-10-08T08:41:13+00:00</lastmod>
 	</url>
 	<url>
@@ -1473,10 +693,6 @@
 		<lastmod>2026-10-08T08:56:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/romeos-food-hall-stirling/</loc>
-		<lastmod>2026-10-08T08:58:00+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/walkerville-iga/</loc>
 		<lastmod>2026-10-08T08:59:19+00:00</lastmod>
 	</url>
@@ -1517,10 +733,6 @@
 		<lastmod>2026-10-08T09:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-bondi-beach/</loc>
-		<lastmod>2026-10-08T09:06:22+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/boundys-supa-iga-keilor-road/</loc>
 		<lastmod>2026-10-08T09:06:35+00:00</lastmod>
 	</url>
@@ -1539,10 +751,6 @@
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-yarrabilba/</loc>
 		<lastmod>2026-10-08T09:07:17+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-brendale/</loc>
-		<lastmod>2026-10-08T09:07:26+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-berowra/</loc>
@@ -1589,10 +797,6 @@
 		<lastmod>2026-10-08T10:02:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/strath-village-supa-iga/</loc>
-		<lastmod>2026-10-08T10:02:36+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-hilton/</loc>
 		<lastmod>2026-10-08T10:02:46+00:00</lastmod>
 	</url>
@@ -1607,10 +811,6 @@
 	<url>
 		<loc>https://www.iga.com.au/stores/supa-iga-guildford/</loc>
 		<lastmod>2026-10-08T10:06:29+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/south-bunbury-iga/</loc>
-		<lastmod>2026-10-08T10:06:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-hoppers-crossing-woodville-centre/</loc>
@@ -1639,10 +839,6 @@
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-coffs-harbour-jetty-village/</loc>
 		<lastmod>2026-10-08T10:07:39+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-nabiac/</loc>
-		<lastmod>2026-10-08T10:07:49+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-supa-lowood/</loc>
@@ -1679,10 +875,6 @@
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-burnside/</loc>
 		<lastmod>2026-10-08T10:13:55+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/carlos-iga-plus-liquor-birrong/</loc>
-		<lastmod>2026-10-08T10:14:04+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/reservoir-east-supa-iga/</loc>
@@ -1747,10 +939,6 @@
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-connolly/</loc>
 		<lastmod>2026-10-08T10:20:04+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-goonellabah/</loc>
-		<lastmod>2026-10-08T10:20:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/wanneroo-supa-iga/</loc>
@@ -1853,10 +1041,6 @@
 		<lastmod>2026-10-08T10:31:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/pyramid-hill-iga/</loc>
-		<lastmod>2026-10-08T10:31:38+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-freshwater/</loc>
 		<lastmod>2026-10-08T10:38:32+00:00</lastmod>
 	</url>
@@ -1877,10 +1061,6 @@
 		<lastmod>2026-10-08T10:38:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/loxton-iga/</loc>
-		<lastmod>2026-10-08T10:39:03+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-beerwah/</loc>
 		<lastmod>2026-10-08T10:39:08+00:00</lastmod>
 	</url>
@@ -1895,10 +1075,6 @@
 	<url>
 		<loc>https://www.iga.com.au/stores/walpole-iga-pioneer-store/</loc>
 		<lastmod>2026-10-08T10:39:24+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/riverstone-supermarket/</loc>
-		<lastmod>2026-10-08T10:39:29+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-dysart-kd/</loc>
@@ -1961,10 +1137,6 @@
 		<lastmod>2026-10-08T10:44:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/ritchies-iga-berwick/</loc>
-		<lastmod>2026-10-08T10:44:28+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-bushland-beach/</loc>
 		<lastmod>2026-10-08T10:44:33+00:00</lastmod>
 	</url>
@@ -2001,10 +1173,6 @@
 		<lastmod>2026-10-08T10:45:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/ritchies-supa-iga-rutherford/</loc>
-		<lastmod>2026-10-08T10:45:24+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-supa-pialba/</loc>
 		<lastmod>2026-10-08T10:58:17+00:00</lastmod>
 	</url>
@@ -2033,10 +1201,6 @@
 		<lastmod>2026-10-08T10:58:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/dockendorffs-iga/</loc>
-		<lastmod>2026-10-08T10:58:59+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-supa-nambour/</loc>
 		<lastmod>2026-10-08T10:59:05+00:00</lastmod>
 	</url>
@@ -2051,10 +1215,6 @@
 	<url>
 		<loc>https://www.iga.com.au/stores/ritchies-supa-iga-rosebud/</loc>
 		<lastmod>2026-10-08T10:59:21+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-strathpine/</loc>
-		<lastmod>2026-10-08T10:59:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/supa-iga-tolland/</loc>
@@ -2189,14 +1349,6 @@
 		<lastmod>2026-10-08T11:08:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-fingal-hayshed/</loc>
-		<lastmod>2026-10-08T11:08:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-currans-hill/</loc>
-		<lastmod>2026-10-08T11:08:52+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-xpress-lower-plenty/</loc>
 		<lastmod>2026-10-08T11:08:56+00:00</lastmod>
 	</url>
@@ -2289,20 +1441,12 @@
 		<lastmod>2026-10-08T11:17:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-east-waterloo/</loc>
-		<lastmod>2026-10-08T11:17:25+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/iga-xpress-westlake/</loc>
 		<lastmod>2026-10-08T11:17:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-x-press-withcott/</loc>
 		<lastmod>2026-10-08T11:17:37+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/forest-gardens-iga-express/</loc>
-		<lastmod>2026-10-08T11:17:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-x-press-flagstone/</loc>
@@ -2331,14 +1475,6 @@
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-xpress-muchea/</loc>
 		<lastmod>2026-10-08T11:18:18+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-xpress-north-cairns/</loc>
-		<lastmod>2026-10-08T11:18:24+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.iga.com.au/stores/iga-x-press-circular-quay/</loc>
-		<lastmod>2026-10-08T11:18:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/iga-local-grocer-terang/</loc>
@@ -2381,16 +1517,320 @@
 		<lastmod>2026-10-13T05:24:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.iga.com.au/stores/iga-bawley-point/</loc>
-		<lastmod>2026-10-13T23:50:19+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.iga.com.au/stores/north-sydney-iga-plus-liquor/</loc>
 		<lastmod>2026-10-16T09:32:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.iga.com.au/stores/spanos-iga-stanthorpe/</loc>
 		<lastmod>2026-10-19T01:51:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-local-grocer-andres-watsonia/</loc>
+		<lastmod>2026-10-20T00:46:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/boundys-supa-iga-buckley-street/</loc>
+		<lastmod>2026-10-20T00:47:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-xpress-st-marys-c-d/</loc>
+		<lastmod>2026-10-20T00:50:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/cornetts-iga-ravenshoe/</loc>
+		<lastmod>2026-10-20T00:50:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-westbury/</loc>
+		<lastmod>2026-10-20T00:51:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-local-grocer-domain-central/</loc>
+		<lastmod>2026-10-20T00:52:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/vicsfresh-iga-ramsgate-beach/</loc>
+		<lastmod>2026-10-20T00:53:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-local-grocer-bawley-point/</loc>
+		<lastmod>2026-10-20T00:54:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-darlinghurst/</loc>
+		<lastmod>2026-10-20T00:55:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-agnes-water/</loc>
+		<lastmod>2026-10-20T00:56:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/wilkes-iga-everyday-beaconsfield/</loc>
+		<lastmod>2026-10-20T00:56:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-bridport/</loc>
+		<lastmod>2026-10-20T00:57:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-everyday-burnie/</loc>
+		<lastmod>2026-10-20T00:57:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-local-grocer-dover/</loc>
+		<lastmod>2026-10-20T00:58:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-fourways-pommy-pauls-supermarkets/</loc>
+		<lastmod>2026-10-20T00:59:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-everyday-lilydale-wraggs/</loc>
+		<lastmod>2026-10-20T01:00:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-everyday-norwood-launceston/</loc>
+		<lastmod>2026-10-20T01:01:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-x-press-nubeena/</loc>
+		<lastmod>2026-10-20T01:03:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-everyday-oatlands-roxy/</loc>
+		<lastmod>2026-10-20T01:04:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-everyday-sheffield-don-store/</loc>
+		<lastmod>2026-10-20T01:05:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/springbay-iga/</loc>
+		<lastmod>2026-10-20T01:27:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-everyday-st-helens-hillys/</loc>
+		<lastmod>2026-10-20T01:27:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-everyday-wynyard-west-end/</loc>
+		<lastmod>2026-10-20T01:27:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/legends-iga-greenslopes/</loc>
+		<lastmod>2026-10-20T01:27:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-local-grocer-glasshouse-mountains/</loc>
+		<lastmod>2026-10-20T01:27:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/ritchies-iga-heathmont/</loc>
+		<lastmod>2026-10-20T01:27:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-local-grocer-abbotsford/</loc>
+		<lastmod>2026-10-20T01:27:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-x-press-lindisfarne/</loc>
+		<lastmod>2026-10-20T01:27:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-adelaide-city-east/</loc>
+		<lastmod>2026-10-20T01:27:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-local-grocer-armadale-wa/</loc>
+		<lastmod>2026-10-20T01:27:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-xpress-aubin-grove/</loc>
+		<lastmod>2026-10-20T01:27:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-local-grocer-eastgate-wa/</loc>
+		<lastmod>2026-10-20T01:27:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-xpress-bundaberg-north/</loc>
+		<lastmod>2026-10-20T01:27:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-x-press-east-devonport/</loc>
+		<lastmod>2026-10-20T01:27:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-farrer/</loc>
+		<lastmod>2026-10-20T01:27:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-glebe/</loc>
+		<lastmod>2026-10-20T01:27:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-hackham/</loc>
+		<lastmod>2026-10-20T01:27:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-x-press-longford-marcus/</loc>
+		<lastmod>2026-10-20T01:27:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-leumeah/</loc>
+		<lastmod>2026-10-20T01:27:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/maud-st-grocer-iga-maroochydore/</loc>
+		<lastmod>2026-10-20T01:27:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-xpress-macleod/</loc>
+		<lastmod>2026-10-20T01:27:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-maldon-plus-liquor/</loc>
+		<lastmod>2026-10-20T01:27:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-xpress-mandurah/</loc>
+		<lastmod>2026-10-20T01:27:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-xpress-moreland-road/</loc>
+		<lastmod>2026-10-20T01:27:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-turramurra/</loc>
+		<lastmod>2026-10-20T01:27:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-xpress-vallis/</loc>
+		<lastmod>2026-10-20T01:27:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/westminster-iga-xpress/</loc>
+		<lastmod>2026-10-20T01:27:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-local-grocer-wollert/</loc>
+		<lastmod>2026-10-20T01:27:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-putney/</loc>
+		<lastmod>2026-10-20T01:27:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-mapleton/</loc>
+		<lastmod>2026-10-20T01:27:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-mistful-park-goulburn/</loc>
+		<lastmod>2026-10-20T01:27:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-saint-albans/</loc>
+		<lastmod>2026-10-20T01:27:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-everyday-rokeby/</loc>
+		<lastmod>2026-10-20T01:27:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/tamar-valley-grocer/</loc>
+		<lastmod>2026-10-20T01:27:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-ulverstone/</loc>
+		<lastmod>2026-10-20T01:27:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-x-press-st-marys-hillys/</loc>
+		<lastmod>2026-10-20T01:27:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/supa-iga-plus-liquor-warren/</loc>
+		<lastmod>2026-10-20T01:27:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-local-grocer-unsw/</loc>
+		<lastmod>2026-10-20T01:27:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-bicheno/</loc>
+		<lastmod>2026-10-20T01:27:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/blh-iga/</loc>
+		<lastmod>2026-10-20T01:27:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-x-press-exeter-freelands/</loc>
+		<lastmod>2026-10-20T01:27:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-local-grocer-newnham/</loc>
+		<lastmod>2026-10-20T01:27:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/invermay-road-iga-xpress/</loc>
+		<lastmod>2026-10-20T01:27:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-valley-road-pommy-pauls-supermarkets/</loc>
+		<lastmod>2026-10-20T01:27:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-local-grocer-south-riana/</loc>
+		<lastmod>2026-10-20T01:27:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-local-grocer-somerset/</loc>
+		<lastmod>2026-10-20T01:27:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-x-press-burnie-west-park-grove/</loc>
+		<lastmod>2026-10-20T01:27:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-local-grocer-buxton/</loc>
+		<lastmod>2026-10-20T01:27:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-xpress-castle-mall/</loc>
+		<lastmod>2026-10-20T01:27:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-everyday-youngtown/</loc>
+		<lastmod>2026-10-20T01:27:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-spreyton/</loc>
+		<lastmod>2026-10-20T01:27:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/pauls-iga-ringwood-east/</loc>
+		<lastmod>2026-10-20T01:27:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-charlton/</loc>
+		<lastmod>2026-10-20T01:27:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/bay-of-fires-iga/</loc>
+		<lastmod>2026-10-20T01:27:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-hamlyn-heights-vallis/</loc>
+		<lastmod>2026-10-20T01:27:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-robina-village/</loc>
+		<lastmod>2026-10-20T01:30:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.iga.com.au/stores/iga-rosanna/</loc>
+		<lastmod>2026-10-20T01:30:32+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
