@@ -54,42 +54,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/airds-iga-plus-liquor/",
-    "name": "Airds IGA Plus Liquor",
-    "address_line_1": "1/44 Riverside Drive",
-    "address_line_2": "Airds, 2560, NSW",
-    "phone": "02  4626 2265",
-    "directions_url": "https://maps.google.com/maps?cid=16055056471032482517",
-    "hours": {
-      "Sunday": "9:00 am - 5:30 pm",
-      "Monday": "8:00 am - 7:00 pm",
-      "Tuesday": "8:00 am - 7:00 pm",
-      "Wednesday": "8:00 am - 7:00 pm",
-      "Thursday": "8:00 am - 7:00 pm",
-      "Friday": "8:00 am - 7:00 pm",
-      "Saturday": "9:00 am - 6:30 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/alkimos-fresh-iga/",
-    "name": "Alkimos Fresh IGA",
-    "address_line_1": "Shop 1, Alkimos Gateway, Corner of Marmion Avenue & 2 Graceful Boulevard",
-    "address_line_2": "Alkimos, 6038, WA",
-    "phone": "(08) 9502 9740",
-    "directions_url": "https://maps.google.com/maps?cid=3453032644072112599",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/all-foods-market-belmont-iga/",
     "name": "All Foods Market Belmont IGA",
     "address_line_1": "40 Belvidere Street",
@@ -360,24 +324,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/baxters-iga-sandy-bay/",
-    "name": "Baxter's IGA Sandy Bay",
-    "address_line_1": "644 Sandy Bay Road SANDY BAY TAS 7005",
-    "address_line_2": "Sandy Bay, TAS",
-    "phone": "(03) 6144 6488",
-    "directions_url": null,
-    "hours": {
-      "Sunday": "6:30 am - 9:00 pm",
-      "Monday": "6:30 am - 9:00 pm",
-      "Tuesday": "6:30 am - 9:00 pm",
-      "Wednesday": "6:30 am - 9:00 pm",
-      "Thursday": "6:30 am - 9:00 pm",
-      "Friday": "6:30 am - 9:00 pm",
-      "Saturday": "6:30 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/baxters-iga-snug/",
     "name": "Baxter's IGA Snug",
     "address_line_1": "Shop 1/1 Riverstone Close",
@@ -468,24 +414,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/bellingen-iga/",
-    "name": "Bellingen IGA",
-    "address_line_1": "69-71 Hyde Street",
-    "address_line_2": "Bellingen, 2454, NSW",
-    "phone": "02  6655 9500",
-    "directions_url": "https://maps.google.com/maps?cid=12616035971721593008",
-    "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/belrose-iga-plus-liquor/",
     "name": "Belrose IGA Plus Liquor",
     "address_line_1": "25-27 Ralston Ave",
@@ -572,24 +500,6 @@
       "Thursday": "8:00 am - 6:00 pm",
       "Friday": "8:00 am - 6:00 pm",
       "Saturday": "8:00 am - 4:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/bittern-iga-plus-liquor/",
-    "name": "Bittern IGA Plus Liquor",
-    "address_line_1": "2428-2436 Frankston-Flinders Rd",
-    "address_line_2": "Bittern, 3918, VIC",
-    "phone": "(03) 5983 0135",
-    "directions_url": "https://maps.google.com/maps?cid=16541567503284242195",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
     },
     "services": []
   },
@@ -918,24 +828,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/carlos-iga-plus-liquor-coonabarabran/",
-    "name": "Carlo's IGA Plus Liquor Coonabarabran",
-    "address_line_1": "64 Dalgarno Street",
-    "address_line_2": "Coonabarabran NSW 2357",
-    "phone": "02 6842 1441",
-    "directions_url": null,
-    "hours": {
-      "Sunday": "8:00 am - 5:00 pm",
-      "Monday": "8:00 am - 7:00 pm",
-      "Tuesday": "8:00 am - 7:00 pm",
-      "Wednesday": "8:00 am - 7:00 pm",
-      "Thursday": "8:00 am - 7:00 pm",
-      "Friday": "8:00 am - 7:00 pm",
-      "Saturday": "8:00 am - 6:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/carlos-iga-plus-liquor-gilgandra/",
     "name": "Carlo's IGA Plus Liquor Gilgandra",
     "address_line_1": "43-45 Miller Street",
@@ -990,24 +882,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/carlos-iga-plus-liquor-tamworth/",
-    "name": "Carlo's IGA Plus Liquor Tamworth",
-    "address_line_1": "Tamworth Shopping Village",
-    "address_line_2": "Tamworth, 2340, NSW",
-    "phone": "02  6765 8552",
-    "directions_url": "https://maps.google.com/maps?cid=10919016065783142374",
-    "hours": {
-      "Sunday": "9:00 am - 7:00 pm",
-      "Monday": "7:30 am - 7:00 pm",
-      "Tuesday": "7:30 am - 7:00 pm",
-      "Wednesday": "7:30 am - 7:00 pm",
-      "Thursday": "7:30 am - 7:00 pm",
-      "Friday": "7:30 am - 7:00 pm",
-      "Saturday": "7:30 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/carlos-iga-plus-liquor-wee-waa/",
     "name": "Carlo's IGA Plus Liquor Wee Waa",
     "address_line_1": "88 - 94 Rose Street",
@@ -1040,24 +914,6 @@
       "Thursday": "8:00 am - 7:00 pm",
       "Friday": "8:00 am - 7:00 pm",
       "Saturday": "8:00 am - 6:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/carlos-iga-warialda/",
-    "name": "Carlo's IGA Warialda",
-    "address_line_1": "26 Stephen Street",
-    "address_line_2": "Warialda, 2402, NSW",
-    "phone": "(02) 6729 1518",
-    "directions_url": "https://maps.google.com/maps?cid=7729610220634935263",
-    "hours": {
-      "Sunday": "8:00 am - 5:00 pm",
-      "Monday": "8:00 am - 6:00 pm",
-      "Tuesday": "8:00 am - 6:00 pm",
-      "Wednesday": "8:00 am - 6:00 pm",
-      "Thursday": "8:00 am - 6:00 pm",
-      "Friday": "8:00 am - 6:00 pm",
-      "Saturday": "8:00 am - 5:00 pm"
     },
     "services": []
   },
@@ -1148,24 +1004,6 @@
       "Thursday": "7:00 am - 9:00 pm",
       "Friday": "7:00 am - 9:00 pm",
       "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/champions-iga-heathcote/",
-    "name": "Champions IGA Heathcote",
-    "address_line_1": "175 High Street",
-    "address_line_2": "Heathcote, 3523, VIC",
-    "phone": "(03) 5431 0000",
-    "directions_url": "https://maps.google.com/maps?cid=5618869964293911341",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "7:30 am - 8:00 pm",
-      "Tuesday": "7:30 am - 8:00 pm",
-      "Wednesday": "7:30 am - 8:00 pm",
-      "Thursday": "7:30 am - 9:00 pm",
-      "Friday": "7:30 am - 9:00 pm",
-      "Saturday": "7:30 am - 9:00 pm"
     },
     "services": []
   },
@@ -1274,24 +1112,6 @@
       "Thursday": "8:30 am - 6:30 pm",
       "Friday": "8:30 am - 6:30 pm",
       "Saturday": "8:30 am - 5:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/chris-iga-carina/",
-    "name": "Chris' IGA Carina",
-    "address_line_1": "881 Old Cleveland Road",
-    "address_line_2": "Carina, 4152, QLD",
-    "phone": "(07) 3398 1634",
-    "directions_url": "https://maps.google.com/maps?cid=10221517135974923899",
-    "hours": {
-      "Sunday": "6:00 am - 10:00 pm",
-      "Monday": "6:00 am - 10:00 pm",
-      "Tuesday": "6:00 am - 10:00 pm",
-      "Wednesday": "6:00 am - 10:00 pm",
-      "Thursday": "6:00 am - 10:00 pm",
-      "Friday": "6:00 am - 10:00 pm",
-      "Saturday": "6:00 am - 10:00 pm"
     },
     "services": []
   },
@@ -1490,24 +1310,6 @@
       "Thursday": "8:00 am - 7:00 pm",
       "Friday": "8:00 am - 7:00 pm",
       "Saturday": "8:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/cunninghams-iga-parkes/",
-    "name": "Cunningham's IGA Parkes",
-    "address_line_1": "362 Clarinda Street",
-    "address_line_2": "Parkes, 2870, NSW",
-    "phone": "(02) 6862 2522",
-    "directions_url": "https://maps.google.com/maps?cid=10116421366799964073",
-    "hours": {
-      "Sunday": "7:00 am - 7:00 pm",
-      "Monday": "6:00 am - 7:30 pm",
-      "Tuesday": "7:00 am - 7:30 pm",
-      "Wednesday": "7:00 am - 7:30 pm",
-      "Thursday": "7:00 am - 7:30 pm",
-      "Friday": "7:00 am - 7:30 pm",
-      "Saturday": "7:00 am - 7:30 pm"
     },
     "services": []
   },
@@ -1782,24 +1584,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/eve-iga/",
-    "name": "Eve IGA",
-    "address_line_1": "2-10 William Thwaites Boulevard",
-    "address_line_2": "Cranbourne North, 3977, VIC",
-    "phone": "(03) 5995 8111",
-    "directions_url": "https://maps.google.com/maps?cid=8685693799125471858",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/exhibition-street-iga-x-press/",
     "name": "Exhibition Street IGA X-press",
     "address_line_1": "333 Exhibition Street",
@@ -1962,24 +1746,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/frenchs-iga-xpress-glen-waverley/",
-    "name": "French's IGA Xpress Glen Waverley",
-    "address_line_1": "10-12 Kerrie Road",
-    "address_line_2": "Glen Waverley, 3150, VIC",
-    "phone": "(03) 9802 0091",
-    "directions_url": "https://maps.google.com/maps?cid=5469701077950948448",
-    "hours": {
-      "Sunday": "9:00 am - 7:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/fresh-st-market-iga-atherton/",
     "name": "Fresh St. Market IGA Atherton",
     "address_line_1": "2-4 Silo Road",
@@ -2004,24 +1770,6 @@
     "address_line_2": "Fremantle, 6160, WA",
     "phone": "(08) 9336 6700",
     "directions_url": "https://maps.google.com/maps?cid=2814749662527815461",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/fusions-iga-shoalwater/",
-    "name": "Fusions IGA Shoalwater",
-    "address_line_1": "Coventry Rd & Safety Bay Rd",
-    "address_line_2": "Safety Bay, 6169, WA",
-    "phone": "(08) 9553 1900",
-    "directions_url": "https://maps.google.com/maps?cid=2594416033308935768",
     "hours": {
       "Sunday": "7:00 am - 9:00 pm",
       "Monday": "7:00 am - 9:00 pm",
@@ -2160,24 +1908,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/griffith-iga-x-press/",
-    "name": "Griffith IGA X-press",
-    "address_line_1": "Sanders Street",
-    "address_line_2": "Griffith, 2680, NSW",
-    "phone": "(02) 6962 6377",
-    "directions_url": "https://maps.google.com/maps?cid=4116109410823639363",
-    "hours": {
-      "Sunday": "8:00 am - 6:00 pm",
-      "Monday": "7:00 am - 7:30 pm",
-      "Tuesday": "7:00 am - 7:30 pm",
-      "Wednesday": "7:00 am - 7:30 pm",
-      "Thursday": "7:00 am - 7:30 pm",
-      "Friday": "7:00 am - 7:30 pm",
-      "Saturday": "8:00 am - 7:30 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/hambleys-iga/",
     "name": "Hambley's IGA",
     "address_line_1": "193 Sevenoaks Street",
@@ -2246,24 +1976,6 @@
       "Thursday": "8:00 am - 8:00 pm",
       "Friday": "8:00 am - 8:00 pm",
       "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/heidelberg-food-store/",
-    "name": "Heidelberg Food store",
-    "address_line_1": "28 - 32 The Mall",
-    "address_line_2": "Heidelberg West, 3081, VIC",
-    "phone": "(03) 9457 4287",
-    "directions_url": "https://maps.google.com/maps?cid=7305708791971832587",
-    "hours": {
-      "Sunday": "9:00 am - 5:00 pm",
-      "Monday": "8:00 am - 6:00 pm",
-      "Tuesday": "8:00 am - 6:00 pm",
-      "Wednesday": "8:00 am - 6:00 pm",
-      "Thursday": "8:00 am - 6:00 pm",
-      "Friday": "8:00 am - 6:00 pm",
-      "Saturday": "8:30 am - 5:00 pm"
     },
     "services": []
   },
@@ -2448,42 +2160,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-adelaide-north-tce/",
-    "name": "IGA Adelaide (North Tce)",
-    "address_line_1": "281 North Terrace",
-    "address_line_2": "Adelaide, 5000, SA",
-    "phone": "(08) 8223 0922",
-    "directions_url": "https://maps.google.com/maps?cid=7830368416409242610",
-    "hours": {
-      "Sunday": "9:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "9:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-agnes-water/",
-    "name": "IGA Everfresh Agnes Water",
-    "address_line_1": "2853 Round Hill Rd",
-    "address_line_2": "Agnes Water, 4677, QLD",
-    "phone": "(07) 4962 1250",
-    "directions_url": null,
-    "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-ainslie/",
     "name": "IGA Ainslie",
     "address_line_1": "9-11 Edgar Street",
@@ -2628,24 +2304,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-anglesea/",
-    "name": "IGA Anglesea",
-    "address_line_1": "Shop 5 – 8 87-89 Great Ocean Road",
-    "address_line_2": "Anglesea, 3230, VIC",
-    "phone": "(03) 5263 1573",
-    "directions_url": "https://maps.google.com/maps?cid=15590286563600581742",
-    "hours": {
-      "Sunday": "8:00 am - 7:00 pm",
-      "Monday": "8:00 am - 7:00 pm",
-      "Tuesday": "8:00 am - 7:00 pm",
-      "Wednesday": "8:00 am - 7:00 pm",
-      "Thursday": "8:00 am - 7:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-apollo-bay-plus-liquor/",
     "name": "IGA Apollo Bay Plus Liquor",
     "address_line_1": "103-109 Great Ocean Road",
@@ -2768,24 +2426,6 @@
       "Thursday": "6:00 am - 10:00 pm",
       "Friday": "6:00 am - 10:00 pm",
       "Saturday": "6:00 am - 10:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-avoca/",
-    "name": "IGA Avoca",
-    "address_line_1": "302 Branyan Drive",
-    "address_line_2": "Avoca, 4670, QLD",
-    "phone": "(07) 4155 3717",
-    "directions_url": "https://maps.google.com/maps?cid=329384058418198462",
-    "hours": {
-      "Sunday": "6:00 am - 9:00 pm",
-      "Monday": "6:00 am - 9:00 pm",
-      "Tuesday": "6:00 am - 9:00 pm",
-      "Wednesday": "6:00 am - 9:00 pm",
-      "Thursday": "6:00 am - 9:00 pm",
-      "Friday": "6:00 am - 9:00 pm",
-      "Saturday": "6:00 am - 9:00 pm"
     },
     "services": []
   },
@@ -3510,24 +3150,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-boddington/",
-    "name": "IGA Boddington",
-    "address_line_1": "34-36 Bannister Road",
-    "address_line_2": "Boddington, 6390, WA",
-    "phone": "(08) 9883 8290",
-    "directions_url": "https://maps.google.com/maps?cid=17796117491102263753",
-    "hours": {
-      "Sunday": "8:00 am - 4:30 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "8:00 am - 6:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-boggo-road/",
     "name": "IGA Boggo Road",
     "address_line_1": "T1/21 Boggo Road",
@@ -3614,24 +3236,6 @@
       "Thursday": "6:00 am - 10:00 pm",
       "Friday": "6:00 am - 10:00 pm",
       "Saturday": "6:00 am - 10:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-boorowa/",
-    "name": "IGA Boorowa",
-    "address_line_1": "91-93 Pudman Street",
-    "address_line_2": "Boorowa, 2586, NSW",
-    "phone": "(02) 6385 3037",
-    "directions_url": "https://maps.google.com/maps?cid=5170828632171333287",
-    "hours": {
-      "Sunday": "8:30 am - 1:00 pm",
-      "Monday": "8:30 am - 6:00 pm",
-      "Tuesday": "8:30 am - 6:00 pm",
-      "Wednesday": "8:30 am - 6:00 pm",
-      "Thursday": "8:30 am - 6:00 pm",
-      "Friday": "8:30 am - 6:00 pm",
-      "Saturday": "8:30 am - 1:00 pm"
     },
     "services": []
   },
@@ -3866,24 +3470,6 @@
       "Thursday": "7:00 am - 9:00 pm",
       "Friday": "7:00 am - 9:00 pm",
       "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-bulahdelah/",
-    "name": "IGA Bulahdelah",
-    "address_line_1": "86 Stroud Street",
-    "address_line_2": "Bulahdelah, 2423, NSW",
-    "phone": "(02) 4997 4230",
-    "directions_url": "https://maps.google.com/maps?cid=15855343839885651459",
-    "hours": {
-      "Sunday": "7:00 am - 7:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
     },
     "services": []
   },
@@ -4190,42 +3776,6 @@
       "Thursday": "6:00 am - 8:00 pm",
       "Friday": "6:00 am - 8:00 pm",
       "Saturday": "6:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-carnamah/",
-    "name": "IGA Carnamah",
-    "address_line_1": "6 Yarra Street",
-    "address_line_2": "Carnamah, 6517, WA",
-    "phone": "(08) 9951 1076",
-    "directions_url": "https://maps.google.com/maps?cid=2196567347745063019",
-    "hours": {
-      "Sunday": "am -  pm",
-      "Monday": "am -  pm",
-      "Tuesday": "am -  pm",
-      "Wednesday": "am -  pm",
-      "Thursday": "am -  pm",
-      "Friday": "am -  pm",
-      "Saturday": "am -  pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-cashmere/",
-    "name": "IGA Cashmere",
-    "address_line_1": "1 Warra Lane",
-    "address_line_2": "Cashmere, 4500, QLD",
-    "phone": "(07) 3882 6518",
-    "directions_url": "https://maps.google.com/maps?cid=460072635834474950",
-    "hours": {
-      "Sunday": "6:00 am - 7:00 pm",
-      "Monday": "6:00 am - 7:00 pm",
-      "Tuesday": "6:00 am - 7:00 pm",
-      "Wednesday": "6:00 am - 7:00 pm",
-      "Thursday": "6:00 am - 7:00 pm",
-      "Friday": "6:00 am - 7:00 pm",
-      "Saturday": "6:00 am - 7:00 pm"
     },
     "services": []
   },
@@ -5148,24 +4698,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-dimboola-plus-liquor/",
-    "name": "IGA Dimboola Plus Liquor",
-    "address_line_1": "15-19 Lochiel Street",
-    "address_line_2": "Dimboola, 3414, VIC",
-    "phone": "(03) 5389 1707",
-    "directions_url": "https://maps.google.com/maps?cid=12704737396822496696",
-    "hours": {
-      "Sunday": "9:00 am - 12:30 pm",
-      "Monday": "8:00 am - 6:00 pm",
-      "Tuesday": "8:00 am - 6:00 pm",
-      "Wednesday": "8:00 am - 6:00 pm",
-      "Thursday": "8:00 am - 6:00 pm",
-      "Friday": "8:00 am - 6:00 pm",
-      "Saturday": "8:00 am - 12:30 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-dongara/",
     "name": "IGA Dongara",
     "address_line_1": "17 Moreton Terrace",
@@ -5310,24 +4842,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-dysart-garden-plaza/",
-    "name": "IGA Dysart Garden Plaza",
-    "address_line_1": "Garden Plaza Centre",
-    "address_line_2": "Dysart, 4745, QLD",
-    "phone": "(07) 4958 1136",
-    "directions_url": "https://maps.google.com/maps?cid=10226640175661831436",
-    "hours": {
-      "Sunday": "8:00 am - 7:00 pm",
-      "Monday": "8:00 am - 7:30 pm",
-      "Tuesday": "8:00 am - 7:30 pm",
-      "Wednesday": "8:00 am - 7:30 pm",
-      "Thursday": "8:00 am - 7:30 pm",
-      "Friday": "8:00 am - 7:30 pm",
-      "Saturday": "8:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-dysart-kd/",
     "name": "IGA Dysart KD",
     "address_line_1": "Dysart Connection Road",
@@ -5378,24 +4892,6 @@
       "Thursday": "8:00 am - 8:00 pm",
       "Friday": "8:00 am - 8:00 pm",
       "Saturday": "8:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-east-gosford/",
-    "name": "IGA East Gosford",
-    "address_line_1": "87-91 Victoria Street",
-    "address_line_2": "East Gosford, 2250, NSW",
-    "phone": "(02) 4325 2368",
-    "directions_url": "https://maps.google.com/maps?cid=4607823159306002349",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -5796,24 +5292,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-everyday-nubeena/",
-    "name": "IGA Everyday Nubeena",
-    "address_line_1": "Main Road",
-    "address_line_2": "Nubeena, 7184, TAS",
-    "phone": "(03) 6250 2258",
-    "directions_url": "https://maps.google.com/maps?cid=11732834428749189268",
-    "hours": {
-      "Sunday": "6:00 am - 7:00 pm",
-      "Monday": "6:00 am - 7:00 pm",
-      "Tuesday": "6:00 am - 7:00 pm",
-      "Wednesday": "6:00 am - 7:00 pm",
-      "Thursday": "6:00 am - 7:00 pm",
-      "Friday": "6:00 am - 7:00 pm",
-      "Saturday": "6:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-everyday-oatlands-roxy/",
     "name": "IGA Everyday Oatlands",
     "address_line_1": "54 High Street",
@@ -5976,24 +5454,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-everyday-st-helens-hillys/",
-    "name": "IGA Everyday St Helens",
-    "address_line_1": "23 Cecilia Street",
-    "address_line_2": "St Helens, TAS",
-    "phone": "(03) 6376 1161",
-    "directions_url": "https://maps.google.com/maps?cid=2216226182605213984",
-    "hours": {
-      "Sunday": "8:00 am - 6:30 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-everyday-swansea-morris/",
     "name": "IGA Everyday Swansea (Morris)",
     "address_line_1": "13-15 Franklin Street",
@@ -6048,24 +5508,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-everyday-youngtown/",
-    "name": "IGA Youngtown (French's)",
-    "address_line_1": "371 Hobart Road",
-    "address_line_2": "Youngtown, 7249, TAS",
-    "phone": "(03) 6344 5202",
-    "directions_url": "https://maps.google.com/maps?cid=1161606587074936278",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "7:30 am - 8:00 pm",
-      "Tuesday": "7:30 am - 8:00 pm",
-      "Wednesday": "7:30 am - 8:00 pm",
-      "Thursday": "7:30 am - 8:00 pm",
-      "Friday": "7:30 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-fannie-bay/",
     "name": "IGA Fannie Bay",
     "address_line_1": "15 Fannie Bay Place",
@@ -6098,24 +5540,6 @@
       "Thursday": "8:00 am - 7:30 pm",
       "Friday": "8:00 am - 7:30 pm",
       "Saturday": "8:00 am - 7:30 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-fawkner/",
-    "name": "IGA Fawkner",
-    "address_line_1": "38-44 Bonwick Street",
-    "address_line_2": "Fawkner, 3060, VIC",
-    "phone": "(03) 9359 2417",
-    "directions_url": "https://maps.google.com/maps?cid=7466037690790856953",
-    "hours": {
-      "Sunday": "9:00 am - 6:00 pm",
-      "Monday": "8:00 am - 7:00 pm",
-      "Tuesday": "8:00 am - 7:00 pm",
-      "Wednesday": "8:00 am - 7:00 pm",
-      "Thursday": "8:00 am - 7:00 pm",
-      "Friday": "8:00 am - 7:00 pm",
-      "Saturday": "8:00 am - 7:00 pm"
     },
     "services": []
   },
@@ -6192,24 +5616,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-fourways-pommy-pauls-supermarkets/",
-    "name": "IGA Everyday Fourways Devonport",
-    "address_line_1": "99 Oldaker Street",
-    "address_line_2": "Devonport, TAS",
-    "phone": "(03) 6424 5361",
-    "directions_url": "https://maps.google.com/maps?cid=2930371259651108368",
-    "hours": {
-      "Sunday": "8:00 am - 7:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:30 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-fraser-shores/",
     "name": "IGA Fraser Shores",
     "address_line_1": "81 Boat Harbour Drive",
@@ -6224,24 +5630,6 @@
       "Thursday": "6:00 am - 8:00 pm",
       "Friday": "6:00 am - 8:00 pm",
       "Saturday": "6:30 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-fraser/",
-    "name": "IGA Fraser",
-    "address_line_1": "1/4 Daley Crescent",
-    "address_line_2": "Fraser, 2615, ACT",
-    "phone": "(02) 6258 9429",
-    "directions_url": "https://maps.google.com/maps?cid=9215616070581251968",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
     },
     "services": []
   },
@@ -6768,24 +6156,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-harold-park/",
-    "name": "IGA Harold Park",
-    "address_line_1": "1 Dalgal Way",
-    "address_line_2": "Forest Lodge NSW 2037",
-    "phone": null,
-    "directions_url": null,
-    "hours": {
-      "Sunday": "am -  pm",
-      "Monday": "am -  pm",
-      "Tuesday": "am -  pm",
-      "Wednesday": "am -  pm",
-      "Thursday": "am -  pm",
-      "Friday": "am -  pm",
-      "Saturday": "am -  pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-harvey/",
     "name": "IGA Harvey",
     "address_line_1": "80 Uduc Street",
@@ -6854,24 +6224,6 @@
       "Thursday": "7:00 am - 8:00 pm",
       "Friday": "7:00 am - 8:00 pm",
       "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-hervey-bay-airport/",
-    "name": "IGA Hervey Bay Airport",
-    "address_line_1": "6/3 William Dean Ave",
-    "address_line_2": "Urangan, 4655, QLD",
-    "phone": "(07) 4194 6907",
-    "directions_url": null,
-    "hours": {
-      "Sunday": "6:00 am - 7:00 pm",
-      "Monday": "6:00 am - 7:00 pm",
-      "Tuesday": "6:00 am - 7:00 pm",
-      "Wednesday": "6:00 am - 7:00 pm",
-      "Thursday": "6:00 am - 7:00 pm",
-      "Friday": "6:00 am - 7:00 pm",
-      "Saturday": "6:00 am - 7:00 pm"
     },
     "services": []
   },
@@ -7182,24 +6534,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-kalbarri/",
-    "name": "IGA Kalbarri",
-    "address_line_1": "47-49 Grey Street",
-    "address_line_2": "Kalbarri, 6536, WA",
-    "phone": "08  9937 1100",
-    "directions_url": "https://maps.google.com/maps?cid=10130117689009163482",
-    "hours": {
-      "Sunday": "7:00 am - 6:00 pm",
-      "Monday": "7:00 am - 6:00 pm",
-      "Tuesday": "7:00 am - 6:00 pm",
-      "Wednesday": "7:00 am - 6:00 pm",
-      "Thursday": "7:00 am - 6:00 pm",
-      "Friday": "7:00 am - 6:00 pm",
-      "Saturday": "7:00 am - 6:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-kambah-plus-liquor/",
     "name": "IGA Kambah Plus Liquor",
     "address_line_1": "2 Castley Circuit",
@@ -7488,24 +6822,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-kuranda/",
-    "name": "IGA Kuranda",
-    "address_line_1": "16 Thooree St Kuranda QLD 4881",
-    "address_line_2": "Kuranda QLD 4881",
-    "phone": "(07) 4168 3674",
-    "directions_url": null,
-    "hours": {
-      "Sunday": "7:00 am - 7:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-laidley/",
     "name": "IGA Laidley",
     "address_line_1": "132 Patrick Street",
@@ -7729,13 +7045,13 @@
     "phone": "(02) 9560 6721",
     "directions_url": "https://maps.google.com/maps?cid=9328358897909818297",
     "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
+      "Sunday": "7:00 am - 8:00 pm",
+      "Monday": "7:00 am - 8:00 pm",
+      "Tuesday": "7:00 am - 8:00 pm",
+      "Wednesday": "7:00 am - 8:00 pm",
+      "Thursday": "7:00 am - 8:00 pm",
+      "Friday": "7:00 am - 8:00 pm",
+      "Saturday": "7:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -7808,42 +7124,6 @@
       "Thursday": "8:00 am - 6:00 pm",
       "Friday": "8:00 am - 6:00 pm",
       "Saturday": "11:00 am - 4:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-alexandra-hills/",
-    "name": "IGA Local Grocer Alexandra Hills",
-    "address_line_1": "195 Vienna Road",
-    "address_line_2": "Alexandra Hills, 4161, QLD",
-    "phone": "(07) 3824 1366",
-    "directions_url": "https://maps.google.com/maps?cid=10785368803377439026",
-    "hours": {
-      "Sunday": "5:30 am - 8:00 pm",
-      "Monday": "5:30 am - 8:00 pm",
-      "Tuesday": "5:30 am - 8:00 pm",
-      "Wednesday": "5:30 am - 8:00 pm",
-      "Thursday": "5:30 am - 8:00 pm",
-      "Friday": "5:30 am - 8:00 pm",
-      "Saturday": "5:30 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-and-liquor-collaroy-beach/",
-    "name": "IGA Local Grocer and Liquor Collaroy Beach",
-    "address_line_1": "1139 Pittwater Road",
-    "address_line_2": "Collaroy, 2097, NSW",
-    "phone": "(02) 9971 2218",
-    "directions_url": "https://maps.google.com/maps?cid=13004935998888163668",
-    "hours": {
-      "Sunday": "7:00 am - 7:30 pm",
-      "Monday": "7:00 am - 7:30 pm",
-      "Tuesday": "7:00 am - 7:30 pm",
-      "Wednesday": "7:00 am - 7:30 pm",
-      "Thursday": "7:00 am - 7:30 pm",
-      "Friday": "7:00 am - 7:30 pm",
-      "Saturday": "7:00 am - 7:30 pm"
     },
     "services": []
   },
@@ -7934,24 +7214,6 @@
       "Thursday": "7:00 am - 7:00 pm",
       "Friday": "7:00 am - 7:00 pm",
       "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-bates-plus-liquor/",
-    "name": "IGA Local Grocer Bates Plus Liquor",
-    "address_line_1": "47 Officer St",
-    "address_line_2": "Mortlake, 3272, VIC",
-    "phone": "(03) 5599 2512",
-    "directions_url": "https://maps.google.com/maps?cid=1164051631315751146",
-    "hours": {
-      "Sunday": "8:30 am - 5:00 pm",
-      "Monday": "7:30 am - 6:00 pm",
-      "Tuesday": "7:30 am - 6:00 pm",
-      "Wednesday": "7:30 am - 6:00 pm",
-      "Thursday": "7:30 am - 6:00 pm",
-      "Friday": "7:30 am - 6:00 pm",
-      "Saturday": "8:15 am - 5:30 pm"
     },
     "services": []
   },
@@ -8136,24 +7398,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-bligh-park-plus-liquor/",
-    "name": "IGA Local Grocer Bligh Park Plus Liquor",
-    "address_line_1": "Bligh Park Shopping Centre Colonial Drive",
-    "address_line_2": "Bligh Park, 2756, NSW",
-    "phone": "(02) 4572 7120",
-    "directions_url": "https://maps.google.com/maps?cid=14120348492765995156",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "7:30 am - 8:00 pm",
-      "Tuesday": "7:30 am - 8:00 pm",
-      "Wednesday": "7:30 am - 8:00 pm",
-      "Thursday": "7:30 am - 8:00 pm",
-      "Friday": "7:30 am - 8:00 pm",
-      "Saturday": "7:30 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-booleroo-centre/",
     "name": "IGA Local Grocer Booleroo Centre",
     "address_line_1": "31 Stephens Street",
@@ -8298,24 +7542,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-brighton-east/",
-    "name": "IGA Local Grocer Brighton East",
-    "address_line_1": "765A Hawthorn Road",
-    "address_line_2": "East Brighton, 3187, VIC",
-    "phone": "(03) 9592 7661",
-    "directions_url": "https://maps.google.com/maps?cid=15418930103715584754",
-    "hours": {
-      "Sunday": "8:00 am - 9:00 pm",
-      "Monday": "8:00 am - 9:00 pm",
-      "Tuesday": "8:00 am - 9:00 pm",
-      "Wednesday": "8:00 am - 9:00 pm",
-      "Thursday": "8:00 am - 9:00 pm",
-      "Friday": "8:00 am - 9:00 pm",
-      "Saturday": "8:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-broadford/",
     "name": "IGA Local Grocer Broadford",
     "address_line_1": "65 High Street",
@@ -8330,24 +7556,6 @@
       "Thursday": "7:30 am - 8:00 pm",
       "Friday": "7:30 am - 8:00 pm",
       "Saturday": "7:30 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-broadmeadows/",
-    "name": "IGA Local Grocer Broadmeadows",
-    "address_line_1": "10-12 Olsen Place",
-    "address_line_2": "Broadmeadows, 3047, VIC",
-    "phone": "(03) 9302 4300",
-    "directions_url": "https://maps.google.com/maps?cid=10646975403643266214",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -8420,24 +7628,6 @@
       "Thursday": "6:00 am - 8:00 pm",
       "Friday": "6:00 am - 8:00 pm",
       "Saturday": "6:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-bull-creek/",
-    "name": "IGA Local Grocer Bull Creek",
-    "address_line_1": "8/118 Parry Avenue",
-    "address_line_2": "Bull Creek, 6149, WA",
-    "phone": "(08) 6288 0622",
-    "directions_url": "https://maps.google.com/maps?cid=4776395283312636038",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
     },
     "services": []
   },
@@ -8604,24 +7794,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-chancellor-park/",
-    "name": "IGA Local Grocer Chancellor Park",
-    "address_line_1": "14/7 Scholars Drive",
-    "address_line_2": "Chancellor Park, 4556, QLD",
-    "phone": "(07) 5445 2522",
-    "directions_url": "https://maps.google.com/maps?cid=4632999068458523018",
-    "hours": {
-      "Sunday": "6:00 am - 7:30 pm",
-      "Monday": "6:00 am - 7:30 pm",
-      "Tuesday": "6:00 am - 7:30 pm",
-      "Wednesday": "6:00 am - 7:30 pm",
-      "Thursday": "6:00 am - 7:30 pm",
-      "Friday": "6:00 am - 7:30 pm",
-      "Saturday": "6:00 am - 7:30 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-chandler-megafresh/",
     "name": "IGA Local Grocer Chandler MegaFresh",
     "address_line_1": "3250 Old Cleveland Rd",
@@ -8712,24 +7884,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-clarendon-st-southbank/",
-    "name": "IGA Local Grocer Clarendon St Southbank",
-    "address_line_1": "42-44 Clarendon street",
-    "address_line_2": "Southbank, 3006, VIC",
-    "phone": "(03) 9645 5358",
-    "directions_url": "https://maps.google.com/maps?cid=6386127140088791459",
-    "hours": {
-      "Sunday": "8:00 am - 11:00 pm",
-      "Monday": "8:00 am - 11:00 pm",
-      "Tuesday": "8:00 am - 11:00 pm",
-      "Wednesday": "8:00 am - 11:00 pm",
-      "Thursday": "8:00 am - 11:00 pm",
-      "Friday": "8:00 am - 11:00 pm",
-      "Saturday": "8:00 am - 11:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-clunes-plus-liquor/",
     "name": "IGA Local Grocer Clunes Plus Liquor",
     "address_line_1": "1 Service Street",
@@ -8802,24 +7956,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-cowes/",
-    "name": "IGA Local Grocer Cowes",
-    "address_line_1": "161-163 Thompson Ave",
-    "address_line_2": "Cowes, 3922, VIC",
-    "phone": "(03) 5952 1363",
-    "directions_url": "https://maps.google.com/maps?cid=12399705996923336824",
-    "hours": {
-      "Sunday": "7:00 am - 7:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-cremorne/",
     "name": "IGA Local Grocer Cremorne",
     "address_line_1": "160 Cremorne St",
@@ -8856,24 +7992,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-cunnamulla-mills-sons/",
-    "name": "IGA Local Grocer CUNNAMULLA (MILLS & SONS)",
-    "address_line_1": "30 John Street",
-    "address_line_2": "Cunnamulla, 4490, QLD",
-    "phone": "(07) 4655 1222",
-    "directions_url": "https://maps.google.com/maps?cid=11587462431068429992",
-    "hours": {
-      "Sunday": "8:15 am - 1:00 pm",
-      "Monday": "8:30 am - 6:00 pm",
-      "Tuesday": "8:30 am - 6:00 pm",
-      "Wednesday": "8:30 am - 6:00 pm",
-      "Thursday": "8:30 am - 6:00 pm",
-      "Friday": "8:30 am - 6:00 pm",
-      "Saturday": "8:15 am - 1:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-deception-bay/",
     "name": "IGA Local Grocer Deception Bay",
     "address_line_1": "121 Bailey Road",
@@ -8887,24 +8005,6 @@
       "Wednesday": "6:00 am - 8:00 pm",
       "Thursday": "6:00 am - 8:00 pm",
       "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-dee-why-beach/",
-    "name": "IGA Local Grocer Dee Why Beach",
-    "address_line_1": "13 The Strand",
-    "address_line_2": "Dee Why New South Wales 2099",
-    "phone": "0284840320",
-    "directions_url": null,
-    "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
       "Saturday": "7:00 am - 8:00 pm"
     },
     "services": []
@@ -8942,24 +8042,6 @@
       "Thursday": "7:00 am - 7:00 pm",
       "Friday": "7:00 am - 7:00 pm",
       "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-dicky-beach/",
-    "name": "IGA Local Grocer Dicky Beach",
-    "address_line_1": "8 Beerburrum Street",
-    "address_line_2": "Dicky beach, 4551, QLD",
-    "phone": "(07) 5438 9772",
-    "directions_url": "https://maps.google.com/maps?cid=1002558452406492687",
-    "hours": {
-      "Sunday": "6:00 am - 8:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "6:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -9482,24 +8564,6 @@
       "Thursday": "7:00 am - 9:30 pm",
       "Friday": "7:00 am - 9:30 pm",
       "Saturday": "7:00 am - 9:30 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-gingin/",
-    "name": "IGA Local Grocer Gingin",
-    "address_line_1": "2 Brockman Street",
-    "address_line_2": "Gingin, 6503, WA",
-    "phone": "(08) 9575 2202",
-    "directions_url": "https://maps.google.com/maps?cid=2126713951530891935",
-    "hours": {
-      "Sunday": "8:00 am - 12:00 pm",
-      "Monday": "6:30 am - 6:30 pm",
-      "Tuesday": "6:30 am - 6:30 pm",
-      "Wednesday": "6:30 am - 6:30 pm",
-      "Thursday": "6:30 am - 6:30 pm",
-      "Friday": "6:30 am - 6:30 pm",
-      "Saturday": "7:00 am - 2:00 pm"
     },
     "services": []
   },
@@ -10188,24 +9252,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-lane-cove/",
-    "name": "IGA Local Grocer Lane Cove",
-    "address_line_1": "165 Burns Bay Road",
-    "address_line_2": "Lane Cove, 2066, NSW",
-    "phone": "(02) 9349 1532",
-    "directions_url": "https://maps.google.com/maps?cid=4566444856256686633",
-    "hours": {
-      "Sunday": "8:00 am - 7:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-laura/",
     "name": "IGA Local Grocer Laura",
     "address_line_1": "47 Herbert Street",
@@ -10674,24 +9720,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-mitchelton/",
-    "name": "IGA Local Grocer Mitchelton",
-    "address_line_1": "Shop 5, 28 Blackwood Street",
-    "address_line_2": "Mitchelton, 4053, QLD",
-    "phone": "(07) 3855 3296",
-    "directions_url": "https://maps.google.com/maps?cid=16049502120445558136",
-    "hours": {
-      "Sunday": "6:00 am - 9:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "6:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-monterey-keys/",
     "name": "IGA Local Grocer Monterey Keys",
     "address_line_1": "1/175 Monterey Keys",
@@ -10800,42 +9828,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-mt-dandenong-plus-liquor/",
-    "name": "IGA Local Grocer Mt Dandenong Plus Liquor",
-    "address_line_1": "1526 Mt Dandenong Tourist Road",
-    "address_line_2": "Olinda, 3788, VIC",
-    "phone": "(03) 9751 2428",
-    "directions_url": "https://maps.google.com/maps?cid=2018106959705930468",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-mt-waverley/",
-    "name": "IGA Local Grocer Mt Waverley",
-    "address_line_1": "14-16 Andrew Street",
-    "address_line_2": "Mt Waverley, 3149, VIC",
-    "phone": "(03) 9888 0275",
-    "directions_url": "https://maps.google.com/maps?cid=2549988148978221126",
-    "hours": {
-      "Sunday": "8:30 am - 9:30 pm",
-      "Monday": "8:00 am - 9:30 pm",
-      "Tuesday": "8:00 am - 9:30 pm",
-      "Wednesday": "8:00 am - 9:30 pm",
-      "Thursday": "8:00 am - 9:30 pm",
-      "Friday": "8:00 am - 9:30 pm",
-      "Saturday": "8:00 am - 9:30 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-mulgrave/",
     "name": "IGA Local Grocer Mulgrave",
     "address_line_1": "36 Wanda St",
@@ -10890,24 +9882,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-murwillumbah/",
-    "name": "IGA Local Grocer Murwillumbah",
-    "address_line_1": "Main Street",
-    "address_line_2": "Murwillumbah, 2484, NSW",
-    "phone": "(02) 6672 1364",
-    "directions_url": "https://maps.google.com/maps?cid=15969872283926284804",
-    "hours": {
-      "Sunday": "6:00 am - 7:00 pm",
-      "Monday": "5:00 am - 7:00 pm",
-      "Tuesday": "5:00 am - 7:00 pm",
-      "Wednesday": "5:00 am - 7:00 pm",
-      "Thursday": "5:00 am - 7:00 pm",
-      "Friday": "5:00 am - 7:00 pm",
-      "Saturday": "6:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-narangba/",
     "name": "IGA Local Grocer Narangba",
     "address_line_1": "36 Main Street",
@@ -10922,24 +9896,6 @@
       "Thursday": "6:30 am - 9:00 pm",
       "Friday": "6:30 am - 9:00 pm",
       "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-narenbeem/",
-    "name": "IGA Local Grocer Narenbeem",
-    "address_line_1": "14 Churchill Road",
-    "address_line_2": "Narembeen, 6369, WA",
-    "phone": "(08) 9064 7223",
-    "directions_url": "https://maps.google.com/maps?cid=1102958162778568227",
-    "hours": {
-      "Sunday": "am -  pm",
-      "Monday": "8:30 am - 5:30 pm",
-      "Tuesday": "8:30 am - 5:30 pm",
-      "Wednesday": "8:30 am - 5:30 pm",
-      "Thursday": "8:30 am - 5:30 pm",
-      "Friday": "8:30 am - 5:30 pm",
-      "Saturday": "8:30 am - 12:00 pm"
     },
     "services": []
   },
@@ -11358,24 +10314,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-point-lonsdale-plus-liquor/",
-    "name": "IGA Local Grocer Point Lonsdale Plus Liquor",
-    "address_line_1": "93-97 Point Lonsdale Road",
-    "address_line_2": "Point Lonsdale VIC 3225",
-    "phone": "03 5258 4911",
-    "directions_url": null,
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-poowong/",
     "name": "IGA Local Grocer Poowong",
     "address_line_1": "17-19 Ranceby Road",
@@ -11466,24 +10404,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-preston/",
-    "name": "IGA Local Grocer Preston",
-    "address_line_1": "392-398 Gilbert Road",
-    "address_line_2": "Preston, 3072, VIC",
-    "phone": "(03) 9471 3111",
-    "directions_url": "https://maps.google.com/maps?cid=14715165523407902059",
-    "hours": {
-      "Sunday": "8:00 am - 10:00 pm",
-      "Monday": "8:00 am - 10:00 pm",
-      "Tuesday": "8:00 am - 10:00 pm",
-      "Wednesday": "8:00 am - 10:00 pm",
-      "Thursday": "8:00 am - 10:00 pm",
-      "Friday": "8:00 am - 10:00 pm",
-      "Saturday": "8:00 am - 10:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-pyrmont-liquor/",
     "name": "IGA Local Grocer Pyrmont + Liquor",
     "address_line_1": "1-29 Bunn Street",
@@ -11534,24 +10454,6 @@
       "Thursday": "7:00 am - 8:00 pm",
       "Friday": "7:00 am - 8:00 pm",
       "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-rathmines/",
-    "name": "IGA Local Grocer Rathmines",
-    "address_line_1": "Shop 2/8 Fishing Point Road",
-    "address_line_2": "Rathmines, 2283, NSW",
-    "phone": "(02) 4975 5280",
-    "directions_url": "https://maps.google.com/maps?cid=15016385077523029106",
-    "hours": {
-      "Sunday": "7:00 am - 6:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 6:00 pm"
     },
     "services": []
   },
@@ -11772,24 +10674,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-south-plympton/",
-    "name": "IGA Local Grocer South Plympton",
-    "address_line_1": "533 Marion Road",
-    "address_line_2": "South Plympton, 5038, SA",
-    "phone": "(08) 8293 6118",
-    "directions_url": "https://maps.google.com/maps?cid=1296823187582805815",
-    "hours": {
-      "Sunday": "7:00 am - 7:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-south-riana/",
     "name": "IGA X-Press South Riana",
     "address_line_1": "1705 Pine Road",
@@ -11822,24 +10706,6 @@
       "Thursday": "8:00 am - 8:00 pm",
       "Friday": "8:00 am - 8:00 pm",
       "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-south-yarra/",
-    "name": "IGA Local Grocer South Yarra",
-    "address_line_1": "113-115 Toorak Road",
-    "address_line_2": "South Yarra, 3141, VIC",
-    "phone": "(03) 9820 5755",
-    "directions_url": "https://maps.google.com/maps?cid=11289171600997044261",
-    "hours": {
-      "Sunday": "6:00 am - 12:00 pm",
-      "Monday": "6:00 am - 12:00 pm",
-      "Tuesday": "6:00 am - 12:00 pm",
-      "Wednesday": "6:00 am - 12:00 pm",
-      "Thursday": "6:00 am - 12:00 pm",
-      "Friday": "6:00 am - 12:00 pm",
-      "Saturday": "6:00 am - 12:00 pm"
     },
     "services": []
   },
@@ -11948,24 +10814,6 @@
       "Thursday": "7:00 am - 11:00 pm",
       "Friday": "7:00 am - 11:00 pm",
       "Saturday": "8:00 am - 11:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-stanley-rd-megafresh/",
-    "name": "IGA Local Grocer Stanley Rd Megafresh",
-    "address_line_1": "182 STANLEY ROAD",
-    "address_line_2": "CARINA QLD 4152",
-    "phone": null,
-    "directions_url": null,
-    "hours": {
-      "Sunday": "6:00 am - 9:00 pm",
-      "Monday": "6:00 am - 9:00 pm",
-      "Tuesday": "6:00 am - 9:00 pm",
-      "Wednesday": "6:00 am - 9:00 pm",
-      "Thursday": "6:00 am - 9:00 pm",
-      "Friday": "6:00 am - 9:00 pm",
-      "Saturday": "6:00 am - 9:00 pm"
     },
     "services": []
   },
@@ -12168,24 +11016,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-terang/",
-    "name": "IGA Local Grocer Terang",
-    "address_line_1": "75-79 High Street",
-    "address_line_2": "Terang, 3264, VIC",
-    "phone": "(03) 5592 2120",
-    "directions_url": "https://maps.google.com/maps?cid=13122124923660600498",
-    "hours": {
-      "Sunday": "7:00 am - 1:00 pm",
-      "Monday": "6:30 am - 6:00 pm",
-      "Tuesday": "6:30 am - 6:00 pm",
-      "Wednesday": "6:30 am - 6:00 pm",
-      "Thursday": "6:30 am - 6:00 pm",
-      "Friday": "6:30 am - 6:00 pm",
-      "Saturday": "7:00 am - 1:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-terranora/",
     "name": "IGA Local Grocer Terranora",
     "address_line_1": "2-14 Henry Lawson Drive",
@@ -12276,42 +11106,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-tongala-plus-liquor/",
-    "name": "IGA Local Grocer Tongala Plus Liquor",
-    "address_line_1": "31 Mangan Street",
-    "address_line_2": "Tongala, 3621, VIC",
-    "phone": "(03) 5859 0209",
-    "directions_url": "https://maps.google.com/maps?cid=2475330456840988828",
-    "hours": {
-      "Sunday": "9:30 am - 5:00 pm",
-      "Monday": "8:30 am - 7:00 pm",
-      "Tuesday": "8:30 am - 7:00 pm",
-      "Wednesday": "8:30 am - 7:00 pm",
-      "Thursday": "8:30 am - 7:00 pm",
-      "Friday": "8:30 am - 7:00 pm",
-      "Saturday": "8:30 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-toorak-road-plus-liquor/",
-    "name": "IGA Local Grocer Toorak Road Plus liquor",
-    "address_line_1": "172-174 Toorak Road",
-    "address_line_2": "South Yarra, 3141, VIC",
-    "phone": "(03) 9804 8099",
-    "directions_url": "https://maps.google.com/maps?cid=3343880533686932778",
-    "hours": {
-      "Sunday": "7:00 am - 11:00 pm",
-      "Monday": "6:30 am - 11:00 pm",
-      "Tuesday": "6:30 am - 11:00 pm",
-      "Wednesday": "6:30 am - 11:00 pm",
-      "Thursday": "6:30 am - 11:00 pm",
-      "Friday": "6:30 am - 12:00 pm",
-      "Saturday": "6:30 am - 12:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-tuckerbox-kununurra/",
     "name": "IGA Local Grocer Tuckerbox Kununurra",
     "address_line_1": "1 Whitegum Street",
@@ -12384,24 +11178,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-unsw/",
-    "name": "IGA UNSW",
-    "address_line_1": "6/17 High Street",
-    "address_line_2": "Kensington, 2031, NSW",
-    "phone": "(02) 9662 3900",
-    "directions_url": "https://maps.google.com/maps?cid=13719878239470052229",
-    "hours": {
-      "Sunday": "9:00 am - 10:00 pm",
-      "Monday": "7:00 am - 10:00 pm",
-      "Tuesday": "7:00 am - 10:00 pm",
-      "Wednesday": "7:00 am - 10:00 pm",
-      "Thursday": "7:00 am - 10:00 pm",
-      "Friday": "7:00 am - 10:00 pm",
-      "Saturday": "9:00 am - 10:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-upwey/",
     "name": "IGA Local Grocer Upwey",
     "address_line_1": "62-64 Main Street",
@@ -12416,24 +11192,6 @@
       "Thursday": "7:00 am - 7:30 pm",
       "Friday": "7:00 am - 7:30 pm",
       "Saturday": "7:00 am - 7:30 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-valley/",
-    "name": "IGA Local Grocer Valley",
-    "address_line_1": "512 Wickham Street",
-    "address_line_2": "Fortitude Valley, 4006, QLD",
-    "phone": "(07) 3852 6768",
-    "directions_url": "https://maps.google.com/maps?cid=9502868947328892650",
-    "hours": {
-      "Sunday": "6:00 am - 10:00 pm",
-      "Monday": "6:00 am - 10:00 pm",
-      "Tuesday": "6:00 am - 10:00 pm",
-      "Wednesday": "6:00 am - 10:00 pm",
-      "Thursday": "6:00 am - 10:00 pm",
-      "Friday": "6:00 am - 10:00 pm",
-      "Saturday": "6:00 am - 10:00 pm"
     },
     "services": []
   },
@@ -12510,24 +11268,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-wattle-park/",
-    "name": "IGA Local Grocer Wattle Park",
-    "address_line_1": "470 Kensington Road",
-    "address_line_2": "Wattle Park, 5066, SA",
-    "phone": "(08) 8364 3848",
-    "directions_url": "https://maps.google.com/maps?cid=16122295884279038754",
-    "hours": {
-      "Sunday": "7:30 am - 8:00 pm",
-      "Monday": "7:30 am - 8:00 pm",
-      "Tuesday": "7:30 am - 8:00 pm",
-      "Wednesday": "7:30 am - 8:00 pm",
-      "Thursday": "7:30 am - 8:00 pm",
-      "Friday": "7:30 am - 8:00 pm",
-      "Saturday": "7:30 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-local-grocer-west-brunswick/",
     "name": "IGA Local Grocer West Brunswick",
     "address_line_1": "2-6 Olive York Way",
@@ -12542,24 +11282,6 @@
       "Thursday": "7:00 am - 11:00 pm",
       "Friday": "7:00 am - 11:00 pm",
       "Saturday": "7:00 am - 11:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-local-grocer-west-kempsey/",
-    "name": "IGA Local Grocer West Kempsey",
-    "address_line_1": "30 Elbow Street",
-    "address_line_2": "West Kempsey, 2440, NSW",
-    "phone": "(02) 6562 1394",
-    "directions_url": "https://maps.google.com/maps?cid=4472808020907796470",
-    "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -12658,7 +11380,7 @@
     "name": "IGA Local Grocer Woodville",
     "address_line_1": "868 Port Road",
     "address_line_2": "Woodville, 5011, SA",
-    "phone": "(08) 8345 4180",
+    "phone": "(08) 8243 9602",
     "directions_url": "https://maps.google.com/maps?cid=5618697940754165626",
     "hours": {
       "Sunday": "8:00 am - 8:00 pm",
@@ -12992,24 +11714,6 @@
       "Thursday": "6:30 am - 6:30 pm",
       "Friday": "6:30 am - 6:30 pm",
       "Saturday": "7:30 am - 12:30 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-malua-bay/",
-    "name": "IGA Malua Bay",
-    "address_line_1": "534 George Bass Drive",
-    "address_line_2": "Malua Bay, 2536, NSW",
-    "phone": "(02) 4471 1417",
-    "directions_url": "https://maps.google.com/maps?cid=14363218308305762025",
-    "hours": {
-      "Sunday": "8:00 am - 7:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -13446,24 +12150,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-mint-fresh-local-grocer-arthur-st/",
-    "name": "IGA Mint Fresh Local Grocer Arthur St",
-    "address_line_1": "Shop 1, 30-32 Arthur Street",
-    "address_line_2": "Baulkham Hills, 2153, NSW",
-    "phone": "(02) 9686 7064",
-    "directions_url": "https://maps.google.com/maps?cid=18012926921131485437",
-    "hours": {
-      "Sunday": "8:00 am - 7:00 pm",
-      "Monday": "8:00 am - 7:00 pm",
-      "Tuesday": "8:00 am - 7:00 pm",
-      "Wednesday": "8:00 am - 7:00 pm",
-      "Thursday": "8:00 am - 7:00 pm",
-      "Friday": "8:00 am - 7:00 pm",
-      "Saturday": "8:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-mirrabooka/",
     "name": "IGA Mirrabooka",
     "address_line_1": "Shop 6/73 Honeywell Boulevard",
@@ -13662,60 +12348,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-mount-barker/",
-    "name": "IGA Mount Barker",
-    "address_line_1": "14 Lowood Road",
-    "address_line_2": "Mount Barker, 6324, WA",
-    "phone": "(08) 9851 3311",
-    "directions_url": "https://maps.google.com/maps?cid=5352283792822398791",
-    "hours": {
-      "Sunday": "9:00 am - 5:00 pm",
-      "Monday": "8:00 am - 6:00 pm",
-      "Tuesday": "8:00 am - 6:00 pm",
-      "Wednesday": "8:00 am - 6:00 pm",
-      "Thursday": "8:00 am - 6:00 pm",
-      "Friday": "8:00 am - 6:00 pm",
-      "Saturday": "8:00 am - 5:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-mount-tamborine/",
-    "name": "IGA Mount Tamborine",
-    "address_line_1": "17-27 Main Western Rd",
-    "address_line_2": "Mount Tamborine, 4272, QLD",
-    "phone": "(07) 5545 0950",
-    "directions_url": "https://maps.google.com/maps?cid=3351970613462754230",
-    "hours": {
-      "Sunday": "7:00 am - 6:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-moura/",
-    "name": "IGA Moura",
-    "address_line_1": "23 Gillespie St",
-    "address_line_2": "Moura, 4718, QLD",
-    "phone": "(07) 4997 1601",
-    "directions_url": "https://maps.google.com/maps?cid=8759087439546386631",
-    "hours": {
-      "Sunday": "am -  pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 5:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-mt-cotton/",
     "name": "IGA Mt Cotton",
     "address_line_1": "101 Valley Way",
@@ -13806,24 +12438,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-mundijong/",
-    "name": "IGA Mundijong",
-    "address_line_1": "Lot 20 Paterson Street",
-    "address_line_2": "Mundijong, 6123, WA",
-    "phone": "(08) 9525 5010",
-    "directions_url": "https://maps.google.com/maps?cid=1572661605389004454",
-    "hours": {
-      "Sunday": "7:00 am - 7:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-mundingburra/",
     "name": "IGA Mundingburra",
     "address_line_1": "Shop 1/74-80 Ross River Rd",
@@ -13878,42 +12492,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-narrabundah/",
-    "name": "IGA Narrabundah",
-    "address_line_1": "6 Iluka Street",
-    "address_line_2": "Narrabundah, 2604, ACT",
-    "phone": "(02) 6295 9872",
-    "directions_url": "https://maps.google.com/maps?cid=12802651054935291746",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-narrandera/",
-    "name": "IGA Narrandera",
-    "address_line_1": "30-40 East Street",
-    "address_line_2": "Narrandera, 2700, NSW",
-    "phone": "(02) 6906 2781",
-    "directions_url": "https://maps.google.com/maps?cid=303657669505247948",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-newcastle/",
     "name": "IGA Newcastle",
     "address_line_1": "209 Hunter Street",
@@ -13946,24 +12524,6 @@
       "Thursday": "6:00 am - 9:00 pm",
       "Friday": "6:00 am - 9:00 pm",
       "Saturday": "6:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-newtown-hill-street/",
-    "name": "IGA Newtown (Hill Street)",
-    "address_line_1": "102 Hill Street",
-    "address_line_2": "Toowoomba, 4350, QLD",
-    "phone": "(07) 4637 9607",
-    "directions_url": "https://maps.google.com/maps?cid=11654407244834077632",
-    "hours": {
-      "Sunday": "6:00 am - 8:30 pm",
-      "Monday": "6:00 am - 8:30 pm",
-      "Tuesday": "6:00 am - 8:30 pm",
-      "Wednesday": "6:00 am - 8:30 pm",
-      "Thursday": "6:00 am - 8:30 pm",
-      "Friday": "6:00 am - 8:30 pm",
-      "Saturday": "6:00 am - 8:30 pm"
     },
     "services": []
   },
@@ -14054,42 +12614,6 @@
       "Thursday": "6:00 am - 9:00 pm",
       "Friday": "6:00 am - 9:00 pm",
       "Saturday": "6:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-north-bundaberg/",
-    "name": "IGA North Bundaberg",
-    "address_line_1": "Queen Street",
-    "address_line_2": "North Bundaberg, 4670, QLD",
-    "phone": "(07) 4152 4799",
-    "directions_url": "https://maps.google.com/maps?cid=7363284426587304061",
-    "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-north-melbourne-plus-liquor/",
-    "name": "IGA North Melbourne Plus Liquor",
-    "address_line_1": "20-26 Errol Street",
-    "address_line_2": "North Melbourne, 3051, VIC",
-    "phone": "(03) 9329 2500",
-    "directions_url": "https://maps.google.com/maps?cid=14878647423324300106",
-    "hours": {
-      "Sunday": "8:30 am - 10:00 pm",
-      "Monday": "7:30 am - 11:00 pm",
-      "Tuesday": "7:30 am - 11:00 pm",
-      "Wednesday": "7:30 am - 11:00 pm",
-      "Thursday": "7:30 am - 11:00 pm",
-      "Friday": "7:30 am - 11:00 pm",
-      "Saturday": "7:30 am - 10:00 pm"
     },
     "services": []
   },
@@ -14378,24 +12902,6 @@
       "Thursday": "8:30 am - 7:30 pm",
       "Friday": "8:30 am - 6:30 pm",
       "Saturday": "8:30 am - 6:30 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-partons/",
-    "name": "IGA Partons",
-    "address_line_1": "83 Uduc Road",
-    "address_line_2": "Harvey, 6220, WA",
-    "phone": "(08) 9729 1043",
-    "directions_url": "https://maps.google.com/maps?cid=4705233266878755582",
-    "hours": {
-      "Sunday": "8:00 am - 7:00 pm",
-      "Monday": "8:00 am - 7:00 pm",
-      "Tuesday": "8:00 am - 7:00 pm",
-      "Wednesday": "8:00 am - 7:00 pm",
-      "Thursday": "8:00 am - 7:00 pm",
-      "Friday": "8:00 am - 7:00 pm",
-      "Saturday": "8:00 am - 7:00 pm"
     },
     "services": []
   },
@@ -14778,24 +13284,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-rainbow-beach/",
-    "name": "IGA Rainbow Beach",
-    "address_line_1": "Shop 9/48 Rainbow Beach Road",
-    "address_line_2": "Rainbow Beach, 4581, QLD",
-    "phone": "(07) 5486 8700",
-    "directions_url": "https://maps.google.com/maps?cid=15497149511059550889",
-    "hours": {
-      "Sunday": "6:00 am - 8:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "6:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-rainbow/",
     "name": "IGA Rainbow",
     "address_line_1": "36 Federal Street",
@@ -14846,24 +13334,6 @@
       "Thursday": "7:30 am - 9:00 pm",
       "Friday": "7:30 am - 9:00 pm",
       "Saturday": "7:30 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-reservoir-2/",
-    "name": "IGA Reservoir",
-    "address_line_1": "26-30 Edwardes St",
-    "address_line_2": "Reservoir, 3073, VIC",
-    "phone": "(03) 9469 4766",
-    "directions_url": "https://maps.google.com/maps?cid=4715599954199304699",
-    "hours": {
-      "Sunday": "9:00 am - 5:00 pm",
-      "Monday": "8:30 am - 7:30 pm",
-      "Tuesday": "8:30 am - 7:30 pm",
-      "Wednesday": "8:30 am - 7:30 pm",
-      "Thursday": "8:30 am - 8:00 pm",
-      "Friday": "8:30 am - 8:00 pm",
-      "Saturday": "8:30 am - 7:00 pm"
     },
     "services": []
   },
@@ -15048,24 +13518,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-romsey/",
-    "name": "IGA Romsey",
-    "address_line_1": "107 Main Street",
-    "address_line_2": "Romsey, 3434, VIC",
-    "phone": "(03) 5429 5172",
-    "directions_url": "https://maps.google.com/maps?cid=8602533748528243394",
-    "hours": {
-      "Sunday": "7:30 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-rooty-hill-north/",
     "name": "IGA Rooty Hill North",
     "address_line_1": "26 Rooty Hill Road North",
@@ -15120,24 +13572,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-rosebery/",
-    "name": "IGA Rosebery",
-    "address_line_1": "741 Botany Rd",
-    "address_line_2": "Rosebery, 2018, NSW",
-    "phone": "(02) 8394 9351",
-    "directions_url": "https://maps.google.com/maps?cid=11939931939962143818",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:30 pm",
-      "Tuesday": "7:00 am - 8:30 pm",
-      "Wednesday": "7:00 am - 8:30 pm",
-      "Thursday": "7:00 am - 8:30 pm",
-      "Friday": "7:00 am - 8:30 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-rosedale-plus-liquor/",
     "name": "IGA Rosedale Plus Liquor",
     "address_line_1": "17-19 Prince Street",
@@ -15181,13 +13615,13 @@
     "phone": "(02) 8824 9311",
     "directions_url": "https://maps.google.com/maps?cid=8083544115063555832",
     "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
+      "Sunday": "am -  pm",
+      "Monday": "am -  pm",
+      "Tuesday": "am -  pm",
+      "Wednesday": "am -  pm",
+      "Thursday": "am -  pm",
+      "Friday": "am -  pm",
+      "Saturday": "am -  pm"
     },
     "services": []
   },
@@ -15242,24 +13676,6 @@
       "Thursday": "8:30 am - 6:00 pm",
       "Friday": "8:30 am - 6:00 pm",
       "Saturday": "8:30 am - 6:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-russell-island/",
-    "name": "IGA Russell Island",
-    "address_line_1": "29-39 High Street",
-    "address_line_2": "Russell Island, 4184, QLD",
-    "phone": "(07) 3409 2777",
-    "directions_url": "https://maps.google.com/maps?cid=16102385031623913210",
-    "hours": {
-      "Sunday": "6:00 am - 8:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "6:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -15336,42 +13752,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-sanctuary-point/",
-    "name": "IGA Sanctuary Point",
-    "address_line_1": "14 Paradise Beach Road",
-    "address_line_2": "Sanctuary Point, 2540, NSW",
-    "phone": "(02) 4443 0502",
-    "directions_url": "https://maps.google.com/maps?cid=4218237865043616360",
-    "hours": {
-      "Sunday": "8:00 am - 6:00 pm",
-      "Monday": "7:30 am - 7:00 pm",
-      "Tuesday": "7:30 am - 7:00 pm",
-      "Wednesday": "7:30 am - 7:00 pm",
-      "Thursday": "7:30 am - 7:00 pm",
-      "Friday": "7:30 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-sandstone-point/",
-    "name": "IGA Sandstone Point",
-    "address_line_1": "204 Bestmann Road East",
-    "address_line_2": "Sandstone Point, 4511, QLD",
-    "phone": "(07) 5497 6022",
-    "directions_url": "https://maps.google.com/maps?cid=15913028203691930431",
-    "hours": {
-      "Sunday": "6:00 am - 8:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "6:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-sandy-bay-hill-street-grocer/",
     "name": "IGA Sandy Bay (Hill Street Grocer)",
     "address_line_1": "Corner of TT Flynn Street and, 2 Churchill Avenue",
@@ -15408,24 +13788,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-seascapes/",
-    "name": "IGA Seascapes",
-    "address_line_1": "141 Boardwalk Boulevard",
-    "address_line_2": "Halls Head, 6210, WA",
-    "phone": "0435 078 585",
-    "directions_url": "https://maps.google.com/maps?cid=8035134071905094047",
-    "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-sedan/",
     "name": "IGA Sedan",
     "address_line_1": "Main Street",
@@ -15440,24 +13802,6 @@
       "Thursday": "8:00 am - 5:30 pm",
       "Friday": "8:00 am - 5:30 pm",
       "Saturday": "8:30 am - 5:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-sefton/",
-    "name": "IGA Sefton",
-    "address_line_1": "40 Helen Street",
-    "address_line_2": "Sefton, 2162, NSW",
-    "phone": "(02) 9743 7370",
-    "directions_url": "https://maps.google.com/maps?cid=17277943386012303807",
-    "hours": {
-      "Sunday": "8:00 am - 7:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 7:00 pm"
     },
     "services": []
   },
@@ -15584,24 +13928,6 @@
       "Thursday": "7:30 am - 7:00 pm",
       "Friday": "7:30 am - 7:00 pm",
       "Saturday": "7:30 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-spencer-park-albany/",
-    "name": "IGA Spencer Park Albany",
-    "address_line_1": "1 Hardie Road",
-    "address_line_2": "Albany, 6330, WA",
-    "phone": "08  9841 1155",
-    "directions_url": "https://maps.google.com/maps?cid=13881502362507205141",
-    "hours": {
-      "Sunday": "9:00 am - 5:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
     },
     "services": []
   },
@@ -15800,24 +14126,6 @@
       "Thursday": "8:30 am - 7:30 pm",
       "Friday": "8:30 am - 7:30 pm",
       "Saturday": "8:30 am - 7:30 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-sturt-street-plus-liquor/",
-    "name": "IGA Sturt Street Plus Liquor",
-    "address_line_1": "151 Sturt Street",
-    "address_line_2": "Southbank, 3006, VIC",
-    "phone": "(03) 9682 1355",
-    "directions_url": "https://maps.google.com/maps?cid=1851431440427399898",
-    "hours": {
-      "Sunday": "7:00 am - 10:00 pm",
-      "Monday": "6:00 am - 11:00 pm",
-      "Tuesday": "6:00 am - 11:00 pm",
-      "Wednesday": "6:00 am - 11:00 pm",
-      "Thursday": "6:00 am - 11:00 pm",
-      "Friday": "6:00 am - 11:00 pm",
-      "Saturday": "6:00 am - 11:00 pm"
     },
     "services": []
   },
@@ -16254,24 +14562,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-theodore/",
-    "name": "IGA Theodore",
-    "address_line_1": "The Boulevard",
-    "address_line_2": "Theodore, 4719, QLD",
-    "phone": "(07) 4993 1177",
-    "directions_url": "https://maps.google.com/maps?cid=15752450208458801956",
-    "hours": {
-      "Sunday": "8:00 am - 12:00 pm",
-      "Monday": "8:00 am - 6:00 pm",
-      "Tuesday": "8:00 am - 6:00 pm",
-      "Wednesday": "8:00 am - 6:00 pm",
-      "Thursday": "8:00 am - 6:00 pm",
-      "Friday": "8:00 am - 6:00 pm",
-      "Saturday": "8:00 am - 2:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-thirroul/",
     "name": "IGA Thirroul",
     "address_line_1": "275 Lawrence Hargrave Drive",
@@ -16344,24 +14634,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-three-springs/",
-    "name": "IGA Three Springs",
-    "address_line_1": "92 Railway Road",
-    "address_line_2": "Three Springs, 6519, WA",
-    "phone": "(08) 9954 1102",
-    "directions_url": "https://maps.google.com/maps?cid=10409237224890753054",
-    "hours": {
-      "Sunday": "8:00 am - 10:00 pm",
-      "Monday": "8:30 am - 5:30 pm",
-      "Tuesday": "8:30 am - 5:30 pm",
-      "Wednesday": "8:30 am - 5:30 pm",
-      "Thursday": "8:30 am - 5:30 pm",
-      "Friday": "8:30 am - 5:30 pm",
-      "Saturday": "8:00 am - 12:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-tocumwal/",
     "name": "IGA Tocumwal",
     "address_line_1": "26 Deniliquin Street",
@@ -16422,42 +14694,6 @@
     "address_line_2": "Kelso, 2795, NSW",
     "phone": "(02) 6331 1999",
     "directions_url": "https://maps.google.com/maps?cid=18355014491655778516",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-trott-park/",
-    "name": "IGA Trott Park",
-    "address_line_1": "20 Heysen Drive",
-    "address_line_2": "Trott Park, 5158, SA",
-    "phone": "(08) 8387 8699",
-    "directions_url": "https://maps.google.com/maps?cid=3001175439640956349",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-tucker-fresh-iluka/",
-    "name": "IGA Tucker Fresh Iluka",
-    "address_line_1": "90 O'Mara Blvd",
-    "address_line_2": "Iluka, 6028, WA",
-    "phone": "(08) 6424 8445",
-    "directions_url": null,
     "hours": {
       "Sunday": "7:00 am - 9:00 pm",
       "Monday": "7:00 am - 9:00 pm",
@@ -16560,24 +14796,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-two-rocks/",
-    "name": "IGA Two Rocks",
-    "address_line_1": "Shop 1, Two Rocks Shopping Centre",
-    "address_line_2": "Two Rocks, 6037, WA",
-    "phone": "(08) 9561 1064",
-    "directions_url": "https://maps.google.com/maps?cid=17923892224723859499",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-ulladulla/",
     "name": "IGA Ulladulla",
     "address_line_1": "116 Princes Highway",
@@ -16610,24 +14828,6 @@
       "Thursday": "7:00 am - 8:00 pm",
       "Friday": "7:00 am - 8:00 pm",
       "Saturday": "7:30 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-umina-beach/",
-    "name": "IGA Umina Beach",
-    "address_line_1": "357 Ocean Beach Rd",
-    "address_line_2": "Umina Beach NSW 2257",
-    "phone": "(02) 8484 0360",
-    "directions_url": null,
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
     },
     "services": []
   },
@@ -16718,24 +14918,6 @@
       "Thursday": "am -  pm",
       "Friday": "am -  pm",
       "Saturday": "am -  pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-voyages-ayers-rock-resort/",
-    "name": "IGA Voyages Ayers Rock Resort",
-    "address_line_1": "Yulara Shopping Square",
-    "address_line_2": "Yulara NT 0872",
-    "phone": "08 8957 7308",
-    "directions_url": null,
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "9:00 am - 8:00 pm",
-      "Tuesday": "9:00 am - 8:00 pm",
-      "Wednesday": "9:00 am - 8:00 pm",
-      "Thursday": "9:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -16848,24 +15030,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-warrnambool/",
-    "name": "IGA Warrnambool",
-    "address_line_1": "221 Timor Street",
-    "address_line_2": "Warrnambool, 3280, VIC",
-    "phone": "(03) 5562 1033",
-    "directions_url": "https://maps.google.com/maps?cid=8783466891176912328",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "7:30 am - 8:00 pm",
-      "Tuesday": "7:30 am - 8:00 pm",
-      "Wednesday": "7:30 am - 8:00 pm",
-      "Thursday": "7:30 am - 8:00 pm",
-      "Friday": "7:30 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-waterloo/",
     "name": "IGA Waterloo",
     "address_line_1": "13-21 Botany Rd",
@@ -16880,24 +15044,6 @@
       "Thursday": "7:00 am - 9:00 pm",
       "Friday": "7:00 am - 9:00 pm",
       "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-wellington-point/",
-    "name": "IGA Wellington Point",
-    "address_line_1": "685 Old Cleveland Road East",
-    "address_line_2": "Wellington Point, 4160, QLD",
-    "phone": "(07) 3207 1822",
-    "directions_url": "https://maps.google.com/maps?cid=15898445134704116558",
-    "hours": {
-      "Sunday": "6:00 am - 10:00 pm",
-      "Monday": "6:00 am - 10:00 pm",
-      "Tuesday": "6:00 am - 10:00 pm",
-      "Wednesday": "6:00 am - 10:00 pm",
-      "Thursday": "6:00 am - 10:00 pm",
-      "Friday": "6:00 am - 10:00 pm",
-      "Saturday": "6:00 am - 10:00 pm"
     },
     "services": []
   },
@@ -17042,24 +15188,6 @@
       "Thursday": "7:00 am - 8:00 pm",
       "Friday": "7:00 am - 8:00 pm",
       "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-westpoint/",
-    "name": "IGA Westpoint",
-    "address_line_1": "1 Wark Parade",
-    "address_line_2": "Bathurst, 2795, NSW",
-    "phone": "(02) 6332 9991",
-    "directions_url": "https://maps.google.com/maps?cid=7621193366573989964",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "6:30 am - 9:00 pm",
-      "Tuesday": "6:30 am - 9:00 pm",
-      "Wednesday": "6:30 am - 9:00 pm",
-      "Thursday": "6:30 am - 9:00 pm",
-      "Friday": "6:30 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
     },
     "services": []
   },
@@ -17280,24 +15408,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-x-press-austins-ferry/",
-    "name": "IGA X-press Austins Ferry",
-    "address_line_1": "162 Main Road",
-    "address_line_2": "Austins Ferry, 7011, TAS",
-    "phone": "(03) 6249 2344",
-    "directions_url": "https://maps.google.com/maps?cid=7186032791584896996",
-    "hours": {
-      "Sunday": "5:30 am - 8:00 pm",
-      "Monday": "5:30 am - 8:00 pm",
-      "Tuesday": "5:30 am - 8:00 pm",
-      "Wednesday": "5:30 am - 8:00 pm",
-      "Thursday": "5:30 am - 8:00 pm",
-      "Friday": "5:30 am - 8:00 pm",
-      "Saturday": "5:30 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-x-press-bella-vista/",
     "name": "IGA X-press Bella Vista",
     "address_line_1": "77 Loridan Drive",
@@ -17352,24 +15462,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-x-press-burleigh-heads/",
-    "name": "IGA X-press Burleigh Heads",
-    "address_line_1": "1712 Gold Coast Highway",
-    "address_line_2": "Burleigh Heads, 4220, QLD",
-    "phone": "(07) 5520 1344",
-    "directions_url": "https://maps.google.com/maps?cid=17902559203801039420",
-    "hours": {
-      "Sunday": "6:00 am - 8:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "6:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-x-press-burnie-west-park-grove/",
     "name": "IGA X-Press West Park Grove",
     "address_line_1": "56 West Park Grove",
@@ -17384,24 +15476,6 @@
       "Thursday": "5:30 am - 7:30 pm",
       "Friday": "5:30 am - 7:30 pm",
       "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-x-press-burrill-lake/",
-    "name": "IGA X-press Burrill Lake",
-    "address_line_1": "117 Princes Highway",
-    "address_line_2": "Burrill Lake, 2539, NSW",
-    "phone": "(02) 4455 5829",
-    "directions_url": "https://maps.google.com/maps?cid=9493905382041369341",
-    "hours": {
-      "Sunday": "8:00 am - 6:00 pm",
-      "Monday": "8:00 am - 6:00 pm",
-      "Tuesday": "8:00 am - 6:00 pm",
-      "Wednesday": "8:00 am - 6:00 pm",
-      "Thursday": "8:00 am - 6:00 pm",
-      "Friday": "8:00 am - 6:00 pm",
-      "Saturday": "8:00 am - 6:00 pm"
     },
     "services": []
   },
@@ -17438,24 +15512,6 @@
       "Thursday": "6:30 am - 6:30 pm",
       "Friday": "6:30 am - 6:30 pm",
       "Saturday": "6:30 am - 5:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-x-press-east-devonport/",
-    "name": "IGA Local Grocer East Devonport",
-    "address_line_1": "59 Wright Street",
-    "address_line_2": "East Devonport, TAS",
-    "phone": "(03) 6427 8242",
-    "directions_url": "https://maps.google.com/maps?cid=10385486204011140681",
-    "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -17712,24 +15768,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-x-press-new-town-hill-street-grocer/",
-    "name": "IGA X-press New Town (Hill Street Grocer)",
-    "address_line_1": "2 Augusta Road",
-    "address_line_2": "New Town, TAS",
-    "phone": "(03) 6228 2908",
-    "directions_url": null,
-    "hours": {
-      "Sunday": "7:30 am - 7:00 pm",
-      "Monday": "7:30 am - 7:30 pm",
-      "Tuesday": "7:30 am - 7:30 pm",
-      "Wednesday": "7:30 am - 7:30 pm",
-      "Thursday": "7:30 am - 7:30 pm",
-      "Friday": "7:30 am - 7:30 pm",
-      "Saturday": "7:30 am - 7:30 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-x-press-nubeena-seabreeze/",
     "name": "IGA X-Press Nubeena (Seabreeze)",
     "address_line_1": "1856 Main Road",
@@ -17784,24 +15822,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-x-press-penguin-lanes/",
-    "name": "IGA X-Press Penguin (Lane's)",
-    "address_line_1": "66 Main Street",
-    "address_line_2": "Penguin, 7316, TAS",
-    "phone": "(03) 6437 2976",
-    "directions_url": "https://maps.google.com/maps?cid=15208566734677647112",
-    "hours": {
-      "Sunday": "7:00 am - 7:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-x-press-princes-hill/",
     "name": "IGA X-press Princes Hill",
     "address_line_1": "1-9 Lygon Hill",
@@ -17816,24 +15836,6 @@
       "Thursday": "7:00 am - 11:00 pm",
       "Friday": "7:00 am - 11:00 pm",
       "Saturday": "8:00 am - 11:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-x-press-richmond/",
-    "name": "IGA X-Press Richmond",
-    "address_line_1": "29 Bridge Street",
-    "address_line_2": "Richmond, 7025, TAS",
-    "phone": "(03) 6260 2108",
-    "directions_url": "https://maps.google.com/maps?cid=8557667492190290144",
-    "hours": {
-      "Sunday": "9:00 am - 6:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "8:00 am - 6:00 pm"
     },
     "services": []
   },
@@ -17946,24 +15948,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-x-press-shoal-bay/",
-    "name": "IGA X-Press Shoal Bay",
-    "address_line_1": "26-27 Shoal Bay Village",
-    "address_line_2": "Shoal Bay, 2315, NSW",
-    "phone": "(02) 4981 2108",
-    "directions_url": "https://maps.google.com/maps?cid=611451056896777570",
-    "hours": {
-      "Sunday": "8:00 am - 7:00 pm",
-      "Monday": "8:00 am - 7:00 pm",
-      "Tuesday": "8:00 am - 7:00 pm",
-      "Wednesday": "8:00 am - 7:00 pm",
-      "Thursday": "8:00 am - 7:00 pm",
-      "Friday": "8:00 am - 7:00 pm",
-      "Saturday": "8:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-x-press-south-hobart-hill-street-grocer/",
     "name": "IGA X-press South Hobart (Hill Street Grocer)",
     "address_line_1": "362 Macquarie Street",
@@ -17978,24 +15962,6 @@
       "Thursday": "7:30 am - 7:00 pm",
       "Friday": "7:30 am - 7:00 pm",
       "Saturday": "7:30 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-x-press-st-marys-hillys/",
-    "name": "IGA St Marys (formerly Hilly's)",
-    "address_line_1": "56 Main Street",
-    "address_line_2": "St Marys, TAS",
-    "phone": "(03) 6351 1997",
-    "directions_url": "https://maps.google.com/maps?cid=16788518464526025767",
-    "hours": {
-      "Sunday": "8:00 am - 6:00 pm",
-      "Monday": "7:30 am - 6:30 pm",
-      "Tuesday": "7:30 am - 6:30 pm",
-      "Wednesday": "7:30 am - 6:30 pm",
-      "Thursday": "7:30 am - 6:30 pm",
-      "Friday": "7:30 am - 6:30 pm",
-      "Saturday": "7:30 am - 6:00 pm"
     },
     "services": []
   },
@@ -18180,24 +16146,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-xpress-apco-bairnsdale/",
-    "name": "IGA Xpress APCO Bairnsdale",
-    "address_line_1": "458 Main Street",
-    "address_line_2": "Bairnsdale, 3875, VIC",
-    "phone": "(03) 5152 5984",
-    "directions_url": "https://maps.google.com/maps?cid=16023324745918788826",
-    "hours": {
-      "Sunday": "0:00 am - 11:59 pm",
-      "Monday": "0:00 am - 11:59 pm",
-      "Tuesday": "0:00 am - 11:59 pm",
-      "Wednesday": "0:00 am - 11:59 pm",
-      "Thursday": "0:00 am - 11:59 pm",
-      "Friday": "0:00 am - 11:59 pm",
-      "Saturday": "0:00 am - 11:59 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-xpress-apco-newcomb/",
     "name": "IGA Xpress APCO Newcomb",
     "address_line_1": "64 Portarlington Road",
@@ -18230,24 +16178,6 @@
       "Thursday": "7:30 am - 11:00 pm",
       "Friday": "7:30 am - 11:00 pm",
       "Saturday": "7:30 am - 11:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-xpress-aubin-grove/",
-    "name": "IGA Local Grocer Aubin Grove",
-    "address_line_1": "6/5 Talisker Gate",
-    "address_line_2": "Aubin Grove, 6164, WA",
-    "phone": "(08) 9499 4688",
-    "directions_url": "https://maps.google.com/maps?cid=12038577041899083748",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -18504,24 +16434,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-xpress-goomalling/",
-    "name": "IGA Xpress Goomalling",
-    "address_line_1": "11-13 Railway Terrace",
-    "address_line_2": "Goomalling, 6460, WA",
-    "phone": "(08) 9629 1140",
-    "directions_url": "https://maps.google.com/maps?cid=12381335818423589189",
-    "hours": {
-      "Sunday": "am -  pm",
-      "Monday": "8:00 am - 5:30 pm",
-      "Tuesday": "8:00 am - 5:30 pm",
-      "Wednesday": "8:00 am - 5:30 pm",
-      "Thursday": "8:00 am - 5:30 pm",
-      "Friday": "8:00 am - 5:30 pm",
-      "Saturday": "8:00 am - 12:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-xpress-goroke/",
     "name": "IGA Xpress Goroke",
     "address_line_1": "26 Main Street",
@@ -18734,24 +16646,6 @@
       "Thursday": "7:00 am - 8:00 pm",
       "Friday": "7:00 am - 8:00 pm",
       "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/iga-xpress-pascoe-vale/",
-    "name": "IGA Xpress Pascoe Vale",
-    "address_line_1": "110-112 Kent Road",
-    "address_line_2": "Pascoe Vale, 3044, VIC",
-    "phone": "(03) 9354 6928",
-    "directions_url": "https://maps.google.com/maps?cid=221981546250797830",
-    "hours": {
-      "Sunday": "8:30 am - 9:00 pm",
-      "Monday": "7:30 am - 9:00 pm",
-      "Tuesday": "7:30 am - 9:00 pm",
-      "Wednesday": "7:30 am - 9:00 pm",
-      "Thursday": "7:30 am - 9:00 pm",
-      "Friday": "7:30 am - 10:00 pm",
-      "Saturday": "7:30 am - 10:00 pm"
     },
     "services": []
   },
@@ -19206,24 +17100,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/iga-yarraville/",
-    "name": "IGA Yarraville",
-    "address_line_1": "12-14 Anderson Street",
-    "address_line_2": "Yarraville, 3013, VIC",
-    "phone": "(03) 9687 2113",
-    "directions_url": "https://maps.google.com/maps?cid=15214029764336276278",
-    "hours": {
-      "Sunday": "8:00 am - 9:00 pm",
-      "Monday": "8:00 am - 9:00 pm",
-      "Tuesday": "8:00 am - 9:00 pm",
-      "Wednesday": "8:00 am - 9:00 pm",
-      "Thursday": "8:00 am - 9:00 pm",
-      "Friday": "8:00 am - 9:00 pm",
-      "Saturday": "8:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/iga-yass/",
     "name": "IGA Yass",
     "address_line_1": "63 Laidlaw Street",
@@ -19418,24 +17294,6 @@
       "Thursday": "7:00 am - 9:00 pm",
       "Friday": "7:00 am - 9:00 pm",
       "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/kensington-iga-plus-liquor/",
-    "name": "Kensington IGA Plus Liquor",
-    "address_line_1": "412 Macaulay Road",
-    "address_line_2": "Kensington, 3031, VIC",
-    "phone": "03 912 49872",
-    "directions_url": null,
-    "hours": {
-      "Sunday": "7:00 am - 11:00 pm",
-      "Monday": "7:00 am - 11:00 pm",
-      "Tuesday": "7:00 am - 11:00 pm",
-      "Wednesday": "7:00 am - 11:00 pm",
-      "Thursday": "7:00 am - 11:00 pm",
-      "Friday": "7:00 am - 11:00 pm",
-      "Saturday": "7:00 am - 11:00 pm"
     },
     "services": []
   },
@@ -19944,24 +17802,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/lloyds-iga-springwood/",
-    "name": "Lloyds IGA Springwood",
-    "address_line_1": "167-169 Macquarie Rd",
-    "address_line_2": "Springwood, 2777, NSW",
-    "phone": "(02) 4751 4979",
-    "directions_url": "https://maps.google.com/maps?cid=14821514672922050018",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "8:00 am - 9:00 pm",
-      "Tuesday": "8:00 am - 9:00 pm",
-      "Wednesday": "8:00 am - 9:00 pm",
-      "Thursday": "8:00 am - 9:00 pm",
-      "Friday": "8:00 am - 9:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/logan-discount-supermarket-warehouse/",
     "name": "Logan Discount Supermarket Warehouse",
     "address_line_1": "Wembley Road",
@@ -20294,24 +18134,6 @@
     "directions_url": "https://maps.google.com/maps?cid=7230497703830334376",
     "hours": {
       "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/maylands-iga-x-press/",
-    "name": "Maylands IGA X-Press",
-    "address_line_1": "Cnr Eighth Ave & Whatley Crescent",
-    "address_line_2": "Maylands, 6051, WA",
-    "phone": "(08) 9272 3131",
-    "directions_url": "https://maps.google.com/maps?cid=15837832944311502423",
-    "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
       "Monday": "7:00 am - 8:00 pm",
       "Tuesday": "7:00 am - 8:00 pm",
       "Wednesday": "7:00 am - 8:00 pm",
@@ -20844,24 +18666,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/naturally-fresh-iga-south-fremantle/",
-    "name": "Naturally Fresh IGA South Fremantle",
-    "address_line_1": "195 Hampton Road",
-    "address_line_2": "South Fremantle, 6162, WA",
-    "phone": "(08) 9335 5777",
-    "directions_url": "https://maps.google.com/maps?cid=2028308035484959768",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/nelson-bay-iga-plus-liquor/",
     "name": "Nelson Bay IGA Plus Liquor",
     "address_line_1": "11/46-50 Austral Street",
@@ -20934,24 +18738,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/ningaloo-harvest-iga/",
-    "name": "Ningaloo Harvest IGA",
-    "address_line_1": "Cnr Ross Street & Maidstone Cres",
-    "address_line_2": "Exmouth, 6707, WA",
-    "phone": "08  9949 1229",
-    "directions_url": "https://maps.google.com/maps?cid=5245837881289569170",
-    "hours": {
-      "Sunday": "6:30 am - 8:00 pm",
-      "Monday": "6:30 am - 8:00 pm",
-      "Tuesday": "6:30 am - 8:00 pm",
-      "Wednesday": "6:30 am - 8:00 pm",
-      "Thursday": "6:30 am - 8:00 pm",
-      "Friday": "6:30 am - 8:00 pm",
-      "Saturday": "6:30 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/nollamara-iga/",
     "name": "Nollamara IGA",
     "address_line_1": "63 Nollamara Avenue",
@@ -20966,24 +18752,6 @@
       "Thursday": "7:00 am - 9:00 pm",
       "Friday": "7:00 am - 9:00 pm",
       "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/noranda-iga/",
-    "name": "Noranda IGA",
-    "address_line_1": "Wellington Road",
-    "address_line_2": "Morley, 6062, WA",
-    "phone": "(08) 9375 2800",
-    "directions_url": "https://maps.google.com/maps?cid=9165414241379414115",
-    "hours": {
-      "Sunday": "7:00 am - 8:00 pm",
-      "Monday": "7:00 am - 8:00 pm",
-      "Tuesday": "7:00 am - 8:00 pm",
-      "Wednesday": "7:00 am - 8:00 pm",
-      "Thursday": "7:00 am - 8:00 pm",
-      "Friday": "7:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -21024,24 +18792,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/northampton-iga-plus-liquor/",
-    "name": "Northampton IGA Plus Liquor",
-    "address_line_1": "229 Hampton Road",
-    "address_line_2": "Northampton, 6535, WA",
-    "phone": "(08) 9934 1110",
-    "directions_url": "https://maps.google.com/maps?cid=13196309401187716960",
-    "hours": {
-      "Sunday": "9:00 am - 1:00 pm",
-      "Monday": "7:00 am - 5:30 pm",
-      "Tuesday": "7:00 am - 5:30 pm",
-      "Wednesday": "7:00 am - 5:30 pm",
-      "Thursday": "7:00 am - 5:30 pm",
-      "Friday": "7:00 am - 5:30 pm",
-      "Saturday": "7:00 am - 4:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/northside-iga/",
     "name": "Northside IGA",
     "address_line_1": "4 Hearne Place",
@@ -21056,42 +18806,6 @@
       "Thursday": "7:30 am - 9:00 pm",
       "Friday": "7:30 am - 9:00 pm",
       "Saturday": "7:30 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/novar-gardens-iga/",
-    "name": "Novar Gardens IGA",
-    "address_line_1": "104 Morphett Road",
-    "address_line_2": "Novar Gardens, 5040, SA",
-    "phone": "08  8294 5277",
-    "directions_url": "https://maps.google.com/maps?cid=11891321035937345726",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/oconnor-fresh-iga/",
-    "name": "O'Connor Fresh IGA",
-    "address_line_1": "Cnr O'Connor St & Maguire St",
-    "address_line_2": "Sommerville, 6430, WA",
-    "phone": "(08) 9022 8800",
-    "directions_url": "https://maps.google.com/maps?cid=17367940835115737502",
-    "hours": {
-      "Sunday": "4:00 am - 10:00 pm",
-      "Monday": "4:00 am - 10:00 pm",
-      "Tuesday": "4:00 am - 10:00 pm",
-      "Wednesday": "4:00 am - 10:00 pm",
-      "Thursday": "4:00 am - 10:00 pm",
-      "Friday": "4:00 am - 10:00 pm",
-      "Saturday": "4:00 am - 10:00 pm"
     },
     "services": []
   },
@@ -21186,24 +18900,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/pauls-iga-ringwood-east/",
-    "name": "Ritchie's IGA Ringwood East",
-    "address_line_1": "82-94 Railway Avenue",
-    "address_line_2": "Ringwood East, 3135, VIC",
-    "phone": "(03) 9870 3850",
-    "directions_url": null,
-    "hours": {
-      "Sunday": "8:00 am - 7:00 pm",
-      "Monday": "7:30 am - 8:00 pm",
-      "Tuesday": "7:30 am - 8:00 pm",
-      "Wednesday": "7:30 am - 8:00 pm",
-      "Thursday": "7:30 am - 8:00 pm",
-      "Friday": "7:30 am - 8:00 pm",
-      "Saturday": "7:30 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/pearsall-iga/",
     "name": "Pearsall IGA",
     "address_line_1": "Shop 1/155 Willespie Drive",
@@ -21236,24 +18932,6 @@
       "Thursday": "8:00 am - 8:00 pm",
       "Friday": "8:00 am - 8:00 pm",
       "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/peries-iga-bowen/",
-    "name": "Peries IGA Bowen",
-    "address_line_1": "57-59 Williams Street",
-    "address_line_2": "Bowen, 4805, QLD",
-    "phone": "(07) 4786 1844",
-    "directions_url": "https://maps.google.com/maps?cid=10294011701127107866",
-    "hours": {
-      "Sunday": "7:00 am - 6:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "7:00 am - 6:00 pm"
     },
     "services": []
   },
@@ -21600,24 +19278,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/port-fairy-iga/",
-    "name": "Port Fairy IGA",
-    "address_line_1": "34 Sackville St",
-    "address_line_2": "Port Fairy, 3284, VIC",
-    "phone": "03  5568 1062",
-    "directions_url": "https://maps.google.com/maps?cid=15412737659513021739",
-    "hours": {
-      "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:30 pm",
-      "Saturday": "8:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/portarlington-iga/",
     "name": "Portarlington IGA",
     "address_line_1": "74 Newcombe Street",
@@ -21888,24 +19548,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/ritchies-iga-balnarring/",
-    "name": "Ritchies IGA Balnarring",
-    "address_line_1": "1 Russell Street",
-    "address_line_2": "Balnarring, 3926, VIC",
-    "phone": "(03) 5983 2511",
-    "directions_url": "https://maps.google.com/maps?cid=9244014467601537582",
-    "hours": {
-      "Sunday": "7:30 am - 9:00 pm",
-      "Monday": "7:30 am - 9:00 pm",
-      "Tuesday": "7:30 am - 9:00 pm",
-      "Wednesday": "7:30 am - 9:00 pm",
-      "Thursday": "7:30 am - 9:00 pm",
-      "Friday": "7:30 am - 9:00 pm",
-      "Saturday": "7:30 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/ritchies-iga-bateau-bay/",
     "name": "Ritchies IGA Bateau Bay",
     "address_line_1": "Cresthaven Shopping Centre",
@@ -22100,24 +19742,6 @@
       "Thursday": "7:00 am - 8:00 pm",
       "Friday": "7:00 am - 8:00 pm",
       "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/ritchies-iga-dromana/",
-    "name": "Ritchies IGA Dromana",
-    "address_line_1": "Point Nepean Road",
-    "address_line_2": "Dromana, 3936, VIC",
-    "phone": "(03) 5987 2766",
-    "directions_url": "https://maps.google.com/maps?cid=16321177775240293358",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
     },
     "services": []
   },
@@ -22482,24 +20106,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/ritchies-iga-miners-rest/",
-    "name": "Ritchies IGA Miners Rest",
-    "address_line_1": "181-183 Howe Street",
-    "address_line_2": "Miners Rest, 3352, VIC",
-    "phone": "03 5334 9380",
-    "directions_url": "https://maps.google.com/maps?cid=3659807528408147095",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/ritchies-iga-mt-eliza/",
     "name": "Ritchies IGA Mt Eliza",
     "address_line_1": "89 Mount Eliza Way",
@@ -22514,24 +20120,6 @@
       "Thursday": "7:00 am - 10:00 pm",
       "Friday": "7:00 am - 10:00 pm",
       "Saturday": "7:00 am - 10:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/ritchies-iga-mt-martha/",
-    "name": "Ritchies IGA Mt Martha",
-    "address_line_1": "8-16 Lochiel Avenue",
-    "address_line_2": "Mount Martha, 3934, VIC",
-    "phone": "(03) 5974 2525",
-    "directions_url": "https://maps.google.com/maps?cid=18377193237460462307",
-    "hours": {
-      "Sunday": "8:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
     },
     "services": []
   },
@@ -22838,24 +20426,6 @@
       "Thursday": "7:00 am - 8:00 pm",
       "Friday": "7:00 am - 8:00 pm",
       "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/ritchies-iga-somerville/",
-    "name": "Ritchies IGA Somerville",
-    "address_line_1": "2 Eramosa Road West",
-    "address_line_2": "Somerville, 3912, VIC",
-    "phone": "(03) 5977 5260",
-    "directions_url": "https://maps.google.com/maps?cid=9099980983481982943",
-    "hours": {
-      "Sunday": "9:00 am - 8:00 pm",
-      "Monday": "8:00 am - 8:00 pm",
-      "Tuesday": "8:00 am - 8:00 pm",
-      "Wednesday": "8:00 am - 8:00 pm",
-      "Thursday": "8:00 am - 8:00 pm",
-      "Friday": "8:00 am - 8:00 pm",
-      "Saturday": "8:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -23670,42 +21240,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/scarvacis-iga-hamilton-hill/",
-    "name": "Scarvaci's IGA Hamilton Hill",
-    "address_line_1": "5/51-57 Rockingham Road",
-    "address_line_2": "Hamilton Hill, 6163, WA",
-    "phone": "(08) 6219 0222",
-    "directions_url": "https://maps.google.com/maps?cid=3525701947400546098",
-    "hours": {
-      "Sunday": "7:30 am - 7:30 pm",
-      "Monday": "7:30 am - 7:30 pm",
-      "Tuesday": "7:30 am - 7:30 pm",
-      "Wednesday": "7:30 am - 7:30 pm",
-      "Thursday": "7:30 am - 7:30 pm",
-      "Friday": "7:30 am - 7:30 pm",
-      "Saturday": "7:30 am - 7:30 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/seacliff-iga/",
-    "name": "Seacliff IGA",
-    "address_line_1": "675 Brighton Road",
-    "address_line_2": "Seacliff, 5049, SA",
-    "phone": "(08) 8296 3774",
-    "directions_url": "https://maps.google.com/maps?cid=24357562174440878",
-    "hours": {
-      "Sunday": "7:00 am - 10:00 pm",
-      "Monday": "7:00 am - 10:00 pm",
-      "Tuesday": "7:00 am - 10:00 pm",
-      "Wednesday": "7:00 am - 10:00 pm",
-      "Thursday": "7:00 am - 10:00 pm",
-      "Friday": "7:00 am - 10:00 pm",
-      "Saturday": "7:00 am - 10:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/seaford-iga-x-press/",
     "name": "Seaford IGA X-press",
     "address_line_1": "127-129 Nepean Hwy",
@@ -23760,24 +21294,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/seasons-iga-cooroy/",
-    "name": "Seasons IGA Cooroy",
-    "address_line_1": "3 Emerald Street",
-    "address_line_2": "Cooroy, 4563, QLD",
-    "phone": "07  5447 6061",
-    "directions_url": "https://maps.google.com/maps?cid=14918049744244979289",
-    "hours": {
-      "Sunday": "9:00 am - 6:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "7:00 am - 7:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/seasons-iga-east-brisbane/",
     "name": "Seasons IGA East Brisbane",
     "address_line_1": "33 Lytton Road",
@@ -23810,24 +21326,6 @@
       "Thursday": "7:00 am - 8:00 pm",
       "Friday": "7:00 am - 8:00 pm",
       "Saturday": "7:00 am - 8:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/seasons-iga-maleny/",
-    "name": "Seasons IGA Maleny",
-    "address_line_1": "26 Maple Street",
-    "address_line_2": "Maleny, 4552, QLD",
-    "phone": "(07) 5494 2257",
-    "directions_url": "https://maps.google.com/maps?cid=15319359141395646074",
-    "hours": {
-      "Sunday": "6:00 am - 8:00 pm",
-      "Monday": "6:00 am - 8:00 pm",
-      "Tuesday": "6:00 am - 8:00 pm",
-      "Wednesday": "6:00 am - 8:00 pm",
-      "Thursday": "6:00 am - 8:00 pm",
-      "Friday": "6:00 am - 8:00 pm",
-      "Saturday": "6:00 am - 8:00 pm"
     },
     "services": []
   },
@@ -24080,24 +21578,6 @@
       "Thursday": "6:00 am - 9:30 pm",
       "Friday": "6:00 am - 9:30 pm",
       "Saturday": "6:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/spanos-supa-iga-ashmore/",
-    "name": "Spano's SUPA IGA Ashmore",
-    "address_line_1": "458 Olsen Avenue",
-    "address_line_2": "Ashmore, 4214, QLD",
-    "phone": "(07) 5597 6407",
-    "directions_url": "https://maps.google.com/maps?cid=2245041789477313753",
-    "hours": {
-      "Sunday": "5:00 am - 10:00 pm",
-      "Monday": "5:00 am - 10:00 pm",
-      "Tuesday": "5:00 am - 10:00 pm",
-      "Wednesday": "5:00 am - 10:00 pm",
-      "Thursday": "5:00 am - 10:00 pm",
-      "Friday": "5:00 am - 10:00 pm",
-      "Saturday": "5:00 am - 10:00 pm"
     },
     "services": []
   },
@@ -24498,24 +21978,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/supa-iga-riverside/",
-    "name": "SUPA IGA Riverside",
-    "address_line_1": "228-244 Riverside Blvd",
-    "address_line_2": "Douglas, 4814, QLD",
-    "phone": "(07) 4728 2188",
-    "directions_url": "https://maps.google.com/maps?cid=17855880785127970316",
-    "hours": {
-      "Sunday": "6:00 am - 10:00 pm",
-      "Monday": "6:00 am - 10:00 pm",
-      "Tuesday": "6:00 am - 10:00 pm",
-      "Wednesday": "6:00 am - 10:00 pm",
-      "Thursday": "6:00 am - 10:00 pm",
-      "Friday": "6:00 am - 10:00 pm",
-      "Saturday": "6:00 am - 10:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/supa-iga-shearwater/",
     "name": "SUPA IGA Shearwater",
     "address_line_1": "30 Boulevard St",
@@ -24768,24 +22230,6 @@
     "services": []
   },
   {
-    "url": "https://www.iga.com.au/stores/terang-co-op-iga-plus-liquor/",
-    "name": "Terang Co-Op IGA Plus Liquor",
-    "address_line_1": "30-38 High St",
-    "address_line_2": "Terang, 3264, VIC",
-    "phone": "03  5592 1555",
-    "directions_url": "https://maps.google.com/maps?cid=17397625650292060841",
-    "hours": {
-      "Sunday": "8:00 am - 6:00 pm",
-      "Monday": "7:00 am - 7:00 pm",
-      "Tuesday": "7:00 am - 7:00 pm",
-      "Wednesday": "7:00 am - 7:00 pm",
-      "Thursday": "7:00 am - 7:00 pm",
-      "Friday": "7:00 am - 7:00 pm",
-      "Saturday": "8:00 am - 6:00 pm"
-    },
-    "services": []
-  },
-  {
     "url": "https://www.iga.com.au/stores/the-boulevard-iga/",
     "name": "The Boulevard IGA",
     "address_line_1": "31 Gayton Rd",
@@ -24800,24 +22244,6 @@
       "Thursday": "0:00 am - 11:59 pm",
       "Friday": "0:00 am - 11:59 pm",
       "Saturday": "0:00 am - 11:59 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/the-downs-iga/",
-    "name": "The Downs IGA",
-    "address_line_1": "The Downs Shopping Centre, 3 Bournemouth Crescent",
-    "address_line_2": "Wembley Downs, 6019, WA",
-    "phone": "(08) 9341 6093",
-    "directions_url": "https://maps.google.com/maps?cid=7142445641278085014",
-    "hours": {
-      "Sunday": "7:00 am - 9:00 pm",
-      "Monday": "7:00 am - 9:00 pm",
-      "Tuesday": "7:00 am - 9:00 pm",
-      "Wednesday": "7:00 am - 9:00 pm",
-      "Thursday": "7:00 am - 9:00 pm",
-      "Friday": "7:00 am - 9:00 pm",
-      "Saturday": "7:00 am - 9:00 pm"
     },
     "services": []
   },
@@ -25196,24 +22622,6 @@
       "Thursday": "7:00 am - 9:00 pm",
       "Friday": "7:00 am - 9:00 pm",
       "Saturday": "7:00 am - 9:00 pm"
-    },
-    "services": []
-  },
-  {
-    "url": "https://www.iga.com.au/stores/vicsfresh-iga-riverstone/",
-    "name": "Vicsfresh IGA Riverstone",
-    "address_line_1": "Shop 1/3 Market St",
-    "address_line_2": "Riverstone, 2765, NSW",
-    "phone": "(02) 9652 5052",
-    "directions_url": "https://maps.google.com/maps?cid=15923677747830685590",
-    "hours": {
-      "Sunday": "7:30 am - 8:00 pm",
-      "Monday": "7:30 am - 8:00 pm",
-      "Tuesday": "7:30 am - 8:00 pm",
-      "Wednesday": "7:30 am - 8:00 pm",
-      "Thursday": "7:30 am - 8:00 pm",
-      "Friday": "7:30 am - 8:00 pm",
-      "Saturday": "7:30 am - 8:00 pm"
     },
     "services": []
   },
