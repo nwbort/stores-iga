@@ -4519,19 +4519,19 @@
   },
   {
     "url": "https://www.iga.com.au/stores/iga-colac-east/",
-    "name": "IGA Colac East",
+    "name": "IGA Local Grocer Colac East",
     "address_line_1": "62-66 Murray Street East",
     "address_line_2": "Colac, 3250, VIC",
     "phone": "(03) 5231 2757",
     "directions_url": "https://maps.google.com/maps?cid=16138110367457122710",
     "hours": {
-      "Sunday": "6:00 am - 8:00 pm",
-      "Monday": "5:00 am - 8:00 pm",
-      "Tuesday": "5:00 am - 8:00 pm",
-      "Wednesday": "5:00 am - 8:00 pm",
-      "Thursday": "5:00 am - 8:00 pm",
-      "Friday": "5:00 am - 8:00 pm",
-      "Saturday": "6:00 am - 8:00 pm"
+      "Sunday": "6:00 am - 10:00 pm",
+      "Monday": "5:00 am - 10:00 pm",
+      "Tuesday": "5:00 am - 10:00 pm",
+      "Wednesday": "5:00 am - 10:00 pm",
+      "Thursday": "5:00 am - 10:00 pm",
+      "Friday": "5:00 am - 10:00 pm",
+      "Saturday": "6:00 am - 10:00 pm"
     },
     "services": []
   },
@@ -20492,12 +20492,12 @@
     "directions_url": "https://maps.google.com/maps?cid=98154241729298314",
     "hours": {
       "Sunday": "8:00 am - 8:00 pm",
-      "Monday": "7:30 am - 8:00 pm",
-      "Tuesday": "7:30 am - 8:00 pm",
-      "Wednesday": "7:30 am - 8:00 pm",
-      "Thursday": "7:30 am - 8:00 pm",
-      "Friday": "7:30 am - 9:00 pm",
-      "Saturday": "7:30 am - 8:00 pm"
+      "Monday": "7:00 am - 8:00 pm",
+      "Tuesday": "7:00 am - 8:00 pm",
+      "Wednesday": "7:00 am - 8:00 pm",
+      "Thursday": "7:00 am - 8:00 pm",
+      "Friday": "7:00 am - 9:00 pm",
+      "Saturday": "7:00 am - 8:00 pm"
     },
     "services": []
   },
